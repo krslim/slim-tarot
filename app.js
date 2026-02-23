@@ -46,7 +46,8 @@ async function deal() {
     const el = document.createElement('div');
     el.className = 'card from-deck';
     el.dataset.cardId = card.id;
-    el.dataset.front = card.img;
+    el.dataset.thumb = card.imgThumb;
+    el.dataset.full = card.imgFull;
 
     // slight rotation for a more "table" feel (doesn't break grid)
     // Adjust this value to taste.
@@ -106,7 +107,7 @@ function ensureFrontLoaded(cardEl) {
   img.loading = 'lazy';
   img.decoding = 'async';
   img.alt = '';
-  img.src = cardEl.dataset.front;
+  img.src = cardEl.dataset.thumb;
   front.appendChild(img);
 }
 
@@ -130,7 +131,7 @@ function openModal(cardId, orientation) {
 
   const meaning = card.meanings?.[orientation];
 
-  modalImg.src = card.img;
+  modalImg.src = card.imgFull;
   modalImg.alt = card.name;
   if (orientation === 'reversed') {
     modalImg.style.transform = 'rotate(180deg)';
@@ -198,6 +199,13 @@ window.addEventListener('resize', () => {
 });
 
 dealBtn.addEventListener('click', () => deal());
+
+// Service worker (optional, improves caching on GitHub Pages)
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js').catch(() => {});
+  });
+}
 
 // First load: empty table (forces intentional deal)
 clearTable();

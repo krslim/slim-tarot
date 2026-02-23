@@ -8,7 +8,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 0,
-    "img": "./images/rws/RWS_Tarot_00_Fool.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_00_Fool.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_00_Fool.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Beginnings, openness, a leap of faith",
@@ -32,7 +33,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 1,
-    "img": "./images/rws/RWS_Tarot_01_Magician.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_01_Magician.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_01_Magician.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Focus, skill, making something real",
@@ -56,7 +58,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 2,
-    "img": "./images/rws/RWS_Tarot_02_High_Priestess.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_02_High_Priestess.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_02_High_Priestess.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Intuition, inner knowing, quiet depth",
@@ -80,7 +83,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 3,
-    "img": "./images/rws/RWS_Tarot_03_Empress.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_03_Empress.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_03_Empress.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Nurturing, creativity, abundance, receiving",
@@ -104,7 +108,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 4,
-    "img": "./images/rws/RWS_Tarot_04_Emperor.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_04_Emperor.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_04_Emperor.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Structure, protection, leadership, order",
@@ -128,7 +133,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 5,
-    "img": "./images/rws/RWS_Tarot_05_Hierophant.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_05_Hierophant.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_05_Hierophant.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Tradition, teaching, shared values, commitment",
@@ -152,7 +158,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 6,
-    "img": "./images/rws/RWS_Tarot_06_Lovers.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_06_Lovers.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_06_Lovers.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Union, choice, alignment of values",
@@ -176,7 +183,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 7,
-    "img": "./images/rws/RWS_Tarot_07_Chariot.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_07_Chariot.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_07_Chariot.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Drive, discipline, victory through focus",
@@ -200,7 +208,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 8,
-    "img": "./images/rws/RWS_Tarot_08_Strength.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_08_Strength.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_08_Strength.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Courage, compassion, steady inner power",
@@ -224,7 +233,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 9,
-    "img": "./images/rws/RWS_Tarot_09_Hermit.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_09_Hermit.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_09_Hermit.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Solitude, wisdom, inner guidance",
@@ -248,7 +258,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 10,
-    "img": "./images/rws/RWS_Tarot_10_Wheel_of_Fortune.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_10_Wheel_of_Fortune.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_10_Wheel_of_Fortune.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Cycles, luck, turning points, change",
@@ -272,7 +283,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 11,
-    "img": "./images/rws/RWS_Tarot_11_Justice.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_11_Justice.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_11_Justice.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Truth, balance, accountability, fairness",
@@ -296,7 +308,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 12,
-    "img": "./images/rws/RWS_Tarot_12_Hanged_Man.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_12_Hanged_Man.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_12_Hanged_Man.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Pause, surrender, new perspective",
@@ -320,7 +333,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 13,
-    "img": "./images/rws/RWS_Tarot_13_Death.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_13_Death.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_13_Death.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Endings, transformation, clearing space",
@@ -344,7 +358,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 14,
-    "img": "./images/rws/RWS_Tarot_14_Temperance.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_14_Temperance.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_14_Temperance.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Balance, integration, patience, healing",
@@ -368,7 +383,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 15,
-    "img": "./images/rws/RWS_Tarot_15_Devil.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_15_Devil.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_15_Devil.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Attachment, temptation, shadow, power dynamics",
@@ -392,7 +408,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 16,
-    "img": "./images/rws/RWS_Tarot_16_Tower.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_16_Tower.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_16_Tower.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Sudden change, truth revealed, disruption",
@@ -416,7 +433,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 17,
-    "img": "./images/rws/RWS_Tarot_17_Star.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_17_Star.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_17_Star.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Hope, renewal, guidance, calm faith",
@@ -440,7 +458,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 18,
-    "img": "./images/rws/RWS_Tarot_18_Moon.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_18_Moon.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_18_Moon.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Uncertainty, dreams, intuition, shadows",
@@ -464,7 +483,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 19,
-    "img": "./images/rws/RWS_Tarot_19_Sun.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_19_Sun.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_19_Sun.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Joy, clarity, success, vitality",
@@ -488,7 +508,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 20,
-    "img": "./images/rws/RWS_Tarot_20_Judgement.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_20_Judgement.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_20_Judgement.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Awakening, calling, renewal, accountability",
@@ -512,7 +533,8 @@ export const DECK = [
     "arcana": "major",
     "suit": null,
     "number": 21,
-    "img": "./images/rws/RWS_Tarot_21_World.jpg",
+    "imgThumb": "./images/rws-thumb/RWS_Tarot_21_World.jpg",
+    "imgFull": "./images/rws/RWS_Tarot_21_World.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Completion, integration, mastery, wholeness",
@@ -536,7 +558,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 1,
-    "img": "./images/rws/Cups01.jpg",
+    "imgThumb": "./images/rws-thumb/Cups01.jpg",
+    "imgFull": "./images/rws/Cups01.jpg",
     "meanings": {
       "upright": {
         "subtitle": "New feelings, an open heart, emotional renewal",
@@ -560,7 +583,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 2,
-    "img": "./images/rws/Cups02.jpg",
+    "imgThumb": "./images/rws-thumb/Cups02.jpg",
+    "imgFull": "./images/rws/Cups02.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Mutual attraction, partnership, balanced exchange",
@@ -584,7 +608,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 3,
-    "img": "./images/rws/Cups03.jpg",
+    "imgThumb": "./images/rws-thumb/Cups03.jpg",
+    "imgFull": "./images/rws/Cups03.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Celebration, friendship, shared joy",
@@ -608,7 +633,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 4,
-    "img": "./images/rws/Cups04.jpg",
+    "imgThumb": "./images/rws-thumb/Cups04.jpg",
+    "imgFull": "./images/rws/Cups04.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Apathy, contemplation, reassessing desire",
@@ -632,7 +658,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 5,
-    "img": "./images/rws/Cups05.jpg",
+    "imgThumb": "./images/rws-thumb/Cups05.jpg",
+    "imgFull": "./images/rws/Cups05.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Grief, disappointment, focusing on what is lost",
@@ -656,7 +683,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 6,
-    "img": "./images/rws/Cups06.jpg",
+    "imgThumb": "./images/rws-thumb/Cups06.jpg",
+    "imgFull": "./images/rws/Cups06.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Nostalgia, innocence, kindness, the past returning",
@@ -680,7 +708,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 7,
-    "img": "./images/rws/Cups07.jpg",
+    "imgThumb": "./images/rws-thumb/Cups07.jpg",
+    "imgFull": "./images/rws/Cups07.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Many options, fantasy, desire, distraction",
@@ -704,7 +733,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 8,
-    "img": "./images/rws/Cups08.jpg",
+    "imgThumb": "./images/rws-thumb/Cups08.jpg",
+    "imgFull": "./images/rws/Cups08.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Walking away, seeking deeper meaning, letting go",
@@ -728,7 +758,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 9,
-    "img": "./images/rws/Cups09.jpg",
+    "imgThumb": "./images/rws-thumb/Cups09.jpg",
+    "imgFull": "./images/rws/Cups09.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Satisfaction, pleasure, wishes, emotional comfort",
@@ -752,7 +783,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 10,
-    "img": "./images/rws/Cups10.jpg",
+    "imgThumb": "./images/rws-thumb/Cups10.jpg",
+    "imgFull": "./images/rws/Cups10.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Emotional fulfilment, home, harmony, belonging",
@@ -776,7 +808,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 11,
-    "img": "./images/rws/Cups11.jpg",
+    "imgThumb": "./images/rws-thumb/Cups11.jpg",
+    "imgFull": "./images/rws/Cups11.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Emotional openness, messages, creative curiosity",
@@ -800,7 +833,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 12,
-    "img": "./images/rws/Cups12.jpg",
+    "imgThumb": "./images/rws-thumb/Cups12.jpg",
+    "imgFull": "./images/rws/Cups12.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Romance, idealism, heartfelt pursuit, invitation",
@@ -824,7 +858,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 13,
-    "img": "./images/rws/Cups13.jpg",
+    "imgThumb": "./images/rws-thumb/Cups13.jpg",
+    "imgFull": "./images/rws/Cups13.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Empathy, intuition, emotional wisdom, care",
@@ -848,7 +883,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "cups",
     "number": 14,
-    "img": "./images/rws/Cups14.jpg",
+    "imgThumb": "./images/rws-thumb/Cups14.jpg",
+    "imgFull": "./images/rws/Cups14.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Emotional leadership, calm strength, mature love",
@@ -872,7 +908,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 1,
-    "img": "./images/rws/Pents01.jpg",
+    "imgThumb": "./images/rws-thumb/Pents01.jpg",
+    "imgFull": "./images/rws/Pents01.jpg",
     "meanings": {
       "upright": {
         "subtitle": "A new opportunity, resources, real-world potential",
@@ -896,7 +933,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 2,
-    "img": "./images/rws/Pents02.jpg",
+    "imgThumb": "./images/rws-thumb/Pents02.jpg",
+    "imgFull": "./images/rws/Pents02.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Balance, juggling priorities, adaptability",
@@ -920,7 +958,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 3,
-    "img": "./images/rws/Pents03.jpg",
+    "imgThumb": "./images/rws-thumb/Pents03.jpg",
+    "imgFull": "./images/rws/Pents03.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Craft, teamwork, learning, building quality",
@@ -944,7 +983,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 4,
-    "img": "./images/rws/Pents04.jpg",
+    "imgThumb": "./images/rws-thumb/Pents04.jpg",
+    "imgFull": "./images/rws/Pents04.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Holding on, security, boundaries, conserving resources",
@@ -968,7 +1008,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 5,
-    "img": "./images/rws/Pents05.jpg",
+    "imgThumb": "./images/rws-thumb/Pents05.jpg",
+    "imgFull": "./images/rws/Pents05.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Hardship, exclusion, worry, asking for help",
@@ -992,7 +1033,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 6,
-    "img": "./images/rws/Pents06.jpg",
+    "imgThumb": "./images/rws-thumb/Pents06.jpg",
+    "imgFull": "./images/rws/Pents06.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Giving and receiving, fairness, generosity, support",
@@ -1016,7 +1058,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 7,
-    "img": "./images/rws/Pents07.jpg",
+    "imgThumb": "./images/rws-thumb/Pents07.jpg",
+    "imgFull": "./images/rws/Pents07.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Patience, assessment, long-term growth, tending the garden",
@@ -1040,7 +1083,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 8,
-    "img": "./images/rws/Pents08.jpg",
+    "imgThumb": "./images/rws-thumb/Pents08.jpg",
+    "imgFull": "./images/rws/Pents08.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Skill-building, diligence, craftsmanship, repetition",
@@ -1064,7 +1108,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 9,
-    "img": "./images/rws/Pents09.jpg",
+    "imgThumb": "./images/rws-thumb/Pents09.jpg",
+    "imgFull": "./images/rws/Pents09.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Independence, self-sufficiency, comfort, earned rewards",
@@ -1088,7 +1133,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 10,
-    "img": "./images/rws/Pents10.jpg",
+    "imgThumb": "./images/rws-thumb/Pents10.jpg",
+    "imgFull": "./images/rws/Pents10.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Legacy, wealth, family, long-term security",
@@ -1112,7 +1158,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 11,
-    "img": "./images/rws/Pents11.jpg",
+    "imgThumb": "./images/rws-thumb/Pents11.jpg",
+    "imgFull": "./images/rws/Pents11.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Study, practical goals, new work, steady growth",
@@ -1136,7 +1183,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 12,
-    "img": "./images/rws/Pents12.jpg",
+    "imgThumb": "./images/rws-thumb/Pents12.jpg",
+    "imgFull": "./images/rws/Pents12.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Consistency, reliability, slow progress, responsibility",
@@ -1160,7 +1208,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 13,
-    "img": "./images/rws/Pents13.jpg",
+    "imgThumb": "./images/rws-thumb/Pents13.jpg",
+    "imgFull": "./images/rws/Pents13.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Nurturing through practicality, home, comfort, stewardship",
@@ -1184,7 +1233,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "pentacles",
     "number": 14,
-    "img": "./images/rws/Pents14.jpg",
+    "imgThumb": "./images/rws-thumb/Pents14.jpg",
+    "imgFull": "./images/rws/Pents14.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Prosperity, stability, leadership, long-term success",
@@ -1208,7 +1258,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 1,
-    "img": "./images/rws/Swords01.jpg",
+    "imgThumb": "./images/rws-thumb/Swords01.jpg",
+    "imgFull": "./images/rws/Swords01.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Clarity, truth, a decisive breakthrough",
@@ -1232,7 +1283,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 2,
-    "img": "./images/rws/Swords02.jpg",
+    "imgThumb": "./images/rws-thumb/Swords02.jpg",
+    "imgFull": "./images/rws/Swords02.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Indecision, a pause, protecting the heart",
@@ -1256,7 +1308,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 3,
-    "img": "./images/rws/Swords03.jpg",
+    "imgThumb": "./images/rws-thumb/Swords03.jpg",
+    "imgFull": "./images/rws/Swords03.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Heartbreak, grief, painful truth",
@@ -1280,7 +1333,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 4,
-    "img": "./images/rws/Swords04.jpg",
+    "imgThumb": "./images/rws-thumb/Swords04.jpg",
+    "imgFull": "./images/rws/Swords04.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Rest, recovery, quiet, mental reset",
@@ -1304,7 +1358,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 5,
-    "img": "./images/rws/Swords05.jpg",
+    "imgThumb": "./images/rws-thumb/Swords05.jpg",
+    "imgFull": "./images/rws/Swords05.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Conflict, winning at a cost, tension",
@@ -1328,7 +1383,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 6,
-    "img": "./images/rws/Swords06.jpg",
+    "imgThumb": "./images/rws-thumb/Swords06.jpg",
+    "imgFull": "./images/rws/Swords06.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Transition, moving on, calmer waters",
@@ -1352,7 +1408,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 7,
-    "img": "./images/rws/Swords07.jpg",
+    "imgThumb": "./images/rws-thumb/Swords07.jpg",
+    "imgFull": "./images/rws/Swords07.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Strategy, secrecy, independence, slippery truths",
@@ -1376,7 +1433,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 8,
-    "img": "./images/rws/Swords08.jpg",
+    "imgThumb": "./images/rws-thumb/Swords08.jpg",
+    "imgFull": "./images/rws/Swords08.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Feeling trapped, anxiety, limiting beliefs",
@@ -1400,7 +1458,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 9,
-    "img": "./images/rws/Swords09.jpg",
+    "imgThumb": "./images/rws-thumb/Swords09.jpg",
+    "imgFull": "./images/rws/Swords09.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Worry, insomnia, guilt, mental spirals",
@@ -1424,7 +1483,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 10,
-    "img": "./images/rws/Swords10.jpg",
+    "imgThumb": "./images/rws-thumb/Swords10.jpg",
+    "imgFull": "./images/rws/Swords10.jpg",
     "meanings": {
       "upright": {
         "subtitle": "An ending, exhaustion, finality, release",
@@ -1448,7 +1508,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 11,
-    "img": "./images/rws/Swords11.jpg",
+    "imgThumb": "./images/rws-thumb/Swords11.jpg",
+    "imgFull": "./images/rws/Swords11.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Curiosity, vigilance, truth-seeking, learning",
@@ -1472,7 +1533,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 12,
-    "img": "./images/rws/Swords12.jpg",
+    "imgThumb": "./images/rws-thumb/Swords12.jpg",
+    "imgFull": "./images/rws/Swords12.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Momentum, direct action, ambition, intensity",
@@ -1496,7 +1558,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 13,
-    "img": "./images/rws/Swords13.jpg",
+    "imgThumb": "./images/rws-thumb/Swords13.jpg",
+    "imgFull": "./images/rws/Swords13.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Clear boundaries, truth, discernment, independence",
@@ -1520,7 +1583,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "swords",
     "number": 14,
-    "img": "./images/rws/Swords14.jpg",
+    "imgThumb": "./images/rws-thumb/Swords14.jpg",
+    "imgFull": "./images/rws/Swords14.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Authority, logic, fairness, strategic leadership",
@@ -1544,7 +1608,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 1,
-    "img": "./images/rws/Wands01.jpg",
+    "imgThumb": "./images/rws-thumb/Wands01.jpg",
+    "imgFull": "./images/rws/Wands01.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Inspiration, new energy, a spark worth pursuing",
@@ -1568,7 +1633,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 2,
-    "img": "./images/rws/Wands02.jpg",
+    "imgThumb": "./images/rws-thumb/Wands02.jpg",
+    "imgFull": "./images/rws/Wands02.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Planning, vision, choosing the next horizon",
@@ -1592,7 +1658,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 3,
-    "img": "./images/rws/Wands03.jpg",
+    "imgThumb": "./images/rws-thumb/Wands03.jpg",
+    "imgFull": "./images/rws/Wands03.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Momentum, expansion, results coming in",
@@ -1616,7 +1683,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 4,
-    "img": "./images/rws/Wands04.jpg",
+    "imgThumb": "./images/rws-thumb/Wands04.jpg",
+    "imgFull": "./images/rws/Wands04.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Celebration, home, stability, milestones",
@@ -1640,7 +1708,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 5,
-    "img": "./images/rws/Wands05.jpg",
+    "imgThumb": "./images/rws-thumb/Wands05.jpg",
+    "imgFull": "./images/rws/Wands05.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Competition, friction, creative tension",
@@ -1664,7 +1733,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 6,
-    "img": "./images/rws/Wands06.jpg",
+    "imgThumb": "./images/rws-thumb/Wands06.jpg",
+    "imgFull": "./images/rws/Wands06.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Victory, recognition, confidence, being seen",
@@ -1688,7 +1758,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 7,
-    "img": "./images/rws/Wands07.jpg",
+    "imgThumb": "./images/rws-thumb/Wands07.jpg",
+    "imgFull": "./images/rws/Wands07.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Defending your position, courage, standing firm",
@@ -1712,7 +1783,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 8,
-    "img": "./images/rws/Wands08.jpg",
+    "imgThumb": "./images/rws-thumb/Wands08.jpg",
+    "imgFull": "./images/rws/Wands08.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Speed, messages, momentum, things moving fast",
@@ -1736,7 +1808,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 9,
-    "img": "./images/rws/Tarot_Nine_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Tarot_Nine_of_Wands.jpg",
+    "imgFull": "./images/rws/Tarot_Nine_of_Wands.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Resilience, persistence, last stretch, guarded strength",
@@ -1760,7 +1833,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 10,
-    "img": "./images/rws/Wands10.jpg",
+    "imgThumb": "./images/rws-thumb/Wands10.jpg",
+    "imgFull": "./images/rws/Wands10.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Burden, responsibility, carrying too much",
@@ -1784,7 +1858,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 11,
-    "img": "./images/rws/Wands11.jpg",
+    "imgThumb": "./images/rws-thumb/Wands11.jpg",
+    "imgFull": "./images/rws/Wands11.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Exploration, enthusiasm, new ideas, daring beginnings",
@@ -1808,7 +1883,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 12,
-    "img": "./images/rws/Wands12.jpg",
+    "imgThumb": "./images/rws-thumb/Wands12.jpg",
+    "imgFull": "./images/rws/Wands12.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Bold action, adventure, passion, movement",
@@ -1832,7 +1908,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 13,
-    "img": "./images/rws/Wands13.jpg",
+    "imgThumb": "./images/rws-thumb/Wands13.jpg",
+    "imgFull": "./images/rws/Wands13.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Confidence, charisma, creativity, warmth",
@@ -1856,7 +1933,8 @@ export const DECK = [
     "arcana": "minor",
     "suit": "wands",
     "number": 14,
-    "img": "./images/rws/Wands14.jpg",
+    "imgThumb": "./images/rws-thumb/Wands14.jpg",
+    "imgFull": "./images/rws/Wands14.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Visionary leadership, courage, big-picture mastery",

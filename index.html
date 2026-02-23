@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Tarot (Prototype)</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="left">
+      <h1>Tarot</h1>
+      <p class="sub">Deal the deck, then click a card to flip it. Click again for details.</p>
+    </div>
+
+    <div class="controls">
+      <button id="dealBtn" class="btn primary">Deal the cards</button>
+      <label class="toggle">
+        <input id="allowReversed" type="checkbox" checked />
+        <span>Allow reversals (50/50)</span>
+      </label>
+    </div>
+  </header>
+
+  <main>
+    <section id="table" class="table" aria-label="Tarot table"></section>
+  </main>
+
+  <dialog id="modal" class="modal">
+    <form method="dialog" class="modal__frame">
+      <button class="modal__close" value="close" aria-label="Close">×</button>
+      <div class="modal__content">
+        <div class="modal__imageWrap">
+          <img id="modalImg" alt="" />
+        </div>
+        <div class="modal__text">
+          <h2 id="modalTitle"></h2>
+          <p id="modalSubtitle" class="muted"></p>
+
+          <div class="meaning">
+            <h3>General meaning</h3>
+            <p id="mGeneral"></p>
+
+            <h3>Love & relationships</h3>
+            <p id="mLove"></p>
+
+            <h3>Money & career</h3>
+            <p id="mCareer"></p>
+
+            <h3>Health & spirituality</h3>
+            <p id="mHealth"></p>
+          </div>
+        </div>
+      </div>
+    </form>
+  </dialog>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

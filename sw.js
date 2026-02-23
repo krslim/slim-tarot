@@ -8,7 +8,7 @@ Goals:
 This is intentionally simple (no build step).
 */
 
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CORE_CACHE = `core-${VERSION}`;
 const IMG_CACHE = `img-${VERSION}`;
 

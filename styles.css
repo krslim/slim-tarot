@@ -154,6 +154,7 @@ h1{ margin:0; font-size:20px; letter-spacing:0.2px; }
   border-radius: 18px;
   overflow:hidden;
   position:relative;
+  color: var(--text); /* dialog elements don't always inherit body color */
 }
 
 .modal__close{
@@ -168,6 +169,7 @@ h1{ margin:0; font-size:20px; letter-spacing:0.2px; }
   color:var(--text);
   font-size:22px;
   cursor:pointer;
+  z-index: 10; /* ensure it stays above the card image on mobile */
 }
 
 .modal__content{
@@ -175,6 +177,11 @@ h1{ margin:0; font-size:20px; letter-spacing:0.2px; }
   grid-template-columns: 320px 1fr;
   gap: 16px;
   padding: 18px;
+}
+
+.modal__text h2{
+  margin: 0 0 6px;
+  color: var(--text);
 }
 
 .modal__imageWrap img{
@@ -190,5 +197,11 @@ h1{ margin:0; font-size:20px; letter-spacing:0.2px; }
 
 @media (max-width: 860px){
   :root{ --card-w: 46px; }
-  .modal__content{ grid-template-columns: 1fr; }
+
+  .modal__content{
+    grid-template-columns: 1fr;
+    padding: 64px 18px 18px; /* room for the X button */
+  }
+
+  .modal__imageWrap{ margin-top: 4px; }
 }

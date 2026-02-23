@@ -200,11 +200,12 @@ window.addEventListener('resize', () => {
 
 dealBtn.addEventListener('click', () => deal());
 
-// Service worker (optional, improves caching on GitHub Pages)
+// Service worker cleanup: this project no longer uses a SW.
+// Keeps deployed sites from behaving oddly due to cached SW responses.
 if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js').catch(() => {});
-  });
+  navigator.serviceWorker.getRegistrations()
+    .then((regs) => Promise.all(regs.map((r) => r.unregister())))
+    .catch(() => {});
 }
 
 // First load: empty table (forces intentional deal)

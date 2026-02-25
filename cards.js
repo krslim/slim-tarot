@@ -53,7 +53,7 @@ export const DECK = [
     }
   },
   {
-    "id": "major_02_high_priestess",
+    "id": "major_02",
     "name": "The High Priestess",
     "arcana": "major",
     "suit": null,
@@ -78,7 +78,7 @@ export const DECK = [
     }
   },
   {
-    "id": "major_03_empress",
+    "id": "major_03",
     "name": "The Empress",
     "arcana": "major",
     "suit": null,
@@ -103,7 +103,7 @@ export const DECK = [
     }
   },
   {
-    "id": "major_04_emperor",
+    "id": "major_04",
     "name": "The Emperor",
     "arcana": "major",
     "suit": null,
@@ -116,19 +116,19 @@ export const DECK = [
         "general": "The Emperor sits on a stone throne adorned with ram's heads, symbols of Mars and assertive energy. He holds an ankh sceptre in one hand and a globe in the other—power over life and dominion over the material world. Behind him, barren mountains rise; before him, order prevails. The Emperor is card number four: the first card of established structure. Where the Empress nurtures growth, the Emperor builds the framework that allows it to endure. He represents authority, discipline, and the courage to make difficult decisions. This is a time to take responsibility, set boundaries, and lead—yourself first, then others. Structure is not restriction; it's the foundation that allows freedom to flourish.",
         "love": "The Emperor in love is commitment, stability, and clear communication. If you're single, you may be attracted to someone who embodies these qualities—reliable, protective, decisive. Or you're being asked to embody them yourself: be clear about what you want, set healthy boundaries, don't play games. For those in relationships, this card suggests a phase of solidifying—moving in together, engagement, or simply establishing patterns that create security. The Emperor asks: are you showing up consistently? Are you communicating your needs directly? Love thrives on reliability. Be someone your partner can count on. Also ensure warmth accompanies structure—authority without tenderness becomes coldness.",
         "career": "Professionally, the Emperor is one of the strongest cards for leadership, management, and building lasting institutions. This is a time to take charge, make strategic decisions, and establish systems that others can follow. If you're in a position of authority, lead with clarity and fairness. If you're not yet in leadership, demonstrate that you can handle responsibility—meet deadlines, communicate clearly, own your mistakes. This card also favours negotiations, contracts, and long-term planning. Think in years, not weeks. Build something that outlasts you. The Emperor reminds you: authority is earned through competence and integrity, not demanded through force.",
-        "health": "The Emperor governs structure and discipline—excellent for establishing consistent health routines. This is the card of regular sleep schedules, strength training, posture work, and following through on medical advice. If you've been inconsistent with your health, the Emperor asks you to treat it like the responsibility it is. Your body is the foundation of everything you do; care for it accordingly. There's also a warning against rigidity—discipline should serve your wellbeing, not become punishment. Balance structure with flexibility. Spiritually, the Emperor represents grounded faith—beliefs that are lived, not just professed. Practice what you preach. Lead by example.",
+        "health": "The Emperor governs structure and discipline—excellent for establishing consistent health routines. This is the card of regular sleep schedules, strength training, posture work, and following through on medical advice. If you've been inconsistent with your health, the Emperor asks you to treat it like the responsibility it is. Your body is the foundation of everything you do; care for it accordingly. There's also a warning against rigidity—discipline should serve your wellbeing, not become punishment. Balance structure with flexibility. Spiritually, the Emperor represents grounded faith—beliefs that are lived, not just professed. Practice what you preach. Lead by example."
       },
       "reversed": {
         "subtitle": "Domination, rigidity, coldness, lack of discipline, abuse of power",
         "general": "Reversed, the Emperor's structure becomes either too rigid or too weak. You may be controlling—imposing your will on others, refusing to adapt, or using authority to dominate rather than lead. Alternatively, you may lack discipline entirely—avoiding responsibility, making excuses, or refusing to set necessary boundaries. The throne is either a prison or abandoned. Ask yourself: where am I being unnecessarily rigid? Where am I avoiding necessary structure? The Emperor reversed asks you to find balance. Authority without compassion is tyranny; flexibility without boundaries is chaos. Lead yourself with firm kindness. Set limits that protect without punishing.",
         "love": "In relationships, the reversed Emperor can indicate control issues—dictating terms, emotional coldness, or using logic to dismiss feelings (yours or your partner's). There may be power struggles, with neither party willing to yield. Alternatively, you may be dealing with someone who is irresponsible, unreliable, or refuses to commit. If you're single, examine your patterns: are you attracted to controlling partners, or do you become controlling when you feel vulnerable? For those partnered, have honest conversations about power dynamics. Healthy relationships require mutual respect, not domination. If there's any form of abuse—emotional, financial, physical—seek support. You deserve safety.",
         "career": "Career-wise, this reversal warns of micromanagement, bureaucracy, or conflicts with authority. You may be working for someone who is controlling or incompetent, or you may be the one creating problems through rigidity. Re-examine your systems: are they serving the work, or are you serving the systems? If you're in leadership, invite feedback. If you're not, document issues and protect yourself from unreasonable demands. There's also a warning against cutting corners or avoiding responsibility—short-term ease creates long-term problems. Do the work. Meet your commitments. If the environment is toxic, plan your exit strategically. Don't burn bridges; build new ones.",
-        "health": "Reversed, the Emperor can indicate health issues related to stress from overwork, or conversely, complete lack of discipline around health habits. You may be pushing yourself too hard, believing rest is weakness, or you may be avoiding necessary medical care. There's also a warning about using control to manage anxiety—rigid diets, excessive exercise, or obsessive health tracking that becomes its own problem. Find balance. Structure should support your wellbeing, not become another source of stress. If you're struggling with authority figures (including doctors), examine why. Trust is earned, but so is openness. Work with professionals who respect you. You deserve competent care.",
+        "health": "Reversed, the Emperor can indicate health issues related to stress from overwork, or conversely, complete lack of discipline around health habits. You may be pushing yourself too hard, believing rest is weakness, or you may be avoiding necessary medical care. There's also a warning about using control to manage anxiety—rigid diets, excessive exercise, or obsessive health tracking that becomes its own problem. Find balance. Structure should support your wellbeing, not become another source of stress. If you're struggling with authority figures (including doctors), examine why. Trust is earned, but so is openness. Work with professionals who respect you. You deserve competent care."
       }
     }
   },
   {
-    "id": "major_05_hierophant",
+    "id": "major_05",
     "name": "The Hierophant",
     "arcana": "major",
     "suit": null,
@@ -141,7 +141,7 @@ export const DECK = [
         "general": "The Hierophant sits between two pillars, mirroring the High Priestess, but where she guards hidden knowledge, he teaches established wisdom. He wears a triple crown and raises two fingers in blessing; before him, two acolytes kneel in learning. The Hierophant is card number five: the bridge between the divine and the human, the keeper of tradition and sacred knowledge. This card represents established systems—religious, educational, cultural—that have endured because they contain truth. The Hierophant asks you to consider what you believe and why. Are your values truly yours, or inherited without examination? This is a time to learn fundamentals, honour commitments, and find wisdom in tradition—while remembering that rules serve people, not the reverse.",
         "love": "In love, the Hierophant often indicates formalising a relationship—engagement, marriage, or making a public commitment. It can also represent relationships that follow traditional patterns or are blessed by family and community. If you're single, this card suggests you may meet someone through established channels—introductions through friends, religious communities, or shared values. For those partnered, the Hierophant asks: do your values align? Are you building something that honours both of your beliefs about commitment, family, and purpose? This is not a card for casual connections—it seeks meaning, longevity, and shared spiritual ground.",
         "career": "Professionally, the Hierophant favours working within established institutions—corporations, government, education, religious organisations. This is a time to learn from mentors, follow proven methods, and earn credentials that validate your expertise. There's wisdom in doing things 'the proper way' when you're building a foundation. This card also supports teaching, training, and roles that involve passing knowledge to others. If you're considering additional education or certification, the timing is favourable. Remember: tradition provides a foundation, but innovation builds upon it. Learn the rules thoroughly before you break them.",
-        "health": "The Hierophant supports conventional medical approaches—working with qualified professionals, following established treatment protocols, and trusting evidence-based care. This is not the time for experimental treatments or rejecting medical advice in favour of unproven alternatives. If you're struggling with a health issue, seek expert guidance. This card also governs the mind-body connection through established practices—prayer, meditation, community support. You don't have to walk the path alone. Lean on your community. Share your burden. There's strength in shared faith and collective wisdom. Honour your body as sacred—it's the temple you inhabit.",
+        "health": "The Hierophant supports conventional medical approaches—working with qualified professionals, following established treatment protocols, and trusting evidence-based care. This is not the time for experimental treatments or rejecting medical advice in favour of unproven alternatives. If you're struggling with a health issue, seek expert guidance. This card also governs the mind-body connection through established practices—prayer, meditation, community support. You don't have to walk the path alone. Lean on your community. Share your burden. There's strength in shared faith and collective wisdom. Honour your body as sacred—it's the temple you inhabit."
       },
       "reversed": {
         "subtitle": "Rebellion, new approaches, limiting beliefs, challenging authority",
@@ -153,7 +153,7 @@ export const DECK = [
     }
   },
   {
-    "id": "major_06_lovers",
+    "id": "major_06",
     "name": "The Lovers",
     "arcana": "major",
     "suit": null,
@@ -166,7 +166,7 @@ export const DECK = [
         "general": "The Lovers card depicts a man and woman standing beneath an angel, with the Tree of Knowledge and the Tree of Life behind them. The angel is Raphael, healer of God, blessing their union. This is card number six: the first card of conscious choice. The Lovers is not merely about romance—it's about alignment. It asks: what do you value? What are you choosing? Every choice is a rejection of other paths; the Lovers asks you to choose with integrity. This card appears when you're facing a decision that will define your direction. Don't choose based on fear, obligation, or short-term pleasure. Choose based on who you want to become. The right choice aligns your actions with your values.",
         "love": "In love, the Lovers is one of the most auspicious cards—deep connection, mutual respect, and the possibility of lasting partnership. If you're single, you may meet someone who feels like a mirror, reflecting both your strengths and your growth edges. This isn't just chemistry; it's recognition. For those in relationships, this card suggests a deepening of commitment—possibly engagement, marriage, or a conscious decision to build a future together. The Lovers asks: are you choosing each other daily? Love is not just a feeling; it's a series of choices. Choose kindness. Choose honesty. Choose each other, even when it's difficult.",
         "career": "Professionally, the Lovers favours partnerships, collaborations, and work that aligns with your values. You may be facing a choice between two paths—follow your passion or take the stable job? Stay or leave? The Lovers reminds you: there's no universally right answer, only the answer that's right for you. Consider what matters most. Money? Meaning? Flexibility? Growth? There's no shame in any of these—just be honest about your priorities. This card also supports negotiations and contracts. Ensure terms are fair and mutual. The best partnerships benefit everyone involved. Choose work that doesn't require you to compromise your integrity.",
-        "health": "The Lovers governs balance and harmony—physical, emotional, and spiritual. This card supports practices that integrate mind and body: yoga, tai chi, partner dance, or any activity that requires connection and presence. If you're facing health decisions, consider all options carefully. The right choice aligns with your values and long-term wellbeing, not just short-term relief. This card also reminds you that relationships affect health—supportive connections heal, toxic ones harm. Invest in relationships that nourish you. Set boundaries with those that drain you. You're allowed to choose who you let close. Your wellbeing matters.",
+        "health": "The Lovers governs balance and harmony—physical, emotional, and spiritual. This card supports practices that integrate mind and body: yoga, tai chi, partner dance, or any activity that requires connection and presence. If you're facing health decisions, consider all options carefully. The right choice aligns with your values and long-term wellbeing, not just short-term relief. This card also reminds you that relationships affect health—supportive connections heal, toxic ones harm. Invest in relationships that nourish you. Set boundaries with those that drain you. You're allowed to choose who you let close. Your wellbeing matters."
       },
       "reversed": {
         "subtitle": "Disharmony, imbalance, misalignment, poor choices, conflict",
@@ -178,7 +178,7 @@ export const DECK = [
     }
   },
   {
-    "id": "major_07_chariot",
+    "id": "major_07",
     "name": "The Chariot",
     "arcana": "major",
     "suit": null,
@@ -191,19 +191,19 @@ export const DECK = [
         "general": "The Chariot depicts a warrior standing in a chariot drawn by two sphinxes—one black, one white—representing opposing forces that must be directed. The warrior wears a crown and armour, holding a sceptre but no reins. Control comes not from force but from will. Behind the chariot, a walled city represents the security left behind; ahead, open terrain symbolises the journey. The Chariot is card number seven: the first card of triumph through effort. This is victory earned through discipline, focus, and the courage to move forward despite competing pulls. You have a destination. Hold your course. The Chariot reminds you: momentum requires direction. Choose where you're going, then steer with conviction.",
         "love": "In love, the Chariot suggests forward movement—pursuing someone with intention, or propelling an existing relationship toward greater commitment. If you're single, this card encourages you to be direct about your interest. Confidence is attractive; clarity is magnetic. For those in relationships, the Chariot indicates working together toward shared goals—moving in together, planning a future, or navigating challenges as a team. This card also warns against turning love into conquest. You're not trying to 'win' your partner; you're building something together. Channel your determination into creating connection, not control. Victory in love is mutual.",
         "career": "Professionally, the Chariot is one of the strongest cards for success through focused effort. You're in a phase of momentum—launching projects, competing for opportunities, or pushing through obstacles that have blocked progress. This card favours travel, relocation for work, and any situation requiring sustained effort toward a clear goal. If you're facing competition, trust your preparation. If you're leading a team, provide clear direction. The Chariot reminds you: success isn't accidental. It's the result of choices made daily. Stay focused. Maintain discipline. Keep moving forward. Victory is yours if you hold your course.",
-        "health": "The Chariot supports disciplined health routines—training for an event, committing to a fitness goal, or pushing through a challenging recovery. This card favours activities that require focus and determination: martial arts, competitive sports, or any practice that builds both body and will. There's also a warning: don't let determination become obsession. Rest is part of training. Listen to your body. Pushing through injury serves no one. Spiritually, the Chariot represents the journey itself—life as a path you travel with purpose. You're not meant to have all the answers. You're meant to keep moving. Trust your direction. Steer with intention.",
+        "health": "The Chariot supports disciplined health routines—training for an event, committing to a fitness goal, or pushing through a challenging recovery. This card favours activities that require focus and determination: martial arts, competitive sports, or any practice that builds both body and will. There's also a warning: don't let determination become obsession. Rest is part of training. Listen to your body. Pushing through injury serves no one. Spiritually, the Chariot represents the journey itself—life as a path you travel with purpose. You're not meant to have all the answers. You're meant to keep moving. Trust your direction. Steer with intention."
       },
       "reversed": {
         "subtitle": "Lack of control, aggression, obstacles, scattered energy, defeat",
         "general": "Reversed, the Chariot indicates lost direction—pushing hard but not moving forward, or moving in circles because you haven't chosen a clear destination. This can show up as aggression (forcing outcomes), avoidance (refusing to engage), or simply exhaustion from trying to control everything. The sphinxes pull in different directions; the chariot goes nowhere. The reversed Chariot asks: what are you avoiding? Where are you forcing rather than flowing? Sometimes the answer is to stop—to rest, reassess, and choose a new direction. Other times, it's to simplify—focus on one goal instead of ten. You can't control everything. Choose what matters. Let go of the rest.",
         "love": "In relationships, the reversed Chariot can indicate power struggles—both parties trying to control the direction, or one person driving while the other resists. There may be aggression, defensiveness, or simply exhaustion from constant conflict. If you're single, you may be pursuing someone who isn't interested, or you're so focused on finding a partner that you're missing connections right in front of you. For those partnered, ask: are you working together, or against each other? Relationships aren't battles to be won. Sometimes the bravest thing is to stop pushing and start listening. Choose connection over control. Victory isn't being right; it's being together.",
         "career": "Career-wise, this reversal warns of burnout from overwork, or projects that have lost direction. You may be trying to do too much, competing in arenas that don't matter, or pushing forward out of stubbornness rather than strategy. Step back. Reassess. Is this goal still worth pursuing? Are there obstacles that require a different approach? There's no shame in changing direction—it's often wiser than persisting blindly. If you're facing setbacks, examine what you can control and what you can't. Focus your energy accordingly. Sometimes the victory is knowing when to retreat. Live to fight another day. Choose your battles wisely.",
-        "health": "Reversed, the Chariot can indicate health issues from overtraining, pushing through injury, or stress from constant striving. Your body is not a machine—it needs rest, recovery, and compassion. If you've been driving yourself relentlessly, this card asks you to slow down. There's also a warning about aggression turned inward—self-criticism, harsh diets, or exercise as punishment rather than celebration. Your body is your vehicle, not your enemy. Treat it with respect. If you're facing health obstacles, seek support. You don't have to navigate this alone. Sometimes the strongest thing you can do is ask for help. Rest. Recover. Return with clarity.",
+        "health": "Reversed, the Chariot can indicate health issues from overtraining, pushing through injury, or stress from constant striving. Your body is not a machine—it needs rest, recovery, and compassion. If you've been driving yourself relentlessly, this card asks you to slow down. There's also a warning about aggression turned inward—self-criticism, harsh diets, or exercise as punishment rather than celebration. Your body is your vehicle, not your enemy. Treat it with respect. If you're facing health obstacles, seek support. You don't have to navigate this alone. Sometimes the strongest thing you can do is ask for help. Rest. Recover. Return with clarity."
       }
     }
   },
   {
-    "id": "major_08_strength",
+    "id": "major_08",
     "name": "Strength",
     "arcana": "major",
     "suit": null,
@@ -216,19 +216,19 @@ export const DECK = [
         "general": "Strength depicts a woman gently closing the mouth of a lion, her hand resting with confidence on its jaw. She wears a crown of infinity, symbolising eternal inner power. The lion represents raw instinct, passion, and the animal nature within us all. Strength is card number eight: the courage that comes not from force but from compassion. This is not the strength of domination—it's the strength of integration. You don't defeat your fears; you befriend them. You don't suppress your emotions; you channel them. The lion doesn't need to be tamed; it needs to be understood. Your power comes from wholeness, not perfection. Trust yourself. You are stronger than you know.",
         "love": "In love, Strength indicates a relationship built on mutual respect, patience, and the courage to be vulnerable. If you're single, this card suggests you're ready for a mature connection—one where you can be honest about your needs and fears without shame. For those in relationships, Strength asks you to approach challenges with compassion rather than control. Your partner is not an adversary; they're a teammate. When conflict arises, lead with curiosity, not defensiveness. This card also supports working through difficult conversations—infidelity, trust issues, or major life changes. The lion can be fierce, but gentleness disarms. Love requires courage. Be brave enough to be tender.",
         "career": "Professionally, Strength favours roles requiring patience, persuasion, and emotional intelligence—leadership, counselling, negotiation, or any work involving people. This is not the time for force; it's the time for influence. Lead by example. Listen more than you speak. When facing difficult situations, approach them with calm confidence. You don't need to prove yourself; your competence speaks. This card also supports working through challenges—difficult colleagues, demanding projects, or career transitions. Trust your ability to navigate complexity. You have the inner resources. Stay patient. Stay compassionate. Strength isn't about never feeling fear; it's about moving forward despite it.",
-        "health": "Strength governs the heart—both physical and emotional. This card supports practices that build resilience: meditation, breathwork, therapy, or any work that helps you process emotions rather than suppress them. Physical strength is important, but so is the courage to rest when needed. If you're facing health challenges, approach them with patience and self-compassion. Healing isn't linear. There will be setbacks. That doesn't mean you're failing; it means you're human. Spiritually, Strength reminds you that your power comes from integration—accepting all parts of yourself, even the ones you'd rather disown. The lion is not your enemy. It's your ally. Befriend it.",
+        "health": "Strength governs the heart—both physical and emotional. This card supports practices that build resilience: meditation, breathwork, therapy, or any work that helps you process emotions rather than suppress them. Physical strength is important, but so is the courage to rest when needed. If you're facing health challenges, approach them with patience and self-compassion. Healing isn't linear. There will be setbacks. That doesn't mean you're failing; it means you're human. Spiritually, Strength reminds you that your power comes from integration—accepting all parts of yourself, even the ones you'd rather disown. The lion is not your enemy. It's your ally. Befriend it."
       },
       "reversed": {
         "subtitle": "Self-doubt, lack of confidence, aggression, weakness, raw emotions",
         "general": "Reversed, Strength indicates a disconnect from your inner power. You may be doubting yourself, feeling overwhelmed by emotions, or lashing out from a place of fear rather than confidence. Alternatively, you may be suppressing emotions so thoroughly that they're erupting unexpectedly. The lion is either caged or running wild. The reversed Strength asks: where are you being hard on yourself? Where are you avoiding difficult feelings? True strength includes vulnerability. It's okay to not be okay. It's okay to ask for help. You don't have to handle everything alone. Reconnect with your inner resources. Trust yourself. You've navigated difficulties before. You can do it again.",
         "love": "In relationships, this reversal can indicate insecurity manifesting as jealousy, control, or emotional volatility. You may be projecting past wounds onto your current partner, or you may be attracting partners who trigger your deepest fears. If you're single, examine your patterns: are you avoiding intimacy out of fear, or rushing into connections to avoid being alone? For those partnered, have honest conversations about what you're feeling. Vulnerability isn't weakness—it's the pathway to genuine connection. If you're struggling, seek support. Therapy, counselling, or trusted friends can help. You don't have to navigate this alone. Strength isn't solitary. It's shared.",
         "career": "Career-wise, reversed Strength warns of burnout, imposter syndrome, or difficulty managing emotions at work. You may be taking on too much to prove yourself, or you may be avoiding challenges out of fear of failure. There's also a warning about aggression—yours or others'. If you're in a hostile work environment, document issues and protect yourself. If you're the one lashing out, examine what's driving it. Fear? Frustration? Feeling undervalued? Address the root cause. If you're struggling with confidence, remember: competence builds confidence. Focus on what you can control. Do good work. Ask for feedback. You're capable. Trust yourself.",
-        "health": "Reversed, this card can indicate health issues related to stress, anxiety, or emotional suppression. You may be pushing through exhaustion, ignoring your body's signals, or using unhealthy coping mechanisms to manage difficult feelings. There's also a warning about aggression turned inward—self-criticism, disordered eating, or exercise as punishment. Your body is not the enemy. Treat it with kindness. If you're struggling emotionally, seek professional support. Therapy isn't weakness; it's wisdom. You deserve care. You deserve support. Strength isn't about handling everything alone. It's about knowing when to reach out. Ask for help. You're worth it.",
+        "health": "Reversed, this card can indicate health issues related to stress, anxiety, or emotional suppression. You may be pushing through exhaustion, ignoring your body's signals, or using unhealthy coping mechanisms to manage difficult feelings. There's also a warning about aggression turned inward—self-criticism, disordered eating, or exercise as punishment. Your body is not the enemy. Treat it with kindness. If you're struggling emotionally, seek professional support. Therapy isn't weakness; it's wisdom. You deserve care. You deserve support. Strength isn't about handling everything alone. It's about knowing when to reach out. Ask for help. You're worth it."
       }
     }
   },
   {
-    "id": "major_09_hermit",
+    "id": "major_09",
     "name": "The Hermit",
     "arcana": "major",
     "suit": null,
@@ -241,7 +241,7 @@ export const DECK = [
         "general": "The Hermit stands alone on a mountain peak, holding a lantern containing a six-pointed star—the light of wisdom. His grey beard symbolises age and experience; his staff, support on the journey. The Hermit is card number nine: the culmination of the first cycle, a pause before beginning again. This is a time of withdrawal—not from fear, but for clarity. The Hermit knows that truth isn't found in noise but in silence. You're being asked to step back from the world and listen to your inner voice. What do you truly believe? What do you truly want? The answers won't come from others. They come from within. Solitude isn't loneliness; it's the space where wisdom grows. Trust the process. Your light will guide you.",
         "love": "In love, the Hermit suggests a period of solitude or introspection. If you're single, this isn't the time to force connections—it's the time to understand what you truly want in a partner. What values matter? What patterns do you want to break? Use this time wisely. If you're in a relationship, the Hermit may indicate needing space for individual growth. This isn't rejection; it's self-care. Healthy relationships require two whole people, not two halves making a whole. Communicate your need for space clearly. A secure partner will understand. The Hermit reminds you: you can't give what you don't have. Fill your own cup first. Then share from abundance.",
         "career": "Professionally, the Hermit favours independent work, research, and roles requiring deep focus. This is not the time for networking or self-promotion—it's the time for developing expertise. You may be considering a career change; the Hermit asks you to reflect deeply before deciding. What work aligns with your values? What legacy do you want to leave? This card also supports mentorship—either seeking a mentor or becoming one. Wisdom is meant to be shared. If you're feeling burnt out, the Hermit suggests taking a break. Step away from the noise. Reconnect with your purpose. Clarity comes in silence. Listen.",
-        "health": "The Hermit governs mental and emotional wellbeing through solitude and reflection. This card supports practices that quiet the mind: meditation, journaling, nature walks, or retreats. If you're facing health decisions, take time to reflect before choosing. Rushed decisions often lead to regret. There's also a reminder that isolation isn't the same as solitude—solitude is chosen; isolation is imposed. If you're feeling lonely, reach out. Connection matters. But also honour your need for quiet. Your mental health depends on it. Spiritually, the Hermit is the inner journey—the path of self-discovery that ultimately leads back to connection. Know yourself. Then share your light.",
+        "health": "The Hermit governs mental and emotional wellbeing through solitude and reflection. This card supports practices that quiet the mind: meditation, journaling, nature walks, or retreats. If you're facing health decisions, take time to reflect before choosing. Rushed decisions often lead to regret. There's also a reminder that isolation isn't the same as solitude—solitude is chosen; isolation is imposed. If you're feeling lonely, reach out. Connection matters. But also honour your need for quiet. Your mental health depends on it. Spiritually, the Hermit is the inner journey—the path of self-discovery that ultimately leads back to connection. Know yourself. Then share your light."
       },
       "reversed": {
         "subtitle": "Isolation, loneliness, withdrawal, rejection of guidance, paranoia",
@@ -253,7 +253,7 @@ export const DECK = [
     }
   },
   {
-    "id": "major_10_wheel_of_fortune",
+    "id": "major_10",
     "name": "Wheel of Fortune",
     "arcana": "major",
     "suit": null,
@@ -266,19 +266,19 @@ export const DECK = [
         "general": "The Wheel of Fortune depicts a great wheel turning in the sky, with figures ascending and descending—the ups and downs of fate. At the top, a sphinx holds a sword, representing balance and justice. The wheel itself bears the letters T-A-R-O, the wheel of life. This is card number ten: the completion of the first cycle and the beginning of the next. The Wheel reminds you: everything changes. What's up will go down; what's down will rise. This is not cause for despair but for trust. You're at a turning point. The wheel is turning in your favour. Opportunities appear; circumstances shift. What you couldn't control before becomes possible. The Wheel asks you to flow with change, not resist it. Fortune favours the flexible. Trust the cycle.",
         "love": "In love, the Wheel of Fortune indicates a turning point—a relationship deepening, a chance encounter, or a shift in dynamics that brings you closer. If you're single, this card suggests fate is at work. Pay attention to synchronicities and unexpected meetings. Someone may enter your life when you least expect it. For those in relationships, the wheel is turning—perhaps toward commitment, or perhaps through a challenge that ultimately strengthens your bond. This card reminds you: relationships have cycles. There will be highs and lows. What matters is how you navigate them together. Trust the process. Stay committed. The wheel turns in favour of those who adapt.",
         "career": "Professionally, the Wheel of Fortune is one of the strongest cards for positive change—a promotion, new opportunity, or shift in circumstances that works in your favour. You may find yourself in the right place at the right time. This isn't just luck; it's the result of preparation meeting opportunity. If you've been waiting for a breakthrough, this is it. Say yes to opportunities, even if they feel outside your comfort zone. The wheel is turning. Ride it. This card also reminds you: careers have cycles. There will be ups and downs. Trust that setbacks are temporary and success is earned through persistence. Keep moving forward. Fortune favours action.",
-        "health": "The Wheel governs cycles—physical, emotional, and spiritual. This card suggests a positive shift in your health—recovery, improved energy, or finding the right treatment. If you've been struggling, relief is coming. This card also reminds you: health has cycles. There will be good days and difficult ones. Don't let a bad day convince you that you're not progressing. Trust the larger arc. Spiritually, the Wheel reminds you that you're part of something larger than yourself. You're not in control of everything—and that's okay. Surrender to the flow. Trust the timing of your life. What's meant for you will find you. What's not will pass. Either way, the wheel turns. You turn with it.",
+        "health": "The Wheel governs cycles—physical, emotional, and spiritual. This card suggests a positive shift in your health—recovery, improved energy, or finding the right treatment. If you've been struggling, relief is coming. This card also reminds you: health has cycles. There will be good days and difficult ones. Don't let a bad day convince you that you're not progressing. Trust the larger arc. Spiritually, the Wheel reminds you that you're part of something larger than yourself. You're not in control of everything—and that's okay. Surrender to the flow. Trust the timing of your life. What's meant for you will find you. What's not will pass. Either way, the wheel turns. You turn with it."
       },
       "reversed": {
         "subtitle": "Bad luck, resistance to change, breaking cycles, instability, setbacks",
         "general": "Reversed, the Wheel of Fortune indicates resistance to necessary change, or feeling like the wheel is turning against you. Setbacks occur; plans fall apart; circumstances shift in unwelcome ways. The reversed Wheel asks: are you resisting change that needs to happen? Sometimes the wheel turns backward before it moves forward—old patterns must be broken before new ones can form. This isn't punishment; it's correction. What aren't you learning? What cycle keeps repeating? The reversed Wheel reminds you: you can't control the wheel, but you can control your response. Adapt. Learn. Grow. Resistance creates suffering; acceptance creates space for change. The wheel will turn regardless. Turn with it.",
         "love": "In relationships, this reversal can indicate a difficult cycle—repeated arguments, external pressures, or a sense that you're moving backward rather than forward. If you're single, you may be stuck in patterns that keep attracting the wrong partners. Examine what you're repeating. What lessons haven't you learned? For those partnered, the reversed Wheel asks: are you both committed to growth, or are you repeating the same conflicts? Relationships require adaptation. If circumstances are challenging you, face them together. Don't blame fate; take responsibility. The wheel will turn again. Prepare for it. Learn from this cycle. Break the patterns that no longer serve you.",
         "career": "Career-wise, reversed Wheel warns of setbacks—delays, missed opportunities, or circumstances beyond your control. This isn't the time to force outcomes; it's the time to adapt. What can you control? Focus there. There's also a warning about resisting necessary change—staying in a dying industry, refusing to learn new skills, or clinging to a role that no longer fits. The wheel is turning. Adapt or be left behind. If you're facing difficulties, remember: this is temporary. Cycles end. New ones begin. Use this time to prepare. Update your skills. Network. Plan. When the wheel turns in your favour again, you'll be ready. Persistence pays. Keep going.",
-        "health": "Reversed, this card can indicate health setbacks—relapses, new diagnoses, or treatments that aren't working as expected. This is difficult, but not hopeless. The reversed Wheel asks: are there lifestyle changes you're resisting? Are there patterns contributing to your health issues? Sometimes healing requires breaking cycles—diet, stress, sleep, or relationship patterns that undermine wellbeing. There's also a reminder: health has cycles. Bad periods don't mean you're not healing overall. Trust the larger arc. Work with your healthcare providers. Adapt your approach. The wheel will turn. Prepare your body and mind for when it does. Healing isn't linear. Keep going. You're stronger than you know.",
+        "health": "Reversed, this card can indicate health setbacks—relapses, new diagnoses, or treatments that aren't working as expected. This is difficult, but not hopeless. The reversed Wheel asks: are there lifestyle changes you're resisting? Are there patterns contributing to your health issues? Sometimes healing requires breaking cycles—diet, stress, sleep, or relationship patterns that undermine wellbeing. There's also a reminder: health has cycles. Bad periods don't mean you're not healing overall. Trust the larger arc. Work with your healthcare providers. Adapt your approach. The wheel will turn. Prepare your body and mind for when it does. Healing isn't linear. Keep going. You're stronger than you know."
       }
     }
   },
   {
-    "id": "major_11_justice",
+    "id": "major_11",
     "name": "Justice",
     "arcana": "major",
     "suit": null,
@@ -291,19 +291,19 @@ export const DECK = [
         "general": "Justice sits on a throne between two pillars, holding a sword in one hand and scales in the other. She wears a crown and a purple robe, symbols of authority and wisdom. Justice is card number eleven: the balance between the spiritual and material, the inner and outer. This card represents truth, fairness, and the law of cause and effect. What you sow, you reap. Justice asks you to act with integrity, knowing that your choices have consequences. This is a time of clarity—seeing situations as they are, not as you wish them to be. If you've been wronged, justice will be served. If you've wronged others, accountability is coming. Be honest. Be fair. Be accountable. Truth sets you free.",
         "love": "In love, Justice indicates a relationship based on mutual respect, honesty, and fairness. If you're single, this card suggests you're ready for a mature connection—one where both parties are accountable and authentic. For those in relationships, Justice may indicate important conversations about commitment, boundaries, or unresolved issues. This is not the time for games or manipulation. Be direct. Be honest. If there's been betrayal or broken trust, Justice suggests it's time to address it. Forgiveness is possible, but it requires accountability first. This card also supports legal matters related to love—marriage contracts, divorce proceedings, or custody agreements. Seek fair outcomes. Truth matters.",
         "career": "Professionally, Justice favours legal matters, contracts, negotiations, and any situation requiring objective judgment. This is a time to ensure agreements are fair and terms are clear. If you're facing a difficult decision, weigh the options carefully. Consider the consequences. Act with integrity. This card also supports roles involving law, mediation, or ethics. If you're dealing with workplace injustice, document everything and seek appropriate channels. Justice will be served—perhaps not immediately, but inevitably. This card reminds you: your reputation is built on your actions. Act in ways you'll be proud of later. Fairness creates trust. Trust creates opportunity. Choose wisely.",
-        "health": "Justice governs balance—physical, emotional, and ethical. This card supports addressing health issues with honesty and accountability. Are you taking responsibility for your wellbeing? Are you following medical advice? Justice also relates to the kidneys and lower back—areas that may need attention. If you're facing health decisions, consider all options carefully. Seek second opinions if needed. Make choices based on evidence, not fear. This card also reminds you: your health choices have consequences. Poor habits accumulate; good ones compound. Choose daily actions that support your long-term wellbeing. Balance isn't a destination; it's a practice. Practice it.",
+        "health": "Justice governs balance—physical, emotional, and ethical. This card supports addressing health issues with honesty and accountability. Are you taking responsibility for your wellbeing? Are you following medical advice? Justice also relates to the kidneys and lower back—areas that may need attention. If you're facing health decisions, consider all options carefully. Seek second opinions if needed. Make choices based on evidence, not fear. This card also reminds you: your health choices have consequences. Poor habits accumulate; good ones compound. Choose daily actions that support your long-term wellbeing. Balance isn't a destination; it's a practice. Practice it."
       },
       "reversed": {
         "subtitle": "Unfairness, lack of accountability, dishonesty, bias, injustice",
         "general": "Reversed, Justice indicates imbalance—unfairness, dishonesty, or avoiding accountability. You may be the victim of injustice, or you may be the one acting unfairly. The scales are tipped; the sword is misaligned. The reversed Justice asks: where are you being dishonest—with others or yourself? Where are you avoiding responsibility? If you've been wronged, seek appropriate recourse, but don't let bitterness consume you. If you've wronged others, make amends. Accountability isn't punishment; it's the pathway to freedom. This card also warns of legal complications—read contracts carefully, seek advice, and don't cut corners. Truth has a way of surfacing. Better to face it now than later. Be honest. Be accountable. Make it right.",
         "love": "In relationships, this reversal can indicate unfairness—unequal effort, broken agreements, or one person carrying the emotional load. There may be dishonesty—yours or your partner's—or avoidance of difficult conversations. If you're single, you may be attracting partners who aren't accountable, or you may be avoiding accountability yourself. For those partnered, have honest conversations about where the relationship feels imbalanced. Are both parties contributing? Are agreements being honoured? If there's been betrayal, decide whether forgiveness is possible. It requires genuine accountability from the one who broke trust. Don't settle for less. You deserve honesty. Demand it.",
         "career": "Career-wise, reversed Justice warns of unfair treatment—being passed over for promotions, unequal pay, or workplace discrimination. Document everything. Seek appropriate channels. Don't accept injustice silently. There's also a warning about your own actions: are you cutting corners, taking credit for others' work, or avoiding responsibility? Short-term gains create long-term problems. Act with integrity. If you're facing legal or contractual issues, seek professional advice. Don't sign anything you don't understand. The reversed Justice reminds you: what goes around comes around. Treat others fairly. Honour your commitments. Build a reputation you're proud of. Integrity matters. Choose it.",
-        "health": "Reversed, this card can indicate health issues from imbalance—overworking, neglecting self-care, or making choices that favour short-term comfort over long-term health. There's also a warning about medical injustice—misdiagnosis, dismissive treatment, or systemic barriers to care. Advocate for yourself. Seek second opinions. You deserve competent, respectful care. If you're struggling with accountability around health habits, examine why. What beliefs are keeping you stuck? What support do you need? Change isn't about perfection; it's about progress. Start small. Be honest with yourself. Take responsibility. Your health is worth it. Balance can be restored. Begin today.",
+        "health": "Reversed, this card can indicate health issues from imbalance—overworking, neglecting self-care, or making choices that favour short-term comfort over long-term health. There's also a warning about medical injustice—misdiagnosis, dismissive treatment, or systemic barriers to care. Advocate for yourself. Seek second opinions. You deserve competent, respectful care. If you're struggling with accountability around health habits, examine why. What beliefs are keeping you stuck? What support do you need? Change isn't about perfection; it's about progress. Start small. Be honest with yourself. Take responsibility. Your health is worth it. Balance can be restored. Begin today."
       }
     }
   },
   {
-    "id": "major_12_hanged_man",
+    "id": "major_12",
     "name": "The Hanged Man",
     "arcana": "major",
     "suit": null,
@@ -316,19 +316,19 @@ export const DECK = [
         "general": "The Hanged Man hangs upside down from a living tree, his hands bound behind his back, one leg crossed over the other. Yet his expression is peaceful; a halo surrounds his head. The Hanged Man is card number twelve: the midpoint of the Major Arcana, a pause between the first and second cycles. This is not punishment but voluntary surrender. The Hanged Man chooses to hang—to see the world from a different angle, to release control, to trust the process. This card appears when you're stuck, not because you're failing, but because you're being asked to let go. What are you holding too tightly? What perspective shift is needed? Sometimes the only way forward is to stop. Surrender isn't defeat; it's wisdom. Trust the pause.",
         "love": "In love, the Hanged Man suggests a period of waiting or sacrifice. If you're single, you may need to release attachment to outcomes—stop forcing connections, stop analysing every interaction. Trust that what's meant for you will find you. For those in relationships, this card may indicate a time of suspension—long-distance, external pressures, or a need to see the relationship from a new angle. The Hanged Man asks: what are you willing to sacrifice for love? What perspectives need shifting? This isn't about suffering; it's about growth through surrender. Sometimes love requires letting go of control. Trust the process. The pause is purposeful. Use it wisely.",
         "career": "Professionally, the Hanged Man indicates a period of waiting—projects on hold, decisions delayed, or feeling stuck in your current role. This isn't failure; it's a necessary pause. Use this time to gain perspective. What do you truly want from your career? What assumptions need questioning? This card also supports sacrifice for long-term gain—taking a pay cut for meaningful work, stepping back to upskill, or leaving a stable job for something that aligns with your values. The Hanged Man reminds you: not all progress looks like forward motion. Sometimes growth requires stillness. Trust the timing. The pause is preparing you for what's next. Be patient.",
-        "health": "The Hanged Man governs periods of recovery, rest, and necessary pauses. If you're facing health challenges, this card suggests surrendering to the process—trusting your body's wisdom, following medical advice, and accepting that healing takes time. There's also a reminder that some health issues require lifestyle sacrifices—giving up habits that no longer serve you, prioritising rest over productivity, or accepting limitations temporarily. This isn't punishment; it's investment in your future wellbeing. Spiritually, the Hanged Man is the pause that allows transformation. Meditation, retreat, or simply doing nothing can be profoundly healing. Trust the stillness. Growth happens in the pause.",
+        "health": "The Hanged Man governs periods of recovery, rest, and necessary pauses. If you're facing health challenges, this card suggests surrendering to the process—trusting your body's wisdom, following medical advice, and accepting that healing takes time. There's also a reminder that some health issues require lifestyle sacrifices—giving up habits that no longer serve you, prioritising rest over productivity, or accepting limitations temporarily. This isn't punishment; it's investment in your future wellbeing. Spiritually, the Hanged Man is the pause that allows transformation. Meditation, retreat, or simply doing nothing can be profoundly healing. Trust the stillness. Growth happens in the pause."
       },
       "reversed": {
         "subtitle": "Stalling, unnecessary sacrifice, resistance, martyrdom, indecision",
         "general": "Reversed, the Hanged Man indicates resistance to necessary surrender—staying stuck out of fear, sacrificing unnecessarily, or refusing to see situations from new angles. You may be playing the martyr, suffering unnecessarily, or avoiding decisions that need to be made. The reversed Hanged Man asks: are you stuck by circumstance or by choice? Are you sacrificing for growth, or for approval? Sometimes we hang ourselves from old trees, believing suffering is virtuous. It's not. Growth requires surrender, not suffering. If you're feeling stuck, examine what you're holding too tightly. What would happen if you let go? The pause has served its purpose. Move forward. Make the decision. Release what no longer serves you.",
         "love": "In relationships, this reversal can indicate unhealthy sacrifice—giving too much, losing yourself, or staying in situations that no longer serve you out of obligation. You may be waiting for someone to change, or avoiding difficult conversations that need to happen. If you're single, you may be holding onto past relationships or idealised futures rather than being present. For those partnered, examine the balance. Are you sacrificing for growth, or for approval? Are you waiting for change that isn't coming? The reversed Hanged Man reminds you: love shouldn't require losing yourself. Set boundaries. Have difficult conversations. Make decisions. Waiting indefinitely serves no one. Choose yourself. Choose growth. Choose forward.",
         "career": "Career-wise, reversed Hanged Man warns of stalling—staying in unfulfilling roles out of fear, avoiding necessary changes, or sacrificing your wellbeing for a job that doesn't value you. There's a difference between strategic patience and paralysis. If you're waiting for the perfect moment, it won't come. If you're sacrificing your health for work, stop. No job is worth that. This card also warns of martyrdom—taking on too much, not setting boundaries, or believing suffering proves commitment. It doesn't. Competence proves commitment. Set boundaries. Make changes. Your career should serve your life, not consume it. Choose accordingly. Move forward. Growth requires action.",
-        "health": "Reversed, this card can indicate health issues from resistance—refusing to rest, avoiding medical care, or believing suffering is necessary. You may be pushing through exhaustion, ignoring symptoms, or sacrificing your wellbeing for others. This isn't virtuous; it's unsustainable. Your health matters. Prioritise it. There's also a warning about unhealthy sacrifice—giving so much to others that you have nothing left for yourself. You can't pour from an empty cup. Set boundaries. Rest when needed. Seek care when required. The reversed Hanged Man reminds you: healing requires surrender, not suffering. Let go of beliefs that keep you stuck. Choose health. Choose rest. Choose yourself.",
+        "health": "Reversed, this card can indicate health issues from resistance—refusing to rest, avoiding medical care, or believing suffering is necessary. You may be pushing through exhaustion, ignoring symptoms, or sacrificing your wellbeing for others. This isn't virtuous; it's unsustainable. Your health matters. Prioritise it. There's also a warning about unhealthy sacrifice—giving so much to others that you have nothing left for yourself. You can't pour from an empty cup. Set boundaries. Rest when needed. Seek care when required. The reversed Hanged Man reminds you: healing requires surrender, not suffering. Let go of beliefs that keep you stuck. Choose health. Choose rest. Choose yourself."
       }
     }
   },
   {
-    "id": "major_13_death",
+    "id": "major_13",
     "name": "Death",
     "arcana": "major",
     "suit": null,
@@ -341,19 +341,19 @@ export const DECK = [
         "general": "Death depicts a skeleton in armour riding a white horse, holding a black flag with a white rose—symbolising purity through transformation. Before him, figures fall: a king, a child, a maiden, a bishop. All are equal before Death. In the background, the sun rises between two towers—new beginnings after endings. Death is card number thirteen: the great transformer. This card rarely indicates physical death; it signifies endings that make rebirth possible. What's ending in your life? A relationship, a job, a belief, an identity? Death asks you to release what no longer serves you. Clinging to what's dying prolongs suffering. Let go. The sun will rise. Transformation isn't optional; it's inevitable. Flow with it. What ends makes space for what begins.",
         "love": "In love, Death indicates significant transformation—the end of a relationship, or the end of a relationship *as it was*. If you're single, this card suggests releasing past attachments—ex-partners, old patterns, limiting beliefs about love. Make space for new connections. For those in relationships, Death may indicate a major transition—moving in together, marriage, parenthood, or navigating a crisis that changes the relationship fundamentally. This isn't necessarily negative; relationships must evolve to survive. The Death card asks: what needs to end for your love to grow? Old patterns? Resentments? Unrealistic expectations? Release them. Transformation isn't loss; it's growth. Embrace it.",
         "career": "Professionally, Death indicates endings that create new beginnings—a job ending, a career change, or the completion of a major project. This can feel unsettling, but it's necessary. What's ending has served its purpose. Thank it. Release it. Make space for what's next. This card also supports major career transformations—leaving stable jobs for meaningful work, starting businesses, or completely changing fields. If you're resisting change, examine why. Fear? Comfort? Identity? Death reminds you: transformation isn't optional. The only question is whether you'll flow with it or be dragged. Choose consciously. Release what's dying. Welcome what's being born. Your career is evolving. Trust the process.",
-        "health": "Death governs major health transformations—recoveries, lifestyle overhauls, or accepting new realities about your body. This card supports letting go of unhealthy habits, identities ('I'm just not a healthy person'), or beliefs that limit your wellbeing. If you're facing health challenges, Death reminds you: your body is constantly regenerating. Cells die and are reborn. You are not static. Healing is possible. This card also reminds you: some health issues require accepting endings—the end of certain capabilities, the end of who you were before diagnosis. Grieve what's lost. Then build what's possible. Transformation isn't loss; it's evolution. Embrace it. Your body is resilient. Trust it.",
+        "health": "Death governs major health transformations—recoveries, lifestyle overhauls, or accepting new realities about your body. This card supports letting go of unhealthy habits, identities ('I'm just not a healthy person'), or beliefs that limit your wellbeing. If you're facing health challenges, Death reminds you: your body is constantly regenerating. Cells die and are reborn. You are not static. Healing is possible. This card also reminds you: some health issues require accepting endings—the end of certain capabilities, the end of who you were before diagnosis. Grieve what's lost. Then build what's possible. Transformation isn't loss; it's evolution. Embrace it. Your body is resilient. Trust it."
       },
       "reversed": {
         "subtitle": "Resistance to change, stagnation, decay, inability to let go, delayed transformation",
         "general": "Reversed, Death indicates resistance to necessary endings—clinging to what's dying, refusing to change, or stagnating because you won't release the past. You may be holding onto relationships, jobs, or identities that no longer fit. The reversed Death asks: what are you afraid to lose? What would happen if you let go? Resistance prolongs suffering. The ending will come regardless; the question is whether you'll suffer unnecessarily. This card also warns of decay—situations that are slowly deteriorating because you won't make clean breaks. Sometimes the kindest thing is to end things clearly. Grieve. Release. Move forward. Transformation is inevitable. Resistance is optional. Choose growth. Choose forward. Let go.",
         "love": "In relationships, this reversal can indicate staying in dying relationships out of fear, refusing to end what's no longer working, or resisting necessary changes. You may be holding onto ex-partners, old patterns, or idealised versions of relationships that don't exist. If you're single, examine what you're clinging to. Is it love, or fear of being alone? For those partnered, are you resisting changes that would strengthen your relationship? Are you holding onto resentments that are poisoning your connection? The reversed Death reminds you: love requires adaptation. What worked before may not work now. Change isn't loss; it's growth. Release what's dying. Make space for what wants to be born. Choose consciously.",
         "career": "Career-wise, reversed Death warns of stagnation—staying in dead-end jobs, resisting necessary changes, or clinging to industries that are dying. You may be afraid to take risks, believing stability is safety. It's not. The greatest risk is staying where you're slowly dying inside. If your career isn't fulfilling you, examine what's keeping you stuck. Fear? Money? Identity? Address it. Make a plan. Change doesn't have to be immediate, but it does have to happen. This card also warns of workplace decay—toxic cultures, dying industries, or roles that are being phased out. Don't wait to be pushed. Choose your ending. Create your beginning. Your career deserves evolution. Choose it.",
-        "health": "Reversed, this card can indicate health issues from resistance—refusing to change unhealthy habits, denying symptoms, or clinging to identities that undermine wellbeing ('I've always been this way'). You may be avoiding necessary medical care, or refusing to accept new realities about your body. The reversed Death reminds you: your body is constantly changing. Fighting this creates suffering. Accept what is. Then work with it. There's also a warning about slow decay—health deteriorating gradually because you won't make necessary changes. Don't wait for a crisis. Start today. Small changes compound. Release what's killing you slowly. Choose life. Choose health. Choose forward. Transformation is possible. Begin.",
+        "health": "Reversed, this card can indicate health issues from resistance—refusing to change unhealthy habits, denying symptoms, or clinging to identities that undermine wellbeing ('I've always been this way'). You may be avoiding necessary medical care, or refusing to accept new realities about your body. The reversed Death reminds you: your body is constantly changing. Fighting this creates suffering. Accept what is. Then work with it. There's also a warning about slow decay—health deteriorating gradually because you won't make necessary changes. Don't wait for a crisis. Start today. Small changes compound. Release what's killing you slowly. Choose life. Choose health. Choose forward. Transformation is possible. Begin."
       }
     }
   },
   {
-    "id": "major_14_temperance",
+    "id": "major_14",
     "name": "Temperance",
     "arcana": "major",
     "suit": null,
@@ -366,19 +366,19 @@ export const DECK = [
         "general": "Temperance depicts an angel with one foot on land and one in water, pouring liquid between two cups. The angel wears a crown with a circle—the eternal—and a triangle—the divine. Behind, a path leads to mountains crowned with light. Temperance is card number fourteen: the alchemist who transforms base metals into gold. This card represents balance, moderation, and the patient blending of opposites. Too much fire burns; too much water drowns. Temperance finds the middle path. This is a time of healing, integration, and purposeful action. What in your life needs balancing? Work and rest? Giving and receiving? Action and reflection? Temperance asks you to find the golden mean. Healing isn't dramatic; it's consistent. Transformation isn't forced; it's cultivated. Be patient. Blend wisely. The middle path leads home.",
         "love": "In love, Temperance indicates a relationship built on balance, patience, and mutual growth. If you're single, this card suggests you're healing from past relationships and learning to blend independence with intimacy. Don't rush. The right connection will come when you're ready. For those in relationships, Temperance supports working through challenges with patience and compromise. This isn't about one person winning; it's about finding solutions that honour both partners. This card also indicates healing together—supporting each other through difficulties, blending your lives gradually, or navigating major transitions with care. Love isn't a lightning strike; it's a slow burn. Cultivate it. Balance it. Let it deepen over time.",
         "career": "Professionally, Temperance favours roles requiring balance, mediation, and integration—healthcare, counselling, teaching, or any work that helps others find equilibrium. This is a time of steady progress rather than dramatic breakthroughs. Focus on consistency. Build skills gradually. This card also supports work-life balance—if you've been overworking, Temperance asks you to find sustainable rhythms. Success isn't worth burnout. This card also indicates collaboration—blending different perspectives, working across departments, or integrating different approaches. The best solutions come from synthesis, not extremes. Be patient. Build steadily. Find balance. Your career is a marathon, not a sprint. Pace yourself.",
-        "health": "Temperance governs healing through balance—moderation in all things, consistent healthy habits, and patience with your body's rhythms. This card supports recovery from illness, addiction, or burnout through gradual, sustainable changes. Extreme diets, intense exercise regimes, or dramatic health overhauls often fail. Temperance asks you to find the middle path. Eat well, but allow treats. Exercise regularly, but rest adequately. Work hard, but prioritise recovery. This card also reminds you: healing takes time. Don't rush it. Trust your body's wisdom. Spiritually, Temperance is the alchemy of integration—blending mind, body, and spirit into wholeness. You're not meant to be perfect. You're meant to be balanced. Find your centre. Stay there.",
+        "health": "Temperance governs healing through balance—moderation in all things, consistent healthy habits, and patience with your body's rhythms. This card supports recovery from illness, addiction, or burnout through gradual, sustainable changes. Extreme diets, intense exercise regimes, or dramatic health overhauls often fail. Temperance asks you to find the middle path. Eat well, but allow treats. Exercise regularly, but rest adequately. Work hard, but prioritise recovery. This card also reminds you: healing takes time. Don't rush it. Trust your body's wisdom. Spiritually, Temperance is the alchemy of integration—blending mind, body, and spirit into wholeness. You're not meant to be perfect. You're meant to be balanced. Find your centre. Stay there."
       },
       "reversed": {
         "subtitle": "Imbalance, excess, lack of long-term vision, discord, haste",
         "general": "Reversed, Temperance indicates imbalance—too much or too little, extremes that create problems, or impatience with necessary processes. You may be overworking, overindulging, or swinging between extremes rather than finding sustainable rhythms. The reversed Temperance asks: where are you excessing? Where are you depriving? What would balance look like? This card also warns of haste—trying to force outcomes, skipping necessary steps, or believing dramatic changes are better than gradual ones. They're not. Sustainable change is slow change. If you're feeling burnt out, examine where you've lost balance. Restore it. Not dramatically—gradually. Small adjustments compound. Find the middle path. Return to centre. Patience serves you. Use it.",
         "love": "In relationships, this reversal can indicate imbalance—one person giving too much, the other too little, or both parties swinging between extremes (passion then coldness, closeness then distance). You may be rushing relationships, moving too fast, or expecting immediate results. If you're single, examine your patterns. Are you swinging between available and unavailable partners? Are you rushing into relationships or avoiding them entirely? For those partnered, find balance. If you've been overgiving, pull back. If you've been withholding, open up. Relationships thrive on reciprocity. This card also warns of impatience—expecting immediate change, rushing major decisions, or giving up too soon. Love takes time. Cultivate it. Balance it. Let it breathe.",
         "career": "Career-wise, reversed Temperance warns of burnout from overwork, or stagnation from underwork. You may be swinging between extremes—working obsessively then crashing, or avoiding work entirely. Find the middle path. Consistent effort beats dramatic bursts. This card also warns of impatience—expecting immediate promotions, rushing career changes, or quitting too soon. Sustainable careers are built gradually. There's also a warning about work-life imbalance—if work is consuming your life, something needs to change. No career is worth your health or relationships. Set boundaries. Find balance. Work steadily. Rest adequately. Your career is a long game. Play it wisely.",
-        "health": "Reversed, this card can indicate health issues from imbalance—overtraining, extreme diets, or swinging between health obsessions and complete neglect. You may be rushing healing, expecting immediate results, or giving up too soon. Sustainable health is built through consistent, moderate habits. There's also a warning about excess—too much work, too little sleep, too much stress, too little movement. Find balance. Not dramatically—gradually. Small changes sustained over time create transformation. If you're struggling with addiction or unhealthy patterns, seek support. You don't have to do this alone. Temperance reversed reminds you: balance is possible. Return to centre. One small step at a time. Begin.",
+        "health": "Reversed, this card can indicate health issues from imbalance—overtraining, extreme diets, or swinging between health obsessions and complete neglect. You may be rushing healing, expecting immediate results, or giving up too soon. Sustainable health is built through consistent, moderate habits. There's also a warning about excess—too much work, too little sleep, too much stress, too little movement. Find balance. Not dramatically—gradually. Small changes sustained over time create transformation. If you're struggling with addiction or unhealthy patterns, seek support. You don't have to do this alone. Temperance reversed reminds you: balance is possible. Return to centre. One small step at a time. Begin."
       }
     }
   },
   {
-    "id": "major_15_devil",
+    "id": "major_15",
     "name": "The Devil",
     "arcana": "major",
     "suit": null,
@@ -391,19 +391,19 @@ export const DECK = [
         "general": "The Devil depicts a horned figure with bat wings, standing on a pedestal. Two figures—a man and a woman—are chained to the pedestal, but the chains are loose enough to remove. Above them, an inverted pentagram points downward—matter over spirit. The Devil is card number fifteen: the shadow that must be faced. This card represents addiction, compulsion, and the beliefs that keep us trapped. But here's the truth: the chains are voluntary. You're not as trapped as you believe. The Devil asks: what are you addicted to? What beliefs keep you small? What desires are you ashamed of? Facing your shadow isn't about shame; it's about freedom. Acknowledge your desires. Understand your patterns. Then choose. You have more power than you think. The chains can be removed. Walk away.",
         "love": "In love, the Devil indicates intense attraction, sexual chemistry, or relationships based on attachment rather than love. If you're single, you may be attracted to people who aren't good for you—addictive dynamics, unavailable partners, or relationships that feel more like obsession than connection. For those in relationships, the Devil may indicate codependency, jealousy, or sexual dynamics that feel compulsive. This card asks: are you together out of love, or fear? Are you staying because you want to, or because you're afraid to leave? The Devil reminds you: you have choices. Even in difficult situations, you have agency. Acknowledge the attachment. Then decide. Love should liberate, not imprison. Choose freedom.",
         "career": "Professionally, the Devil indicates work that feels trapping—staying for money despite misery, addiction to work itself, or unethical situations you're rationalising. You may feel chained to a job, industry, or lifestyle that drains you. The Devil asks: what are you willing to tolerate for security? Is it worth it? This card also warns of workplace toxicity—manipulation, exploitation, or cultures that demand unhealthy sacrifice. Document everything. Protect yourself. Plan your exit. The Devil reminds you: you're not as trapped as you believe. Update your CV. Save money. Build options. Then choose. Your career should serve your life, not consume it. Choose freedom. Walk away.",
-        "health": "The Devil governs addictions, compulsions, and health patterns that feel inescapable—substance abuse, disordered eating, or behaviours you're ashamed of but can't stop. This card asks you to face your shadow without shame. Addiction isn't moral failure; it's a coping mechanism that's outlived its usefulness. Seek support. Therapy, groups, or medical care can help. The Devil also reminds you: recovery is possible. The chains are looser than they appear. You have more agency than you believe. Acknowledge the problem. Seek help. Take the first step. Freedom is possible. You're worth the effort. Choose health. Choose recovery. Choose yourself.",
+        "health": "The Devil governs addictions, compulsions, and health patterns that feel inescapable—substance abuse, disordered eating, or behaviours you're ashamed of but can't stop. This card asks you to face your shadow without shame. Addiction isn't moral failure; it's a coping mechanism that's outlived its usefulness. Seek support. Therapy, groups, or medical care can help. The Devil also reminds you: recovery is possible. The chains are looser than they appear. You have more agency than you believe. Acknowledge the problem. Seek help. Take the first step. Freedom is possible. You're worth the effort. Choose health. Choose recovery. Choose yourself."
       },
       "reversed": {
         "subtitle": "Releasing limiting beliefs, breaking free, reclaiming power, awakening",
         "general": "Reversed, the Devil indicates breaking free from addiction, releasing limiting beliefs, or awakening to your own power. You're beginning to see the chains for what they are—optional. This is a time of liberation, but it's not easy. Breaking free from long-held patterns requires courage and support. The reversed Devil asks: what are you ready to release? What beliefs no longer serve you? What addictions are you ready to confront? This isn't about willpower; it's about awareness. See the patterns. Understand their origins. Then choose differently. You may need support—therapy, groups, or trusted others. That's not weakness; it's wisdom. The Devil reversed reminds you: freedom is possible. You're not broken. You're waking up. Take the step. Walk away.",
         "love": "In relationships, this reversal indicates breaking free from unhealthy patterns—leaving toxic relationships, ending codependent dynamics, or releasing attachment to outcomes. If you're single, you may be ready to date differently—choosing partners based on character rather than chemistry, or taking time to heal before connecting. For those in relationships, the reversed Devil supports honest conversations about unhealthy dynamics. Are you staying out of love, or fear? Are you both growing, or stagnating? This card also indicates reclaiming sexual agency—exploring desires without shame, setting boundaries around intimacy, or healing from sexual trauma. You deserve healthy love. Choose it. Demand it. Freedom is possible. Walk toward it.",
         "career": "Career-wise, reversed Devil indicates breaking free from trapping situations—leaving toxic jobs, changing careers, or releasing beliefs that keep you small ('I'm not qualified,' 'I'm too old,' 'It's too late'). You may be ready to work differently—setting boundaries, demanding fair compensation, or refusing unethical requests. This card supports entrepreneurship, career changes, or any move toward autonomy. The reversed Devil reminds you: you have options. Update your CV. Network. Save money. Build your exit strategy. Then leave. Your career should serve your life. If it doesn't, change it. Freedom is possible. Choose it. Walk away.",
-        "health": "Reversed, this card indicates breaking free from unhealthy patterns—addiction recovery, ending disordered eating, or releasing beliefs that undermine wellbeing. This is difficult work that often requires support. Seek it. Therapy, medical care, or support groups can help. The reversed Devil also indicates reclaiming body autonomy—setting boundaries around touch, exploring sexuality without shame, or healing from body trauma. You deserve to feel safe in your body. You deserve compassionate care. This card reminds you: recovery is possible. The chains are looser than they appear. You have more agency than you believe. Take the first step. Seek support. Choose health. Choose freedom. Choose yourself.",
+        "health": "Reversed, this card indicates breaking free from unhealthy patterns—addiction recovery, ending disordered eating, or releasing beliefs that undermine wellbeing. This is difficult work that often requires support. Seek it. Therapy, medical care, or support groups can help. The reversed Devil also indicates reclaiming body autonomy—setting boundaries around touch, exploring sexuality without shame, or healing from body trauma. You deserve to feel safe in your body. You deserve compassionate care. This card reminds you: recovery is possible. The chains are looser than they appear. You have more agency than you believe. Take the first step. Seek support. Choose health. Choose freedom. Choose yourself."
       }
     }
   },
   {
-    "id": "major_16_tower",
+    "id": "major_16",
     "name": "The Tower",
     "arcana": "major",
     "suit": null,
@@ -416,19 +416,19 @@ export const DECK = [
         "general": "The Tower depicts a tall structure struck by lightning, flames erupting from its top. Two figures fall headfirst from the tower—their crowns flying off, symbolising the loss of ego and status. The Tower is card number sixteen: the sudden collapse of structures built on false foundations. This card represents upheaval, revelation, and the destruction that makes rebuilding possible. What's falling apart in your life? A relationship, a job, a belief system? The Tower asks you to trust the destruction. What's being destroyed wasn't meant to last. The lightning is divine intervention—truth breaking through illusion. This isn't punishment; it's liberation. The foundations were false. Better they fall now than later. Let it burn. Rebuild on truth. The tower's collapse makes space for something real.",
         "love": "In love, the Tower indicates sudden, dramatic change—a breakup, revelation of betrayal, or a crisis that fundamentally alters the relationship. If you're single, this card may indicate the sudden end of a situationship or the shattering of illusions about love. For those in relationships, the Tower asks: what false foundations are being exposed? Unhonesty? Incompatibility? Unresolved trauma? This isn't pleasant, but it's necessary. Relationships built on lies can't survive. Better the truth emerges now. If your relationship survives the Tower, it will be stronger—built on truth rather than illusion. If it doesn't, trust that something healthier is possible. Let it fall. Rebuild on truth. Love deserves honesty.",
         "career": "Professionally, the Tower indicates sudden upheaval—layoffs, company collapse, or revelations that change everything. This can feel devastating, but the Tower asks you to trust the process. What's collapsing wasn't sustainable. Better it falls now than after you've invested years. This card also supports leaving situations that feel trapping—quit the toxic job, walk away from the unethical deal, refuse the promotion that would destroy your health. The Tower reminds you: destruction makes space for creation. What's ending wasn't meant for you. Something better is coming. Trust it. Let the tower fall. Rebuild on solid ground. Your career deserves truth.",
-        "health": "The Tower governs sudden health crises—accidents, diagnoses, or emergencies that change everything. This is frightening, but the Tower asks you to trust the process. Sometimes the body forces rest through crisis because you wouldn't choose it voluntarily. This card also indicates health revelations—finally getting a diagnosis, understanding the root cause, or realising that current approaches aren't working. The Tower reminds you: your body is wise. It's been trying to communicate. Listen now. This isn't punishment; it's awakening. Let old health beliefs fall. Rebuild on truth. Seek competent care. Trust your body's wisdom. Healing is possible. Begin with honesty.",
+        "health": "The Tower governs sudden health crises—accidents, diagnoses, or emergencies that change everything. This is frightening, but the Tower asks you to trust the process. Sometimes the body forces rest through crisis because you wouldn't choose it voluntarily. This card also indicates health revelations—finally getting a diagnosis, understanding the root cause, or realising that current approaches aren't working. The Tower reminds you: your body is wise. It's been trying to communicate. Listen now. This isn't punishment; it's awakening. Let old health beliefs fall. Rebuild on truth. Seek competent care. Trust your body's wisdom. Healing is possible. Begin with honesty."
       },
       "reversed": {
         "subtitle": "Avoiding disaster, delaying the inevitable, fear of change, personal transformation",
         "general": "Reversed, the Tower indicates avoiding necessary destruction—clinging to collapsing structures, denying truth, or delaying the inevitable. You may know something needs to end, but you're resisting. The reversed Tower asks: what are you afraid to lose? What truth are you avoiding? Delaying the inevitable doesn't prevent it; it prolongs suffering. Sometimes we hold up falling towers, believing we can prevent collapse. We can't. Better to step aside and let it fall. This card also indicates internal transformation—the tower is falling within you, not externally. Old beliefs, identities, and patterns are collapsing. This is painful but necessary. Let it happen. Don't rebuild the same tower. Build something true. The reversed Tower reminds you: destruction serves creation. Trust the process. Let it fall.",
         "love": "In relationships, this reversal indicates avoiding necessary endings—staying in dying relationships, denying problems, or hoping things will improve without change. You may know the relationship isn't working, but you're afraid to leave. The reversed Tower asks: what are you afraid of? Being alone? Starting over? Hurting someone? Staying out of fear serves no one. Have the difficult conversation. End what needs ending. If you're single, you may be avoiding vulnerability, building walls to prevent future pain. This protects you from hurt, but also from love. The reversed Tower reminds you: better an honest ending than a slow death. Let it fall. Grieve. Heal. Love again. You deserve truth.",
         "career": "Career-wise, reversed Tower warns of staying in collapsing situations—dying industries, toxic workplaces, or roles that are being eliminated. You may know change is coming, but you're hoping to weather it. You won't. The reversed Tower asks: what are you waiting for? Update your CV. Network. Save money. Plan your exit. Don't wait to be pushed. Choose your ending. Create your beginning. This card also indicates internal transformation—changing how you relate to work, releasing identities tied to career, or accepting that your path is changing. The reversed Tower reminds you: destruction serves creation. Let old career identities fall. Build something true. Your work should serve your life. Choose accordingly.",
-        "health": "Reversed, this card can indicate avoiding health crises—ignoring symptoms, denying diagnoses, or refusing necessary changes. You may know your health is deteriorating, but you're afraid to face it. The reversed Tower asks: what are you avoiding? The checkup? The conversation? The lifestyle change? Delaying doesn't prevent health issues; it makes them worse. Face it now. Seek care. Make changes. This card also indicates internal transformation—releasing health beliefs that no longer serve you, accepting new realities about your body, or rebuilding your relationship with health. The reversed Tower reminds you: your body is wise. Listen to it. Let old patterns fall. Build something true. Health is possible. Begin with honesty.",
+        "health": "Reversed, this card can indicate avoiding health crises—ignoring symptoms, denying diagnoses, or refusing necessary changes. You may know your health is deteriorating, but you're afraid to face it. The reversed Tower asks: what are you avoiding? The checkup? The conversation? The lifestyle change? Delaying doesn't prevent health issues; it makes them worse. Face it now. Seek care. Make changes. This card also indicates internal transformation—releasing health beliefs that no longer serve you, accepting new realities about your body, or rebuilding your relationship with health. The reversed Tower reminds you: your body is wise. Listen to it. Let old patterns fall. Build something true. Health is possible. Begin with honesty."
       }
     }
   },
   {
-    "id": "major_17_star",
+    "id": "major_17",
     "name": "The Star",
     "arcana": "major",
     "suit": null,
@@ -441,19 +441,19 @@ export const DECK = [
         "general": "The Star depicts a nude woman kneeling by water, pouring liquid from two vessels—one onto the land, one into the water. Above her, eight stars shine; one large star dominates the sky. The Star is card number seventeen: the hope that follows the Tower's destruction. After upheaval comes healing. After darkness, light. This card represents renewal, faith, and the quiet certainty that you're guided. The Star asks you to trust the universe. You're not alone. Healing is happening, even if you can't see it yet. This is a time of restoration—physically, emotionally, spiritually. Rest. Receive. Trust. The stars are guiding you. Your purpose is unfolding. Have faith. The worst is behind you. Better days are coming. Let yourself heal.",
         "love": "In love, the Star indicates healing after heartbreak, renewed hope in relationships, or finding love when you've stopped looking. If you're single, this card suggests you're healing from past relationships and ready to love again—not from desperation, but from wholeness. For those in relationships, the Star supports healing together—working through difficulties, renewing commitment, or finding deeper connection after crisis. This card reminds you: love is possible. Even after betrayal, even after loss, even after disappointment. Don't close your heart. Heal it. Then open it again. The right love will meet you there. Trust the timing. Have faith. Love is worth the risk.",
         "career": "Professionally, the Star indicates renewal after career setbacks—finding new opportunities after job loss, discovering purpose after burnout, or finally pursuing work that aligns with your values. This is a time of inspiration and creativity. Trust your intuition about career direction. The Star also supports healing work—roles that help others heal, or work that feels meaningful rather than merely profitable. This card reminds you: your career can be both sustainable and fulfilling. Don't settle for less. Trust that opportunities are coming. Prepare for them. Update your skills. Network. Rest adequately. The Star promises: better work is possible. Have faith. Pursue it.",
-        "health": "The Star governs healing—physical recovery, emotional restoration, and spiritual renewal. This card supports recovery from illness, burnout, or trauma through rest, self-care, and faith in the process. Healing isn't linear; there will be good days and difficult ones. Trust the larger arc. This card also reminds you: your body wants to heal. Support it with rest, nutrition, and compassionate care. Spiritually, the Star is the connection to something larger—faith, purpose, or the sense that you're guided. This isn't about religion; it's about trust. Trust the universe. Trust your body. Trust the process. Healing is happening. Have faith. Rest. Receive. You're held.",
+        "health": "The Star governs healing—physical recovery, emotional restoration, and spiritual renewal. This card supports recovery from illness, burnout, or trauma through rest, self-care, and faith in the process. Healing isn't linear; there will be good days and difficult ones. Trust the larger arc. This card also reminds you: your body wants to heal. Support it with rest, nutrition, and compassionate care. Spiritually, the Star is the connection to something larger—faith, purpose, or the sense that you're guided. This isn't about religion; it's about trust. Trust the universe. Trust your body. Trust the process. Healing is happening. Have faith. Rest. Receive. You're held."
       },
       "reversed": {
         "subtitle": "Lack of faith, despair, discouragement, disconnection, insecurity",
         "general": "Reversed, the Star indicates lost faith—feeling abandoned by the universe, discouraged by slow progress, or disconnected from purpose. You may be struggling to see the light after darkness, or believing that healing isn't possible. The reversed Star asks: what would help you have faith again? Small wins? Support? Rest? This isn't about forcing positivity; it's about acknowledging that healing takes time. You're not failing; you're healing. There's a difference. This card also warns of disconnection—from your body, your purpose, or your support systems. Reconnect. Seek help. You don't have to navigate this alone. The reversed Star reminds you: faith isn't permanent. It ebbs and flows. When it's low, lean on others. Their faith can hold you until yours returns. Trust the process. Keep going. Light is coming.",
         "love": "In relationships, this reversal indicates lost faith in love—after heartbreak, betrayal, or repeated disappointments. You may be struggling to open your heart again, or believing that love isn't possible for you. If you're single, the reversed Star asks: are you closed off from love, or just protecting yourself while you heal? Both are valid. Take the time you need. For those in relationships, you may be struggling to rebuild trust after crisis. This takes time. Don't rush it. The reversed Star reminds you: love is still possible. Even after loss. Even after betrayal. Even after disappointment. Heal first. Then love. Your heart will open again. Trust the timing. Have patience. Love is worth waiting for.",
         "career": "Career-wise, reversed Star indicates discouragement—feeling stuck, believing better work isn't possible, or losing faith in your abilities. You may be burnt out, directionless, or struggling to see purpose in your work. This card asks: what would renew your faith? A break? New skills? Different work? Don't make permanent decisions from temporary despair. Rest first. Then reassess. The reversed Star also reminds you: careers have seasons. This difficult period will pass. Better opportunities are coming. Prepare for them. Update your skills. Network. Rest adequately. Your career deserves purpose. Don't settle for less. Have faith. Keep going. Light is coming.",
-        "health": "Reversed, this card can indicate struggling with healing—feeling discouraged by slow progress, losing faith in recovery, or disconnecting from your body. You may be struggling with chronic illness, mental health challenges, or the emotional toll of health issues. The reversed Star asks: what support do you need? Therapy? Medical care? Community? You don't have to navigate this alone. Seek help. This card also reminds you: healing isn't linear. Setbacks don't mean you're failing. They mean you're human. Be patient with yourself. Rest when needed. Celebrate small wins. The reversed Star promises: healing is still possible. Have faith. Keep going. Light is coming. You're worth the effort.",
+        "health": "Reversed, this card can indicate struggling with healing—feeling discouraged by slow progress, losing faith in recovery, or disconnecting from your body. You may be struggling with chronic illness, mental health challenges, or the emotional toll of health issues. The reversed Star asks: what support do you need? Therapy? Medical care? Community? You don't have to navigate this alone. Seek help. This card also reminds you: healing isn't linear. Setbacks don't mean you're failing. They mean you're human. Be patient with yourself. Rest when needed. Celebrate small wins. The reversed Star promises: healing is still possible. Have faith. Keep going. Light is coming. You're worth the effort."
       }
     }
   },
   {
-    "id": "major_18_moon",
+    "id": "major_18",
     "name": "The Moon",
     "arcana": "major",
     "suit": null,
@@ -466,19 +466,19 @@ export const DECK = [
         "general": "The Moon depicts a night scene with a large moon illuminating a path between two towers. A dog and wolf howl at the moon; a crayfish emerges from water below. The path leads into mountains, uncertain and winding. The Moon is card number eighteen: the realm of illusion, fear, and the subconscious. This card represents confusion, anxiety, and the things we sense but can't see clearly. The Moon asks you to trust your intuition even when things are unclear. Not everything can be known logically. Some truths are felt, not proven. This is a time of dreams, psychic sensitivity, and facing fears. What are you afraid of? What illusions are you believing? The Moon reminds you: fear magnifies threats. Breathe. Trust your intuition. The path is there, even if you can't see it clearly. Walk forward. One step at a time.",
         "love": "In love, the Moon indicates uncertainty, anxiety, or illusions about relationships. If you're single, you may be attracted to mysterious, unavailable people, or projecting fantasies onto potential partners. The Moon asks: are you seeing clearly, or through the lens of fear and desire? For those in relationships, this card may indicate insecurity, jealousy, or unspoken fears creating distance. There may be things left unsaid, or intuitions you're ignoring. The Moon asks you to bring fears into the light. Talk about them. Don't let anxiety create problems that don't exist. This card also supports exploring intimacy through vulnerability—sharing fears, dreams, and uncertainties with your partner. Connection deepens through honesty. Trust your intuition. Speak your truth.",
         "career": "Professionally, the Moon indicates uncertainty—unclear direction, office politics, or situations where not everything is as it seems. You may be sensing problems but can't prove them, or feeling anxious about career direction. The Moon asks you to trust your intuition. If something feels off, it probably is. Document concerns. Protect yourself. This card also supports creative, intuitive work—art, writing, psychology, or any field that accesses the subconscious. If you're feeling anxious about career decisions, don't force clarity. Wait for it. The Moon reminds you: not everything can be known immediately. Some clarity comes through time. Trust the process. Walk forward. One step at a time.",
-        "health": "The Moon governs mental and emotional health—anxiety, depression, sleep issues, or psychosomatic symptoms. This card supports addressing the root causes of health issues, not just symptoms. What fears are affecting your wellbeing? What patterns need examining? The Moon also reminds you: your body and mind are connected. Emotional stress manifests physically. Address both. This card supports therapy, dreamwork, or practices that access the subconscious. There's wisdom in your dreams. Pay attention. Spiritually, the Moon is the journey through darkness—facing fears, trusting intuition, and finding your way without clear light. You're not lost. You're navigating. Trust yourself. The path is there. Walk forward.",
+        "health": "The Moon governs mental and emotional health—anxiety, depression, sleep issues, or psychosomatic symptoms. This card supports addressing the root causes of health issues, not just symptoms. What fears are affecting your wellbeing? What patterns need examining? The Moon also reminds you: your body and mind are connected. Emotional stress manifests physically. Address both. This card supports therapy, dreamwork, or practices that access the subconscious. There's wisdom in your dreams. Pay attention. Spiritually, the Moon is the journey through darkness—facing fears, trusting intuition, and finding your way without clear light. You're not lost. You're navigating. Trust yourself. The path is there. Walk forward."
       },
       "reversed": {
         "subtitle": "Release of fear, clarity, truth revealed, ending confusion, gaining perspective",
         "general": "Reversed, the Moon indicates emerging from confusion—fears being released, truth becoming clear, or illusions dissolving. You're beginning to see situations as they are, not as your anxiety portrayed them. The reversed Moon asks: what fears are releasing? What truth is emerging? This is a time of clarity after confusion, but it may be gradual. Don't force it. This card also indicates confronting fears directly—what you've been avoiding is less scary than you imagined. Face it. The reversed Moon reminds you: fear loses power when examined. Bring it into the light. Talk about it. Seek support if needed. You're emerging from darkness. Trust the process. Clarity is coming. Keep going. One step at a time.",
         "love": "In relationships, this reversal indicates clarity after confusion—understanding patterns, releasing fears, or seeing situations more clearly. If you're single, you may be releasing illusions about love or recognising patterns that kept you stuck. For those in relationships, the reversed Moon supports honest conversations that clear the air—addressing fears, revealing truths, or ending cycles of misunderstanding. This card reminds you: clarity creates intimacy. Don't avoid difficult conversations. Have them. The reversed Moon also indicates releasing anxiety about relationships—trusting more, controlling less, or accepting uncertainty. Love requires faith. Have it. Clarity is coming. Trust the process.",
         "career": "Career-wise, reversed Moon indicates clarity after uncertainty—understanding office dynamics, seeing career direction more clearly, or recognising illusions about work. You may be releasing fears that kept you stuck, or finally seeing situations as they are. This card supports making decisions from clarity rather than anxiety. If you've been avoiding career changes out of fear, examine the fear. Is it realistic? The reversed Moon reminds you: clarity comes through action, not just reflection. Take small steps. See what you learn. Your career direction will become clearer as you move. Trust the process. Keep going. Clarity is coming.",
-        "health": "Reversed, this card indicates emerging from health confusion—getting clear diagnoses, understanding root causes, or releasing health anxieties. You may be finding effective treatments, or finally addressing the emotional roots of physical symptoms. The reversed Moon supports therapy, particularly for anxiety, trauma, or health-related fears. This card reminds you: your mental and physical health are connected. Address both. If you've been avoiding medical care out of fear, go. Clarity is better than uncertainty. The reversed Moon promises: you're emerging from darkness. Healing is possible. Keep going. One step at a time. Clarity is coming. Trust the process.",
+        "health": "Reversed, this card indicates emerging from health confusion—getting clear diagnoses, understanding root causes, or releasing health anxieties. You may be finding effective treatments, or finally addressing the emotional roots of physical symptoms. The reversed Moon supports therapy, particularly for anxiety, trauma, or health-related fears. This card reminds you: your mental and physical health are connected. Address both. If you've been avoiding medical care out of fear, go. Clarity is better than uncertainty. The reversed Moon promises: you're emerging from darkness. Healing is possible. Keep going. One step at a time. Clarity is coming. Trust the process."
       }
     }
   },
   {
-    "id": "major_19_sun",
+    "id": "major_19",
     "name": "The Sun",
     "arcana": "major",
     "suit": null,
@@ -491,19 +491,19 @@ export const DECK = [
         "general": "The Sun depicts a large sun shining over a garden where a child rides a white horse, holding a red flag. Sunflowers bloom in the background. The Sun is card number nineteen: the brightest card in the deck. This card represents joy, success, and the clarity that comes after the Moon's darkness. The Sun asks you to celebrate. You've earned this. This is a time of vitality, warmth, and things going right. Enjoy it. The Sun also represents clarity—seeing situations as they are, without fear or illusion. This is truth in the light of day. The Sun reminds you: joy isn't frivolous. It's essential. Celebrate your wins. Share your light. Let yourself be happy. You deserve this. Bask in the warmth. Success is yours.",
         "love": "In love, the Sun is one of the most positive cards—joy, warmth, and genuine connection. If you're single, this card suggests you're radiating confidence and attractiveness. Love may come through outdoor activities, children, or situations that bring you joy. For those in relationships, the Sun indicates a phase of happiness, warmth, and deep connection. This is love at its best—playful, honest, and fulfilling. The Sun also supports major relationship milestones—engagement, marriage, or having children. This card reminds you: love should feel good. If it does, celebrate it. Share your joy. Let yourself be happy. You deserve this love. Bask in it.",
         "career": "Professionally, the Sun indicates success, recognition, and work that brings joy. This is a time of achievement—projects completing successfully, recognition for your work, or finally pursuing work that aligns with your passions. The Sun also supports creative work, roles involving children, or any career that brings you genuine satisfaction. This card reminds you: work doesn't have to be suffering. It can be joyful. If you've found work that fulfils you, celebrate it. Share your success. The Sun also indicates clarity about career direction—finally seeing your path clearly. Trust it. Pursue it. Success is yours. Celebrate it.",
-        "health": "The Sun governs vitality, energy, and robust health. This card supports recovery, improved energy, and feeling good in your body. The Sun reminds you: physical activity, sunlight, and joy are essential for health. Move your body. Get outside. Let the sun on your face. This card also supports mental health—feeling optimistic, clear, and positive. If you've been struggling, the Sun promises: better days are here. Celebrate your progress. Share your joy. This card also reminds you: health isn't just absence of illness. It's vitality. Cultivate it. Move. Play. Enjoy. You deserve to feel good. You do.",
+        "health": "The Sun governs vitality, energy, and robust health. This card supports recovery, improved energy, and feeling good in your body. The Sun reminds you: physical activity, sunlight, and joy are essential for health. Move your body. Get outside. Let the sun on your face. This card also supports mental health—feeling optimistic, clear, and positive. If you've been struggling, the Sun promises: better days are here. Celebrate your progress. Share your joy. This card also reminds you: health isn't just absence of illness. It's vitality. Cultivate it. Move. Play. Enjoy. You deserve to feel good. You do."
       },
       "reversed": {
         "subtitle": "Temporary depression, lack of success, sadness, delayed clarity, inner child",
         "general": "Reversed, the Sun indicates temporary clouds over your joy—setbacks, delays, or struggling to access happiness. This isn't permanent darkness; it's temporary clouds. The reversed Sun asks: what's dimming your light? Burnout? Disappointment? Unresolved sadness? This card also indicates connecting with your inner child— healing old wounds, finding play, or releasing the need to be serious all the time. The reversed Sun reminds you: joy is your birthright. Even when it's hard to access, it's still there. Seek it. Create it. Share it. This isn't about forcing positivity; it's about remembering that light exists even when you can't feel it. Small joys matter. Collect them. Share them. The clouds will pass. The sun is still there. Trust it.",
         "love": "In relationships, this reversal indicates temporary difficulties—misunderstandings, delayed plans, or struggling to access joy together. If you're single, you may be struggling to feel optimistic about love, or attracting partners when you're not in a joyful place. The reversed Sun asks: are you blocking your own happiness? What would help you access joy? For those in relationships, this card supports working through temporary difficulties—remembering why you're together, finding play again, or addressing sadness that's creating distance. The reversed Sun reminds you: love should feel good. If it doesn't, examine why. Temporary clouds pass. Joy can return. Work toward it. Together.",
         "career": "Career-wise, reversed Sun indicates temporary setbacks—delays in recognition, projects not going as planned, or struggling to find joy in work. This isn't failure; it's temporary clouds. The reversed Sun asks: what would bring more joy to your work? More autonomy? More creativity? More meaning? Address it. This card also reminds you: careers have seasons. Difficult periods pass. Better times come. Don't make permanent decisions from temporary disappointment. Rest. Reassess. Return with fresh eyes. The reversed Sun promises: success is still possible. Joy is still available. Keep going. The clouds will pass. Your light will shine again. Trust it.",
-        "health": "Reversed, this card can indicate struggling with energy, temporary health setbacks, or difficulty accessing joy in your body. You may be recovering from illness, dealing with chronic issues, or struggling with mental health. The reversed Sun asks: what small joys can you access today? A walk? Music? Connection? This isn't about toxic positivity; it's about remembering that joy is medicine. Seek it. Create it. This card also supports healing your inner child—addressing old wounds, finding play, or releasing the need to be perfect. The reversed Sun reminds you: health includes joy. Cultivate it. Small steps matter. Keep going. The clouds will pass. Your vitality will return. Trust it.",
+        "health": "Reversed, this card can indicate struggling with energy, temporary health setbacks, or difficulty accessing joy in your body. You may be recovering from illness, dealing with chronic issues, or struggling with mental health. The reversed Sun asks: what small joys can you access today? A walk? Music? Connection? This isn't about toxic positivity; it's about remembering that joy is medicine. Seek it. Create it. This card also supports healing your inner child—addressing old wounds, finding play, or releasing the need to be perfect. The reversed Sun reminds you: health includes joy. Cultivate it. Small steps matter. Keep going. The clouds will pass. Your vitality will return. Trust it."
       }
     }
   },
   {
-    "id": "major_20_judgement",
+    "id": "major_20",
     "name": "Judgement",
     "arcana": "major",
     "suit": null,
@@ -516,19 +516,19 @@ export const DECK = [
         "general": "Judgement depicts an angel sounding a trumpet above figures rising from coffins, arms raised in acceptance. The Judgement card is number twenty: the call to awakening. This card represents reckoning, rebirth, and the moment you answer your inner calling. The Judgement asks: what is your soul asking of you? What past are you ready to release? This isn't about external judgment; it's about self-evaluation and the courage to change. You're being called to something higher—your purpose, your truth, your authentic self. The past is done. The future is calling. Answer it. This card also represents absolution—forgiving yourself and others, releasing guilt, and stepping into who you're meant to become. The trumpet is sounding. Will you answer? Rise. Rebirth is waiting.",
         "love": "In love, Judgement indicates a relationship reaching a turning point—renewal after difficulty, a decision about commitment, or answering the call to deeper connection. If you're single, this card suggests you're ready to release past relationship patterns and answer a new calling. For those in relationships, Judgement may indicate major decisions—moving in together, marriage, having children, or consciously renewing your commitment. This card asks: are you answering your relationship's calling? Or avoiding it? Judgement also supports forgiveness—releasing past hurts, absolving each other, and beginning anew. The past is done. The future is calling. Answer it together. Rebirth is possible.",
         "career": "Professionally, Judgement indicates a career awakening—answering your calling, changing paths, or finally pursuing work that aligns with your purpose. This card supports major career decisions—leaving unfulfilling work, starting businesses, or returning to meaningful fields. Judgement asks: what is your soul asking of your career? Are you listening? This card also indicates recognition—your work being seen, promotions, or finally receiving credit you've earned. The trumpet is sounding. Answer it. Your career deserves purpose. Pursue it. The past is done. The future is calling. Rise. Rebirth is waiting.",
-        "health": "Judgement governs major health decisions—finally addressing chronic issues, making lifestyle changes, or answering your body's call for care. This card supports recovery, transformation, and the courage to prioritise your wellbeing. Judgement asks: what health patterns are you ready to release? What calling is your body making? Listen. This card also represents absolution—releasing guilt about past health choices, forgiving yourself, and beginning anew. The past is done. The future is calling. Answer it. Your health deserves priority. Give it. Rebirth is possible. Rise.",
+        "health": "Judgement governs major health decisions—finally addressing chronic issues, making lifestyle changes, or answering your body's call for care. This card supports recovery, transformation, and the courage to prioritise your wellbeing. Judgement asks: what health patterns are you ready to release? What calling is your body making? Listen. This card also represents absolution—releasing guilt about past health choices, forgiving yourself, and beginning anew. The past is done. The future is calling. Answer it. Your health deserves priority. Give it. Rebirth is possible. Rise."
       },
       "reversed": {
         "subtitle": "Self-doubt, refusal of calling, ignoring the wake-up call, lack of self-awareness",
         "general": "Reversed, Judgement indicates refusing the call—ignoring your inner voice, avoiding necessary changes, or staying stuck in old patterns. You may hear the trumpet but pretend you don't. The reversed Judgement asks: what are you avoiding? What change are you resisting? This isn't about external judgment; it's about self-honesty. You know what needs to change. Are you willing? This card also indicates self-doubt—questioning your worthiness, fearing change, or believing you can't answer the call. You can. The reversed Judgement reminds you: the call won't stop sounding. Ignoring it creates suffering. Answer it. The past is done. The future is calling. Stop resisting. Rise. Rebirth is waiting.",
         "love": "In relationships, this reversal indicates avoiding necessary decisions—staying in unfulfilling relationships, refusing to commit, or ignoring your inner calling about love. If you're single, you may be avoiding vulnerability, refusing to release past patterns, or ignoring opportunities for connection. For those in relationships, the reversed Judgement asks: are you avoiding the conversation that needs to happen? The decision that needs making? Don't. The reversed Judgement reminds you: avoiding decisions is itself a decision—one that often creates more suffering. Answer your relationship's calling. Have the conversation. Make the decision. The past is done. The future is calling. Answer it.",
         "career": "Career-wise, reversed Judgement indicates avoiding career changes you know you need—staying in unfulfilling work, ignoring your calling, or refusing to take necessary risks. You may hear the call but fear the change. The reversed Judgement asks: what are you afraid of? Failure? Success? Change itself? Address it. This card also indicates self-doubt—questioning your abilities, fearing you're not ready, or believing you don't deserve better. You do. The reversed Judgement reminds you: the call won't stop. Ignoring it creates suffering. Answer it. Update your CV. Make the change. The past is done. The future is calling. Rise. Your career deserves purpose. Pursue it.",
-        "health": "Reversed, this card indicates avoiding health changes you know you need—ignoring symptoms, refusing lifestyle changes, or avoiding medical care. You may know what needs to change but resist it. The reversed Judgement asks: what are you afraid of? Change? Truth? Yourself? Address it. This card also indicates self-judgment—being hard on yourself for past health choices, believing you don't deserve care, or feeling too far gone to change. You're not. The reversed Judgement reminds you: your body is calling. Listen. Make the changes. Seek care. The past is done. The future is calling. Answer it. Your health deserves priority. Give it. Rebirth is possible. Rise.",
+        "health": "Reversed, this card indicates avoiding health changes you know you need—ignoring symptoms, refusing lifestyle changes, or avoiding medical care. You may know what needs to change but resist it. The reversed Judgement asks: what are you afraid of? Change? Truth? Yourself? Address it. This card also indicates self-judgment—being hard on yourself for past health choices, believing you don't deserve care, or feeling too far gone to change. You're not. The reversed Judgement reminds you: your body is calling. Listen. Make the changes. Seek care. The past is done. The future is calling. Answer it. Your health deserves priority. Give it. Rebirth is possible. Rise."
       }
     }
   },
   {
-    "id": "major_21_world",
+    "id": "major_21",
     "name": "The World",
     "arcana": "major",
     "suit": null,
@@ -541,26 +541,25 @@ export const DECK = [
         "general": "The World depicts a dancing figure surrounded by a laurel wreath, holding two wands. In the corners, four figures represent the fixed signs of the zodiac and the four elements. The World is card number twenty-one: the final card of the Major Arcana, representing completion and wholeness. This card represents the end of a cycle, accomplishment, and the integration of all you've learned. The World asks you to celebrate. You've completed something significant. Honour it. This card also represents travel, expansion, and seeing the bigger picture. You're not just complete; you're connected—to others, to the world, to something larger. The World reminds you: endings are also beginnings. This cycle is complete. A new one awaits. Celebrate what you've accomplished. Then begin again. You're ready.",
         "love": "In love, the World indicates completion and wholeness—a relationship reaching maturity, long-term commitment, or finding the love you've been seeking. If you're single, this card suggests you're complete within yourself and ready for a partnership that honours that wholeness. For those in relationships, the World indicates deep connection, possibly marriage, long-term commitment, or simply the satisfaction of a relationship that has weathered storms and emerged stronger. This card reminds you: love isn't about two halves making a whole. It's about two wholes choosing each other. You're complete. Your partner is complete. Together, you're expansive. Celebrate it. Honour it. This is love at its best.",
         "career": "Professionally, the World indicates completion—projects finishing successfully, career goals achieved, or reaching a level of mastery. This card celebrates your accomplishments. You've earned this. The World also indicates expansion—international work, travel for career, or opportunities that broaden your horizons. This card reminds you: your career is a cycle. This chapter is complete. A new one begins. What have you learned? What do you want next? Celebrate your accomplishments. Then choose consciously. You're ready for whatever comes. The world is yours. Step into it.",
-        "health": "The World governs holistic health—integration of mind, body, and spirit, and the sense of wholeness that comes from caring for all aspects of yourself. This card indicates robust health, recovery complete, or finally finding approaches that work for your body. The World reminds you: health isn't a destination. It's a practice. You've learned what works. Continue it. This card also supports travel for health—retreats, medical tourism, or simply the healing that comes from new perspectives. You're whole. You're healthy. You're connected. Celebrate it. Honour your body. Continue the practice. The World is yours. Step into it fully.",
+        "health": "The World governs holistic health—integration of mind, body, and spirit, and the sense of wholeness that comes from caring for all aspects of yourself. This card indicates robust health, recovery complete, or finally finding approaches that work for your body. The World reminds you: health isn't a destination. It's a practice. You've learned what works. Continue it. This card also supports travel for health—retreats, medical tourism, or simply the healing that comes from new perspectives. You're whole. You're healthy. You're connected. Celebrate it. Honour your body. Continue the practice. The World is yours. Step into it fully."
       },
       "reversed": {
         "subtitle": "Lack of closure, delays, incomplete cycles, seeking external validation",
         "general": "Reversed, the World indicates incomplete cycles—projects unfinished, goals not quite reached, or feeling like you're almost there but not quite. The reversed World asks: what needs completing? What are you avoiding finishing? This card also indicates seeking external validation rather than internal satisfaction—waiting for others to confirm your worth rather than claiming it. The reversed World reminds you: you don't need permission to feel complete. You already are. Finish what needs finishing. Celebrate what you've accomplished. Then begin again. Don't wait for external validation. Claim your wholeness. The cycle is complete enough. Move forward. You're ready.",
         "love": "In relationships, this reversal indicates incomplete cycles—relationships not quite ready for the next level, unresolved issues preventing deeper commitment, or feeling like something is missing. If you're single, you may be seeking external validation for your worthiness of love, or feeling incomplete without a partner. The reversed World reminds you: you're already whole. A relationship adds to your life; it doesn't complete it. For those in relationships, address what's incomplete. Have the conversation. Resolve the issue. Don't let small things prevent deeper connection. The reversed World promises: completion is possible. Work toward it. Together.",
         "career": "Career-wise, reversed World indicates incomplete projects, delayed recognition, or feeling like you're almost at your goal but not quite. This card asks: what needs finishing? What are you avoiding? Complete it. This card also indicates seeking external validation—waiting for promotions, recognition, or others to confirm your worth. Don't wait. Claim your accomplishments. Celebrate them. The reversed World reminds you: your career is a series of cycles. This one is complete enough. Begin the next. Don't wait for perfect conditions. They won't come. Move forward. You're ready. Your career deserves celebration. Give it to yourself.",
-        "health": "Reversed, this card can indicate feeling like health goals aren't quite reached, struggling with maintenance after initial progress, or seeking external validation for health choices. The reversed World asks: what needs completing? What maintenance is needed? Address it. This card also reminds you: health isn't perfection. It's practice. You don't need to be perfect to be healthy. You're already whole. Continue the practice. Celebrate progress. The reversed World promises: completion is possible. Keep going. Your health deserves celebration. Give it to yourself. You're ready. Step into wholeness.",
+        "health": "Reversed, this card can indicate feeling like health goals aren't quite reached, struggling with maintenance after initial progress, or seeking external validation for health choices. The reversed World asks: what needs completing? What maintenance is needed? Address it. This card also reminds you: health isn't perfection. It's practice. You don't need to be perfect to be healthy. You're already whole. Continue the practice. Celebrate progress. The reversed World promises: completion is possible. Keep going. Your health deserves celebration. Give it to yourself. You're ready. Step into wholeness."
       }
     }
-  }
-,
+  },
   {
-    "id": "cups_01_ace",
+    "id": "cups_01",
     "name": "Ace of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 1,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Ace_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Ace_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups01.jpg",
+    "imgFull": "./images/rws/Cups01.jpg",
     "meanings": {
       "upright": {
         "subtitle": "New love, emotional beginnings, compassion, intuition, overflow",
@@ -579,13 +578,13 @@ export const DECK = [
     }
   },
   {
-    "id": "cups_02_two",
+    "id": "cups_02",
     "name": "Two of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 2,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Two_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Two_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups02.jpg",
+    "imgFull": "./images/rws/Cups02.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Partnership, unity, mutual attraction, connection, balance",
@@ -604,13 +603,13 @@ export const DECK = [
     }
   },
   {
-    "id": "cups_03_three",
+    "id": "cups_03",
     "name": "Three of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 3,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Three_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Three_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups03.jpg",
+    "imgFull": "./images/rws/Cups03.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Celebration, friendship, creativity, community, joy, gathering",
@@ -629,13 +628,13 @@ export const DECK = [
     }
   },
   {
-    "id": "cups_04_four",
+    "id": "cups_04",
     "name": "Four of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 4,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Four_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Four_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups04.jpg",
+    "imgFull": "./images/rws/Cups04.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Apathy, contemplation, disconnected, missed opportunities, dissatisfaction",
@@ -654,13 +653,13 @@ export const DECK = [
     }
   },
   {
-    "id": "cups_05_five",
+    "id": "cups_05",
     "name": "Five of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 5,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Five_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Five_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups05.jpg",
+    "imgFull": "./images/rws/Cups05.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Loss, grief, disappointment, focusing on the negative, regret",
@@ -679,13 +678,13 @@ export const DECK = [
     }
   },
   {
-    "id": "cups_06_six",
+    "id": "cups_06",
     "name": "Six of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 6,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Six_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Six_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups06.jpg",
+    "imgFull": "./images/rws/Cups06.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Nostalgia, childhood, innocence, reunion, happy memories, simplicity",
@@ -704,20 +703,20 @@ export const DECK = [
     }
   },
   {
-    "id": "cups_07_seven",
+    "id": "cups_07",
     "name": "Seven of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 7,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Seven_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Seven_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups07.jpg",
+    "imgFull": "./images/rws/Cups07.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Choices, illusion, fantasy, wishful thinking, confusion, options",
         "general": "The Seven of Cups shows a figure facing seven cups floating in clouds, each containing something different: wealth, fame, love, monsters, dragons. The Seven of Cups represents choices, illusions, and the confusion that comes from too many options. This card asks: what do you truly want? Not what looks good. Not what others expect. What do *you* want? The Seven of Cups reminds you: not every option is real. Some are illusions. Some are fears dressed as opportunities. Discernment matters. Choose wisely. One path is yours. Walk it.",
         "love": "In love, the Seven of Cups indicates multiple options—potential partners, or choices about a relationship. If you're single, you may be dating several people, or attracted to different 'types.' For those in relationships, this card suggests choices about commitment, or fantasies about what could be. The Seven of Cups asks: what do you truly want in love? Not the fantasy. The reality. Choose consciously. Commit fully.",
         "career": "Professionally, the Seven of Cups indicates many career options—multiple opportunities, or confusion about direction. This card asks: what work truly fulfils you? Not what pays most. Not what impresses others. What matters to you? The Seven of Cups reminds you: you can't pursue every path. Choose one. Commit. Depth beats breadth.",
-        "health": "The Seven of Cups governs health choices—multiple approaches, conflicting advice, or confusion about what's best. This card asks: what health approach aligns with your values? Not every trend works. Not every opinion matters. Discernment matters. Choose what serves you. Commit to it.",
+        "health": "The Seven of Cups governs health choices—multiple approaches, conflicting advice, or confusion about what's best. This card asks: what health approach aligns with your values? Not every trend works. Not every opinion matters. Discernment matters. Choose what serves you. Commit to it."
       },
       "reversed": {
         "subtitle": "Clarity, making choices, focus, determination, seeing through illusion",
@@ -729,13 +728,13 @@ export const DECK = [
     }
   },
   {
-    "id": "cups_08_eight",
+    "id": "cups_08",
     "name": "Eight of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 8,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Eight_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Eight_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups08.jpg",
+    "imgFull": "./images/rws/Cups08.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Walking away, disillusionment, leaving behind, search for truth, abandonment",
@@ -754,13 +753,13 @@ export const DECK = [
     }
   },
   {
-    "id": "cups_09_nine",
+    "id": "cups_09",
     "name": "Nine of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 9,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Nine_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Nine_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups09.jpg",
+    "imgFull": "./images/rws/Cups09.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Contentment, satisfaction, wishes fulfilled, emotional stability, pride",
@@ -779,13 +778,13 @@ export const DECK = [
     }
   },
   {
-    "id": "cups_10_ten",
+    "id": "cups_10",
     "name": "Ten of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 10,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Ten_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Ten_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups10.jpg",
+    "imgFull": "./images/rws/Cups10.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Happiness, family, harmony, fulfilment, emotional completion, legacy",
@@ -804,13 +803,13 @@ export const DECK = [
     }
   },
   {
-    "id": "cups_11_page",
+    "id": "cups_11",
     "name": "Page of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 11,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Page_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Page_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups11.jpg",
+    "imgFull": "./images/rws/Cups11.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Creative opportunities, intuitive messages, curiosity, new feelings, exploration",
@@ -829,13 +828,13 @@ export const DECK = [
     }
   },
   {
-    "id": "cups_12_knight",
+    "id": "cups_12",
     "name": "Knight of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 12,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Knight_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Knight_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups12.jpg",
+    "imgFull": "./images/rws/Cups12.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Romance, charm, imagination, following the heart, idealism, pursuit",
@@ -854,13 +853,13 @@ export const DECK = [
     }
   },
   {
-    "id": "cups_13_queen",
+    "id": "cups_13",
     "name": "Queen of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 13,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Queen_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Queen_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups13.jpg",
+    "imgFull": "./images/rws/Cups13.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Compassion, nurturing, intuition, emotional security, empathy, caregiving",
@@ -879,20 +878,20 @@ export const DECK = [
     }
   },
   {
-    "id": "cups_14_king",
+    "id": "cups_14",
     "name": "King of Cups",
     "arcana": "minor",
     "suit": "cups",
     "number": 14,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_King_of_Cups.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_King_of_Cups.jpg",
+    "imgThumb": "./images/rws-thumb/Cups14.jpg",
+    "imgFull": "./images/rws/Cups14.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Emotional balance, compassion, diplomacy, wisdom, controlled feelings, maturity",
         "general": "The King of Cups sits on a throne in the sea, holding a cup and sceptre, neither wet nor overwhelmed by the waters around him. The King of Cups represents emotional mastery—feeling deeply while remaining balanced. He is compassionate but not codependent. Wise but not cold. The King of Cups asks you to embody emotional maturity. Feel your feelings. But don't be ruled by them. The King of Cups reminds you: emotional strength is the ability to hold space for others while remaining centred yourself. Be compassionate. Be wise. Be balanced. Lead with your heart. But keep your head.",
         "love": "In love, the King of Cups indicates emotionally mature partnerships, compassionate leadership in relationships, or embodying balanced love. If you're single, this card suggests you're ready for mature love, or attracting emotionally available partners. For those in relationships, the King of Cups indicates emotional stability, compassionate communication, or leading the relationship with wisdom. This card reminds you: love benefits from emotional maturity. Embody it. Share it.",
         "career": "Professionally, the King of Cups indicates leadership with emotional intelligence—managing with compassion, diplomatic negotiation, or careers requiring emotional wisdom. This card supports leading with heart, creating emotionally intelligent workplaces, or balancing logic with intuition. The King of Cups reminds you: emotional intelligence is leadership. Use it.",
-        "health": "The King of Cups governs emotional mastery affecting health—managing stress, balancing feelings with self-care, or approaching health with wisdom. This card supports emotional regulation practices, compassionate self-care, or trusting your intuition about wellbeing. The King of Cups reminds you: your emotional health affects your physical health. Master it. Balance it.",
+        "health": "The King of Cups governs emotional mastery affecting health—managing stress, balancing feelings with self-care, or approaching health with wisdom. This card supports emotional regulation practices, compassionate self-care, or trusting your intuition about wellbeing. The King of Cups reminds you: your emotional health affects your physical health. Master it. Balance it."
       },
       "reversed": {
         "subtitle": "Emotional manipulation, moodiness, volatility, coldness, control issues",
@@ -904,13 +903,13 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_01_ace",
+    "id": "pentacles_01",
     "name": "Ace of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 1,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Ace_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Ace_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents01.jpg",
+    "imgFull": "./images/rws/Pents01.jpg",
     "meanings": {
       "upright": {
         "subtitle": "New financial opportunity, manifestation, abundance, prosperity, new venture",
@@ -929,13 +928,13 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_02_two",
+    "id": "pentacles_02",
     "name": "Two of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 2,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Two_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Two_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents02.jpg",
+    "imgFull": "./images/rws/Pents02.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Balance, adaptability, time management, priorities, juggling resources",
@@ -954,13 +953,13 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_03_three",
+    "id": "pentacles_03",
     "name": "Three of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 3,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Three_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Three_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents03.jpg",
+    "imgFull": "./images/rws/Pents03.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Teamwork, collaboration, learning, building, skill development, craftsmanship",
@@ -979,13 +978,13 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_04_four",
+    "id": "pentacles_04",
     "name": "Four of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 4,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Four_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Four_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents04.jpg",
+    "imgFull": "./images/rws/Pents04.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Security, conservation, frugality, control, possessiveness, saving",
@@ -1004,13 +1003,13 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_05_five",
+    "id": "pentacles_05",
     "name": "Five of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 5,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Five_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Five_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents05.jpg",
+    "imgFull": "./images/rws/Pents05.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Hardship, financial loss, poverty, isolation, illness, need",
@@ -1029,13 +1028,13 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_06_six",
+    "id": "pentacles_06",
     "name": "Six of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 6,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Six_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Six_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents06.jpg",
+    "imgFull": "./images/rws/Pents06.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Generosity, charity, sharing wealth, reciprocity, giving and receiving",
@@ -1054,13 +1053,13 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_07_seven",
+    "id": "pentacles_07",
     "name": "Seven of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 7,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Seven_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Seven_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents07.jpg",
+    "imgFull": "./images/rws/Pents07.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Patience, investment, long-term view, perseverance, waiting for harvest",
@@ -1079,20 +1078,20 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_08_eight",
+    "id": "pentacles_08",
     "name": "Eight of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 8,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Eight_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Eight_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents08.jpg",
+    "imgFull": "./images/rws/Pents08.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Craftsmanship, skill development, attention to detail, mastery, dedication",
         "general": "The Eight of Pentacles depicts an apprentice carefully engraving pentacles, seven completed, one in progress. The Eight of Pentacles represents dedicated work, skill development, and the pursuit of mastery. This card asks you: what craft are you honing? Are you willing to do the repetitive work excellence requires? The Eight of Pentacles reminds you: mastery isn't glamorous. It's daily practice. Show up. Do the work. Refine your craft. Excellence comes from repetition. Keep going. Your craft deserves dedication. Give it.",
         "love": "In love, the Eight of Pentacles indicates dedicated relationship work—learning to love better, developing relationship skills, or consistent effort. If you're single, this card suggests working on yourself before partnering. For those in relationships, the Eight of Pentacles indicates learning from each other, developing relationship skills, or consistent effort. This card reminds you: love is a craft. Hone it. Daily.",
         "career": "Professionally, the Eight of Pentacles indicates skill development, apprenticeship, or dedicated work toward mastery. This card supports learning new skills, focusing on quality, or becoming an expert. The Eight of Pentacles reminds you: your career is a craft. Hone it. Excellence comes from dedication. Give it.",
-        "health": "The Eight of Pentacles governs dedicated health practice—consistent routines, learning about your body, or developing healthy habits. This card supports patient health skill development, recognising that health mastery takes time. The Eight of Pentacles reminds you: health is a craft. Hone it. Daily.",
+        "health": "The Eight of Pentacles governs dedicated health practice—consistent routines, learning about your body, or developing healthy habits. This card supports patient health skill development, recognising that health mastery takes time. The Eight of Pentacles reminds you: health is a craft. Hone it. Daily."
       },
       "reversed": {
         "subtitle": "Lack of skill, poor quality, cutting corners, lack of motivation, mediocrity",
@@ -1104,20 +1103,20 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_09_nine",
+    "id": "pentacles_09",
     "name": "Nine of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 9,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Nine_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Nine_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents09.jpg",
+    "imgFull": "./images/rws/Pents09.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Abundance, luxury, self-sufficiency, financial independence, confidence",
         "general": "The Nine of Pentacles shows a well-dressed figure in a lush garden, one hand holding a pentacle, a falcon perched on the other arm. The Nine of Pentacles represents financial independence, self-sufficiency, and enjoying the fruits of your labour. This card asks you to appreciate your abundance. What have you built? The Nine of Pentacles reminds you: you've earned this. Enjoy it. But also: remain humble. Abundance is a gift. Honour it. You're self-sufficient. Celebrate it.",
         "love": "In love, the Nine of Pentacles indicates self-sufficient love—being whole within yourself, attracting partners from abundance not need. If you're single, this card suggests you're complete alone, ready for partnership that enhances not completes. For those in relationships, the Nine of Pentacles indicates financial independence within partnership, or enjoying abundance together. This card reminds you: love benefits from wholeness. Be whole. Share from abundance.",
         "career": "Professionally, the Nine of Pentacles indicates career success, financial independence, or enjoying the fruits of your labour. This card celebrates your accomplishments. You've worked hard. Enjoy the results. The Nine of Pentacles reminds you: success is yours. Celebrate it. But also: remain humble. Keep working.",
-        "health": "The Nine of Pentacles governs health abundance—feeling healthy, affording quality care, or enjoying physical wellbeing. This card celebrates your health. You've invested. Enjoy it. The Nine of Pentacles reminds you: health is wealth. Honour it. Maintain it.",
+        "health": "The Nine of Pentacles governs health abundance—feeling healthy, affording quality care, or enjoying physical wellbeing. This card celebrates your health. You've invested. Enjoy it. The Nine of Pentacles reminds you: health is wealth. Honour it. Maintain it."
       },
       "reversed": {
         "subtitle": "Financial setbacks, dependence, superficiality, overworking, isolation",
@@ -1129,20 +1128,20 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_10_ten",
+    "id": "pentacles_10",
     "name": "Ten of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 10,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Ten_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Ten_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents10.jpg",
+    "imgFull": "./images/rws/Pents10.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Wealth, family legacy, long-term success, inheritance, stability, establishment",
         "general": "The Ten of Pentacles depicts a multi-generational family in a wealthy estate, dogs at their feet, pentacles arranged in the Tree of Life pattern. The Ten of Pentacles represents generational wealth, family legacy, and long-term establishment. This is the culmination of the Pentacles suit—wealth secured, family established, legacy created. The Ten of Pentacles asks you: what legacy are you building? Who will benefit from your work? This card reminds you: wealth isn't just money. It's family. It's stability. It's what you leave behind. Build wisely. Think generations. Your legacy matters.",
         "love": "In love, the Ten of Pentacles indicates long-term family commitment—marriage, children, or building generational wealth together. If you're single, this card suggests you're ready for family-oriented partnership. For those in relationships, the Ten of Pentacles indicates building family legacy together, financial planning for future generations, or simply enjoying family stability. This card reminds you: love builds families. Build yours wisely.",
         "career": "Professionally, the Ten of Pentacles indicates career establishment, family businesses, or building long-term wealth. This card supports thinking generationally about career, building something that outlasts you. The Ten of Pentacles reminds you: your career can create legacy. Build it. Think long-term.",
-        "health": "The Ten of Pentacles governs generational health—family health patterns, building healthy family traditions, or long-term health planning. This card reminds you: your health affects future generations. Build healthy patterns. Your family deserves it.",
+        "health": "The Ten of Pentacles governs generational health—family health patterns, building healthy family traditions, or long-term health planning. This card reminds you: your health affects future generations. Build healthy patterns. Your family deserves it."
       },
       "reversed": {
         "subtitle": "Family disputes, financial collapse, broken legacy, short-term thinking, instability",
@@ -1154,20 +1153,20 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_11_page",
+    "id": "pentacles_11",
     "name": "Page of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 11,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Page_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Page_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents11.jpg",
+    "imgFull": "./images/rws/Pents11.jpg",
     "meanings": {
       "upright": {
         "subtitle": "New financial opportunities, learning practical skills, manifestation, study, ambition",
         "general": "The Page of Pentacles stands in a field holding a coin, examining it with focused curiosity. The Page of Pentacles represents new practical opportunities, learning material skills, and ambitious beginnings. This card asks you: what practical skills are you developing? What opportunities are you studying? The Page of Pentacles reminds you: mastery begins with curiosity. Stay focused. Learn diligently. Opportunities are coming. Prepare for them. Your ambition matters. Channel it wisely.",
         "love": "In love, the Page of Pentacles indicates practical approaches to love—learning relationship skills, or new relationships beginning through practical matters. If you're single, this card suggests meeting someone through study or work. For those in relationships, the Page of Pentacles indicates learning to love practically, or building security together. This card reminds you: love benefits from practical effort. Learn. Apply it.",
         "career": "Professionally, the Page of Pentacles indicates new career opportunities, learning practical skills, or ambitious career beginnings. This card supports study, skill development, or starting new ventures. The Page of Pentacles reminds you: your career begins with learning. Learn well. Opportunities will come.",
-        "health": "The Page of Pentacles governs learning practical health skills—studying nutrition, learning exercise techniques, or practical health approaches. This card supports patient health learning, recognising that health mastery takes time. The Page of Pentacles reminds you: health is learned. Study it. Apply it.",
+        "health": "The Page of Pentacles governs learning practical health skills—studying nutrition, learning exercise techniques, or practical health approaches. This card supports patient health learning, recognising that health mastery takes time. The Page of Pentacles reminds you: health is learned. Study it. Apply it."
       },
       "reversed": {
         "subtitle": "Poor financial decisions, lack of ambition, procrastination, wasted opportunities, impracticality",
@@ -1179,20 +1178,20 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_12_knight",
+    "id": "pentacles_12",
     "name": "Knight of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 12,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Knight_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Knight_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents12.jpg",
+    "imgFull": "./images/rws/Pents12.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Hard work, productivity, routine, conservatism, persistence, reliability",
         "general": "The Knight of Pentacles rides a sturdy horse through plowed fields, armour gleaming, pentacle displayed. He moves steadily, not quickly. The Knight of Pentacles represents hard work, reliability, and methodical progress. This card asks you: what requires your steady effort? Are you willing to work slowly but surely? The Knight of Pentacles reminds you: lasting success comes from consistency, not speed. Show up. Do the work. Be reliable. Progress may be slow. But it's real. Keep going. You'll get there.",
         "love": "In love, the Knight of Pentacles indicates steady, reliable love—consistent effort, practical expressions of affection, or slow-building commitment. If you're single, this card suggests attracting partners who are reliable, or being that partner yourself. For those in relationships, the Knight of Pentacles indicates building security together, consistent effort, or patient commitment. This card reminds you: love benefits from reliability. Be reliable. Trust is built slowly.",
         "career": "Professionally, the Knight of Pentacles indicates steady career progress, hard work, or reliable performance. This card supports methodical career building, consistent effort, or being the reliable one at work. The Knight of Pentacles reminds you: your career is built through consistency. Show up. Do the work. Success will come.",
-        "health": "The Knight of Pentacles governs consistent health practices—steady routines, reliable self-care, or patient health progress. This card supports methodical health approaches, recognising that health is built through consistency. The Knight of Pentacles reminds you: health is built slowly. Be consistent. Keep going.",
+        "health": "The Knight of Pentacles governs consistent health practices—steady routines, reliable self-care, or patient health progress. This card supports methodical health approaches, recognising that health is built through consistency. The Knight of Pentacles reminds you: health is built slowly. Be consistent. Keep going."
       },
       "reversed": {
         "subtitle": "Laziness, stubbornness, inefficiency, boredom, lack of progress, stagnation",
@@ -1204,20 +1203,20 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_13_queen",
+    "id": "pentacles_13",
     "name": "Queen of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 13,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Queen_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Queen_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents13.jpg",
+    "imgFull": "./images/rws/Pents13.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Nurturing, practical care, abundance, business acumen, domestic harmony, generosity",
         "general": "The Queen of Pentacles sits on a throne in a lush garden, holding a large coin, surrounded by rabbits and flowers. The Queen of Pentacles represents practical nurturing, business acumen, and creating abundance. She manages resources wisely while caring for those she loves. The Queen of Pentacles asks you: how do you nurture practically? What abundance are you creating? This card reminds you: nurturing isn't just emotional. It's practical. Create security. Care for your people. Build abundance. Share it. You're capable of both warmth and wisdom. Embody both.",
         "love": "In love, the Queen of Pentacles indicates nurturing, practical love—caring for partners practically, creating comfortable homes, or financial generosity in relationships. If you're single, this card suggests you're ready for stable, nurturing partnership. For those in relationships, the Queen of Pentacles indicates creating domestic harmony, practical expressions of love, or building security together. This card reminds you: love benefits from practical care. Give it. Receive it.",
         "career": "Professionally, the Queen of Pentacles indicates business acumen, practical leadership, or careers involving nurturing. This card supports managing resources wisely, creating comfortable workplaces, or balancing profit with care. The Queen of Pentacles reminds you: your practical wisdom is valuable. Use it.",
-        "health": "The Queen of Pentacles governs practical health nurturing—creating healthy homes, practical self-care, or nurturing others' health. This card supports practical health approaches, recognising that health is built through daily care. The Queen of Pentacles reminds you: your body deserves practical care. Give it.",
+        "health": "The Queen of Pentacles governs practical health nurturing—creating healthy homes, practical self-care, or nurturing others' health. This card supports practical health approaches, recognising that health is built through daily care. The Queen of Pentacles reminds you: your body deserves practical care. Give it."
       },
       "reversed": {
         "subtitle": "Work-life imbalance, financial dependence, smothering, neglect, poor boundaries",
@@ -1229,20 +1228,20 @@ export const DECK = [
     }
   },
   {
-    "id": "pentacles_14_king",
+    "id": "pentacles_14",
     "name": "King of Pentacles",
     "arcana": "minor",
     "suit": "pentacles",
     "number": 14,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_King_of_Pentacles.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_King_of_Pentacles.jpg",
+    "imgThumb": "./images/rws-thumb/Pents14.jpg",
+    "imgFull": "./images/rws/Pents14.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Wealth, business acumen, financial security, leadership, abundance, reliability",
         "general": "The King of Pentacles sits on a throne decorated with bulls and vines, holding a sceptre and pentacle, a prosperous city visible behind him. The King of Pentacles represents financial mastery, business leadership, and material success. He has built wealth through wisdom and hard work. The King of Pentacles asks you: what are you building? Are you leading with financial wisdom? This card reminds you: wealth isn't evil. It's a tool. Use it wisely. Build security. Lead responsibly. Create abundance. Share it. You're capable of material success. Claim it.",
         "love": "In love, the King of Pentacles indicates stable, providing love—financial security in relationships, practical expressions of affection, or reliable partnership. If you're single, this card suggests attracting partners who provide stability, or being that partner yourself. For those in relationships, the King of Pentacles indicates building wealth together, financial leadership, or reliable commitment. This card reminds you: love benefits from stability. Build it. Maintain it.",
         "career": "Professionally, the King of Pentacles indicates career success, business leadership, or financial mastery. This card supports entrepreneurial ventures, executive roles, or building lasting businesses. The King of Pentacles reminds you: your career can create wealth. Build it wisely. Lead responsibly.",
-        "health": "The King of Pentacles governs health through wealth—affording quality care, building healthy lifestyles, or health leadership. This card supports investing in health, recognising that health is wealth. The King of Pentacles reminds you: your body deserves investment. Give it wisely.",
+        "health": "The King of Pentacles governs health through wealth—affording quality care, building healthy lifestyles, or health leadership. This card supports investing in health, recognising that health is wealth. The King of Pentacles reminds you: your body deserves investment. Give it wisely."
       },
       "reversed": {
         "subtitle": "Greed, financial loss, stubbornness, materialism, poor leadership, corruption",
@@ -1254,20 +1253,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_01_ace",
+    "id": "swords_01",
     "name": "Ace of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 1,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Ace_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Ace_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords01.jpg",
+    "imgFull": "./images/rws/Swords01.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Mental clarity, breakthrough, new ideas, truth, justice, victory",
         "general": "The Ace of Swords shows a hand emerging from a cloud, holding a sword crowned with a laurel wreath. Mountains and water stretch behind. The Ace of Swords represents mental breakthrough, clarity, and the power of truth. This is the sword that cuts through illusion. The Ace of Swords asks you: what truth needs speaking? What confusion needs cutting? This card reminds you: clarity is power. Use it wisely. Truth may hurt, but it frees. Speak it. Think clearly. Cut through the noise. Victory comes through honesty.",
         "love": "In love, the Ace of Swords indicates clear communication, honest conversations, or relationship breakthroughs. If you're single, this card suggests clarity about what you want in love. For those in relationships, the Ace of Swords indicates honest conversations, working through confusion, or relationship decisions made clearly. This card reminds you: love benefits from honesty. Speak truth. Even when difficult.",
         "career": "Professionally, the Ace of Swords indicates mental breakthroughs, new ideas, or clear career decisions. This card supports honest workplace communication, strategic thinking, or cutting through office politics. The Ace of Swords reminds you: your mind is sharp. Use it. Clarity creates success. Think clearly. Act decisively.",
-        "health": "The Ace of Swords governs mental clarity affecting health—clear health decisions, honest self-assessment, or breakthrough understanding of health issues. This card supports truthful health conversations, clear medical decisions, or cutting through health confusion. The Ace of Swords reminds you: clarity serves health. Seek it. Speak truth about your body.",
+        "health": "The Ace of Swords governs mental clarity affecting health—clear health decisions, honest self-assessment, or breakthrough understanding of health issues. This card supports truthful health conversations, clear medical decisions, or cutting through health confusion. The Ace of Swords reminds you: clarity serves health. Seek it. Speak truth about your body."
       },
       "reversed": {
         "subtitle": "Confusion, brutal honesty, poor decisions, mental blocks, injustice",
@@ -1279,20 +1278,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_02_two",
+    "id": "swords_02",
     "name": "Two of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 2,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Two_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Two_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords02.jpg",
+    "imgFull": "./images/rws/Swords02.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Difficult decisions, stalemate, avoidance, weighing options, inner conflict",
         "general": "The Two of Swords depicts a blindfolded figure holding two crossed swords, the sea and moon behind. The Two of Swords represents difficult decisions, stalemate, and the tension of choosing. This card asks you: what decision are you avoiding? Why the blindfold? The Two of Swords reminds you: indecision is itself a decision. Remove the blindfold. See clearly. Choose. Stalemate serves no one. Movement is necessary. Even wrong choices teach. Choose.",
         "love": "In love, the Two of Swords indicates difficult relationship decisions—commitment choices, or feeling stuck between options. If you're single, you may be avoiding dating decisions. For those in relationships, the Two of Swords indicates working through difficult choices, or recognising when avoidance is creating problems. This card reminds you: love requires decisions. Make them. Indecision hurts everyone.",
         "career": "Professionally, the Two of Swords indicates career indecision, difficult choices, or feeling stuck. This card supports making decisions after careful consideration, but warns against endless deliberation. The Two of Swords reminds you: careers require choices. Make them. Movement beats paralysis.",
-        "health": "The Two of Swords governs health decisions—difficult medical choices, or avoiding health decisions. This card supports making necessary health decisions, recognising that avoidance worsens problems. The Two of Swords reminds you: health requires decisions. Make them. Your body deserves clarity.",
+        "health": "The Two of Swords governs health decisions—difficult medical choices, or avoiding health decisions. This card supports making necessary health decisions, recognising that avoidance worsens problems. The Two of Swords reminds you: health requires decisions. Make them. Your body deserves clarity."
       },
       "reversed": {
         "subtitle": "Clarity, decisions made, removing blindfolds, truth revealed, moving forward",
@@ -1304,20 +1303,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_03_three",
+    "id": "swords_03",
     "name": "Three of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 3,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Three_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Three_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords03.jpg",
+    "imgFull": "./images/rws/Swords03.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Heartbreak, sorrow, grief, emotional pain, betrayal, sadness",
         "general": "The Three of Swords shows a heart pierced by three swords, rain and clouds behind. The Three of Swords represents heartbreak, grief, and emotional pain. This card asks you to feel your pain. Don't numb it. Don't avoid it. The Three of Swords reminds you: grief is love's shadow. It proves you loved. Feel it. Cry. Scream. Then heal. Pain isn't permanent. It passes. You will love again. You will trust again. But first: feel this. Honour your pain. It matters.",
         "love": "In love, the Three of Swords indicates heartbreak, betrayal, or painful relationship endings. If you're single, you may be healing from heartbreak. For those in relationships, the Three of Swords indicates working through pain, betrayal, or recognising when relationships cause more harm than good. This card reminds you: love shouldn't constantly hurt. Heal. Or leave. Your heart deserves protection.",
         "career": "Professionally, the Three of Swords indicates career heartbreak—rejection, betrayal, or painful workplace situations. This card supports grieving career losses, recognising that professional pain is real. The Three of Swords reminds you: career pain is valid. Feel it. Heal. Then move forward.",
-        "health": "The Three of Swords governs emotional pain affecting health—grief manifesting physically, or health heartbreak. This card supports processing emotional pain, recognising that grief affects the body. The Three of Swords reminds you: emotional pain is real pain. Process it. Your body will thank you.",
+        "health": "The Three of Swords governs emotional pain affecting health—grief manifesting physically, or health heartbreak. This card supports processing emotional pain, recognising that grief affects the body. The Three of Swords reminds you: emotional pain is real pain. Process it. Your body will thank you."
       },
       "reversed": {
         "subtitle": "Healing, recovery, releasing pain, forgiveness, hope returning",
@@ -1329,20 +1328,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_04_four",
+    "id": "swords_04",
     "name": "Four of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 4,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Four_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Four_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords04.jpg",
+    "imgFull": "./images/rws/Swords04.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Rest, recuperation, meditation, retreat, contemplation, recovery",
         "general": "The Four of Swords depicts a knight lying in repose on a tomb, three swords above, one beneath. Stained glass windows glow above. The Four of Swords represents necessary rest, recuperation, and strategic retreat. This card asks you: what requires your rest? Are you allowing recovery? The Four of Swords reminds you: rest isn't laziness. It's strategy. Warriors rest between battles. You're a warrior. Rest. Meditate. Recover. The battle will still be there when you return. But you'll be stronger.",
         "love": "In love, the Four of Swords indicates relationship rest—taking space, recovering from conflict, or contemplative solitude. If you're single, this card suggests rest before dating, or healing from past relationships. For those in relationships, the Four of Swords indicates working through need for space, or recognising when rest is necessary. This card reminds you: love benefits from rest. Take it. Return refreshed.",
         "career": "Professionally, the Four of Swords indicates career rest—sabbaticals, recovery from burnout, or strategic pauses. This card supports taking necessary breaks, recognising that rest enables better work. The Four of Swords reminds you: your career benefits from rest. Take it. Return stronger.",
-        "health": "The Four of Swords governs health rest—recovery from illness, medical rest, or mental health retreats. This card supports necessary health rest, recognising that healing requires pause. The Four of Swords reminds you: your body needs rest. Give it. Healing happens in rest.",
+        "health": "The Four of Swords governs health rest—recovery from illness, medical rest, or mental health retreats. This card supports necessary health rest, recognising that healing requires pause. The Four of Swords reminds you: your body needs rest. Give it. Healing happens in rest."
       },
       "reversed": {
         "subtitle": "Restlessness, burnout, avoiding rest, premature action, exhaustion",
@@ -1354,20 +1353,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_05_five",
+    "id": "swords_05",
     "name": "Five of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 5,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Five_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Five_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords05.jpg",
+    "imgFull": "./images/rws/Swords05.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Conflict, defeat, winning at all costs, betrayal, hostility, tension",
         "general": "The Five of Swords shows a figure holding three swords, two others on the ground, two defeated figures walking away. The victor smirks; the sky is stormy. The Five of Swords represents conflict, hollow victory, and winning at too high a cost. This card asks you: what battle are you fighting? Is it worth winning? The Five of Swords reminds you: some victories are defeats. Winning through cruelty costs relationships. Consider: is being right worth being alone? Sometimes walking away is the real victory. Choose your battles. Not all deserve fighting.",
         "love": "In love, the Five of Swords indicates relationship conflict, winning arguments but losing connection, or betrayal. If you're single, you may be attracting combative dynamics. For those in relationships, the Five of Swords indicates working through conflict, or recognising when winning is destroying love. This card reminds you: love isn't a battle. Stop fighting. Start connecting.",
         "career": "Professionally, the Five of Swords indicates workplace conflict, hostile competition, or winning through unethical means. This card warns against burning bridges, recognising that professional reputation matters. The Five of Swords reminds you: career success isn't worth destroyed relationships. Choose wisely.",
-        "health": "The Five of Swords governs health conflict—fighting your body, hostile health approaches, or stress from conflict affecting wellbeing. This card warns against adversarial health relationships, recognising that your body isn't the enemy. The Five of Swords reminds you: health isn't a battle. Work with your body. Not against it.",
+        "health": "The Five of Swords governs health conflict—fighting your body, hostile health approaches, or stress from conflict affecting wellbeing. This card warns against adversarial health relationships, recognising that your body isn't the enemy. The Five of Swords reminds you: health isn't a battle. Work with your body. Not against it."
       },
       "reversed": {
         "subtitle": "Reconciliation, making amends, moving past conflict, learning from defeat",
@@ -1379,20 +1378,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_06_six",
+    "id": "swords_06",
     "name": "Six of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 6,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Six_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Six_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords06.jpg",
+    "imgFull": "./images/rws/Swords06.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Transition, moving away, healing journey, leaving difficulty, progress",
         "general": "The Six of Swords depicts figures in a boat, six swords planted in the hull, moving from rough water to calm. A figure poles the boat; their back is to us. The Six of Swords represents transition, leaving difficulty behind, and healing journeys. This card asks you: what are you leaving behind? Where are you going? The Six of Swords reminds you: transitions aren't easy. But they're necessary. You're moving toward calmer waters. Trust the journey. Keep going. Better days ahead.",
         "love": "In love, the Six of Swords indicates relationship transitions—moving past difficulty, healing together, or leaving toxic dynamics. If you're single, this card suggests moving past relationship pain, or healing before new love. For those in relationships, the Six of Swords indicates working through transitions, or recognising when leaving is necessary. This card reminds you: love can survive transition. Trust the journey.",
         "career": "Professionally, the Six of Swords indicates career transitions—changing jobs, recovering from setbacks, or moving toward better opportunities. This card supports necessary career changes, recognising that transitions lead to growth. The Six of Swords reminds you: your career is evolving. Trust the transition. Keep going.",
-        "health": "The Six of Swords governs health transitions—recovering from illness, moving toward better health, or healing journeys. This card supports necessary health changes, recognising that healing is a journey. The Six of Swords reminds you: health transitions take time. Trust the process. Keep going.",
+        "health": "The Six of Swords governs health transitions—recovering from illness, moving toward better health, or healing journeys. This card supports necessary health changes, recognising that healing is a journey. The Six of Swords reminds you: health transitions take time. Trust the process. Keep going."
       },
       "reversed": {
         "subtitle": "Stuck in transition, unable to move, returning, unresolved issues, delays",
@@ -1404,20 +1403,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_07_seven",
+    "id": "swords_07",
     "name": "Seven of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 7,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Seven_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Seven_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords07.jpg",
+    "imgFull": "./images/rws/Swords07.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Deception, strategy, stealth, getting away with something, cunning",
         "general": "The Seven of Swords shows a figure sneaking away from a camp, carrying five swords, two left behind. The Seven of Swords represents strategy, deception, and getting away with something. This card asks you: what are you avoiding? What strategy are you using? The Seven of Swords reminds you: not all deception is malicious. Sometimes strategy requires discretion. But also: are you being honest with yourself? Examine your motives. Strategy serves survival. But integrity matters too. Choose wisely.",
         "love": "In love, the Seven of Swords indicates deception, avoidance, or strategic behaviour in relationships. If you're single, you may be avoiding vulnerability. For those in relationships, the Seven of Swords indicates working through trust issues, or recognising when deception is occurring. This card reminds you: love requires honesty. Stop hiding. Be authentic.",
         "career": "Professionally, the Seven of Swords indicates workplace strategy, office politics, or ethical grey areas. This card warns against unethical behaviour, recognising that reputation matters. The Seven of Swords reminds you: career success requires integrity. Don't compromise it for short-term gain.",
-        "health": "The Seven of Swords governs health deception—hiding health issues, avoiding care, or dishonest health approaches. This card warns against hiding health problems, recognising that honesty enables healing. The Seven of Swords reminds you: health requires honesty. Be honest with yourself. Seek care.",
+        "health": "The Seven of Swords governs health deception—hiding health issues, avoiding care, or dishonest health approaches. This card warns against hiding health problems, recognising that honesty enables healing. The Seven of Swords reminds you: health requires honesty. Be honest with yourself. Seek care."
       },
       "reversed": {
         "subtitle": "Coming clean, confession, honesty, strategy revealed, changing tactics",
@@ -1429,20 +1428,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_08_eight",
+    "id": "swords_08",
     "name": "Eight of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 8,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Eight_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Eight_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords08.jpg",
+    "imgFull": "./images/rws/Swords08.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Trapped, restriction, self-imposed limits, victim mentality, paralysis",
         "general": "The Eight of Swords depicts a blindfolded figure surrounded by eight swords, bound but not tightly. Water and mountains are visible—the way out exists. The Eight of Swords represents feeling trapped, self-imposed restrictions, and victim mentality. This card asks you: are you truly trapped, or believing you are? The Eight of Swords reminds you: most prisons are mental. Remove the blindfold. See your options. You're not as trapped as you believe. Move. Even small steps free you. You have more power than you think. Use it.",
         "love": "In love, the Eight of Swords indicates feeling trapped in relationships, self-imposed limitations, or victim mentality. If you're single, you may be believing you're unlovable. For those in relationships, the Eight of Swords indicates working through feeling trapped, or recognising when limitations are self-imposed. This card reminds you: love isn't a prison. Remove the blindfold. See your options. Choose freely.",
         "career": "Professionally, the Eight of Swords indicates feeling trapped in careers, self-imposed limitations, or believing no options exist. This card supports recognising options, taking small steps toward freedom. The Eight of Swords reminds you: your career isn't a prison. Options exist. See them. Act.",
-        "health": "The Eight of Swords governs feeling trapped by health, self-imposed health limitations, or victim mentality about health. This card supports recognising health options, taking small steps toward better health. The Eight of Swords reminds you: health isn't a prison. Options exist. See them. Act.",
+        "health": "The Eight of Swords governs feeling trapped by health, self-imposed health limitations, or victim mentality about health. This card supports recognising health options, taking small steps toward better health. The Eight of Swords reminds you: health isn't a prison. Options exist. See them. Act."
       },
       "reversed": {
         "subtitle": "Freedom, release, taking action, seeing options, empowerment",
@@ -1454,20 +1453,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_09_nine",
+    "id": "swords_09",
     "name": "Nine of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 9,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Nine_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Nine_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords09.jpg",
+    "imgFull": "./images/rws/Swords09.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Anxiety, worry, nightmares, fear, mental anguish, sleeplessness",
         "general": "The Nine of Swords shows a figure sitting up in bed, head in hands, nine swords mounted on the wall behind. Darkness surrounds. The Nine of Swords represents anxiety, worry, and mental anguish. This card asks you: what are you afraid of? Is the fear real, or imagined? The Nine of Swords reminds you: anxiety lies. It tells you catastrophe is certain. It's not. Breathe. Seek support. Talk about your fears. They shrink in the light. You're not alone. Help exists. Reach out. This will pass.",
         "love": "In love, the Nine of Swords indicates relationship anxiety, worry about love, or fear affecting connections. If you're single, you may be anxious about finding love. For those in relationships, the Nine of Swords indicates working through anxiety, or recognising when fear is creating problems. This card reminds you: love shouldn't constantly terrify. Seek support. Anxiety is treatable. Heal.",
         "career": "Professionally, the Nine of Swords indicates career anxiety, worry about work, or fear affecting performance. This card supports seeking support, recognising that career anxiety is common and treatable. The Nine of Swords reminds you: career worry is normal. But it doesn't have to control you. Seek help. Heal.",
-        "health": "The Nine of Swords governs mental health—anxiety, sleep issues, or fear affecting wellbeing. This card supports seeking mental health support, recognising that anxiety is treatable. The Nine of Swords reminds you: mental health is health. Seek care. Healing is possible.",
+        "health": "The Nine of Swords governs mental health—anxiety, sleep issues, or fear affecting wellbeing. This card supports seeking mental health support, recognising that anxiety is treatable. The Nine of Swords reminds you: mental health is health. Seek care. Healing is possible."
       },
       "reversed": {
         "subtitle": "Recovery from anxiety, facing fears, hope returning, seeking help, healing",
@@ -1479,20 +1478,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_10_ten",
+    "id": "swords_10",
     "name": "Ten of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 10,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Ten_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Ten_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords10.jpg",
+    "imgFull": "./images/rws/Swords10.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Rock bottom, betrayal, painful endings, complete defeat, crisis",
         "general": "The Ten of Swords depicts a figure face down, ten swords in their back, dawn breaking on the horizon. The Ten of Swords represents rock bottom, painful endings, and complete defeat. This card asks you: what has ended? What pain are you feeling? The Ten of Swords reminds you: this is the end. But dawn is breaking. You can't go lower. Only up from here. Grieve what's lost. Then rise. The worst is over. Survive this. You will. And you'll be stronger. Dawn is coming. Wait for it.",
         "love": "In love, the Ten of Swords indicates painful relationship endings, betrayal, or rock bottom in love. If you're single, you may be healing from devastating heartbreak. For those in relationships, the Ten of Swords indicates working through devastating endings, or recognising when relationships have ended. This card reminds you: love endings devastate. But dawn comes. Heal. Love again. You will.",
         "career": "Professionally, the Ten of Swords indicates career rock bottom—job loss, business failure, or devastating setbacks. This card supports grieving career losses, recognising that endings enable new beginnings. The Ten of Swords reminds you: career devastation ends. New beginnings come. Rise. Rebuild.",
-        "health": "The Ten of Swords governs health rock bottom—health crisis, devastating diagnoses, or feeling defeated by illness. This card supports surviving health crisis, recognising that dawn comes after darkest night. The Ten of Swords reminds you: health crisis ends. Healing begins. Survive. Rise.",
+        "health": "The Ten of Swords governs health rock bottom—health crisis, devastating diagnoses, or feeling defeated by illness. This card supports surviving health crisis, recognising that dawn comes after darkest night. The Ten of Swords reminds you: health crisis ends. Healing begins. Survive. Rise."
       },
       "reversed": {
         "subtitle": "Recovery, regeneration, surviving crisis, worst is over, healing begins",
@@ -1504,20 +1503,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_11_page",
+    "id": "swords_11",
     "name": "Page of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 11,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Page_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Page_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords11.jpg",
+    "imgFull": "./images/rws/Swords11.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Curiosity, mental energy, vigilance, new ideas, communication, spying",
         "general": "The Page of Swords stands alert, sword raised, wind blowing through trees and clouds. The Page of Swords represents mental curiosity, vigilance, and new ideas. This card asks you: what are you curious about? What needs your attention? The Page of Swords reminds you: curiosity is a strength. Stay alert. Ask questions. Gather information. Your mind is sharp. Use it. New ideas are coming. Welcome them. Speak up. Your voice matters.",
         "love": "In love, the Page of Swords indicates mental curiosity about love, new relationship ideas, or communicative approaches. If you're single, this card suggests curious dating, or learning about relationships. For those in relationships, the Page of Swords indicates working through communication, or bringing mental energy to love. This card reminds you: love benefits from curiosity. Stay interested. Ask questions.",
         "career": "Professionally, the Page of Swords indicates mental curiosity, new career ideas, or communicative approaches. This card supports learning, asking questions, or bringing fresh perspectives. The Page of Swords reminds you: your mind is an asset. Use it. New ideas serve your career.",
-        "health": "The Page of Swords governs mental health curiosity, learning about health, or communicative health approaches. This card supports health learning, asking questions about wellbeing. The Page of Swords reminds you: health knowledge is power. Learn. Ask questions.",
+        "health": "The Page of Swords governs mental health curiosity, learning about health, or communicative health approaches. This card supports health learning, asking questions about wellbeing. The Page of Swords reminds you: health knowledge is power. Learn. Ask questions."
       },
       "reversed": {
         "subtitle": "Gossip, deception, all talk no action, paranoia, scattered thinking",
@@ -1529,20 +1528,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_12_knight",
+    "id": "swords_12",
     "name": "Knight of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 12,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Knight_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Knight_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords12.jpg",
+    "imgFull": "./images/rws/Swords12.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Action, ambition, drive, determination, fast-paced, direct communication",
         "general": "The Knight of Swords charges forward on horseback, sword raised, clouds and wind swirling. The Knight of Swords represents swift action, ambition, and direct communication. This card asks you: what requires your immediate action? Are you moving too fast? The Knight of Swords reminds you: action is necessary. But also: consider consequences. Charge forward. But don't charge blindly. Your drive is powerful. Channel it wisely. Speed serves. But so does strategy.",
         "love": "In love, the Knight of Swords indicates fast-paced romance, direct communication, or ambitious relationship goals. If you're single, this card suggests pursuing love directly, or attracting dynamic partners. For those in relationships, the Knight of Swords indicates working through fast-paced dynamics, or bringing direct communication to love. This card reminds you: love benefits from directness. But also: slow down sometimes. Connection requires presence.",
         "career": "Professionally, the Knight of Swords indicates ambitious action, fast-paced work, or direct career approaches. This card supports taking initiative, communicating directly, or pursuing career goals aggressively. The Knight of Swords reminds you: your ambition is powerful. Channel it wisely. Action creates success. But strategy matters too.",
-        "health": "The Knight of Swords governs fast-paced health approaches, ambitious health goals, or direct health communication. This card supports taking health action, but warns against rushing healing. The Knight of Swords reminds you: health requires both action and patience. Balance them.",
+        "health": "The Knight of Swords governs fast-paced health approaches, ambitious health goals, or direct health communication. This card supports taking health action, but warns against rushing healing. The Knight of Swords reminds you: health requires both action and patience. Balance them."
       },
       "reversed": {
         "subtitle": "Recklessness, impulsiveness, burnout, aggressive communication, scattered action",
@@ -1554,20 +1553,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_13_queen",
+    "id": "swords_13",
     "name": "Queen of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 13,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Queen_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Queen_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords13.jpg",
+    "imgFull": "./images/rws/Swords13.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Independent, clear boundaries, direct communication, wisdom, objectivity",
         "general": "The Queen of Swords sits on a throne, sword upright in her hand, clouds and birds behind. She gazes directly forward, unflinching. The Queen of Swords represents independence, clear boundaries, and objective wisdom. She sees through illusion. She speaks truth without cruelty. The Queen of Swords asks you: what boundaries need setting? What truth needs speaking? This card reminds you: independence isn't isolation. It's clarity. Set boundaries. Speak truth. Stay objective. Your wisdom matters. Share it. But also: temper truth with compassion. Both are necessary.",
         "love": "In love, the Queen of Swords indicates independent love, clear boundaries, or direct communication. If you're single, this card suggests you're clear about what you want, or attracting honest partners. For those in relationships, the Queen of Swords indicates working through boundaries, or bringing direct communication to love. This card reminds you: love benefits from honesty. But also: soften edges. Compassion matters.",
         "career": "Professionally, the Queen of Swords indicates independent work, clear boundaries, or direct communication. This card supports objective decision-making, setting professional boundaries, or speaking truth at work. The Queen of Swords reminds you: your wisdom is valuable. Share it. But also: listen. Others have wisdom too.",
-        "health": "The Queen of Swords governs objective health approaches, clear health boundaries, or direct health communication. This card supports honest health assessment, setting health boundaries, or speaking truth about wellbeing. The Queen of Swords reminds you: your health wisdom matters. Use it. But also: seek support. You don't know everything.",
+        "health": "The Queen of Swords governs objective health approaches, clear health boundaries, or direct health communication. This card supports honest health assessment, setting health boundaries, or speaking truth about wellbeing. The Queen of Swords reminds you: your health wisdom matters. Use it. But also: seek support. You don't know everything."
       },
       "reversed": {
         "subtitle": "Cruelty, bitterness, isolation, harsh judgment, closed off, manipulative",
@@ -1579,20 +1578,20 @@ export const DECK = [
     }
   },
   {
-    "id": "swords_14_king",
+    "id": "swords_14",
     "name": "King of Swords",
     "arcana": "minor",
     "suit": "swords",
     "number": 14,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_King_of_Swords.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_King_of_Swords.jpg",
+    "imgThumb": "./images/rws-thumb/Swords14.jpg",
+    "imgFull": "./images/rws/Swords14.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Mental clarity, intellectual power, authority, truth, ethical leadership, judgment",
         "general": "The King of Swords sits on a throne, sword upright, butterflies and birds symbolising mental transformation. He gazes with clear authority. The King of Swords represents intellectual power, ethical leadership, and clear judgment. He leads with mind and principle. The King of Swords asks you: what requires your clear judgment? Are you leading ethically? This card reminds you: mental clarity is power. Use it responsibly. Lead with principle. Speak truth. Judge fairly. Your intellect serves. But so must your integrity. Both matter.",
         "love": "In love, the King of Swords indicates clear communication, intellectual connection, or ethical relationship leadership. If you're single, this card suggests attracting principled partners, or being that partner yourself. For those in relationships, the King of Swords indicates working through clear communication, or leading relationships with integrity. This card reminds you: love benefits from clarity. But also: heart matters. Balance mind and heart.",
         "career": "Professionally, the King of Swords indicates intellectual leadership, ethical decision-making, or authoritative communication. This card supports leading with principle, making clear decisions, or speaking truth at work. The King of Swords reminds you: your intellect is powerful. Use it ethically. Leadership requires both mind and integrity.",
-        "health": "The King of Swords governs clear health decisions, intellectual health approaches, or ethical health leadership. This card supports objective health assessment, making clear health decisions, or leading health with principle. The King of Swords reminds you: your health intellect matters. Use it. But also: listen to your body. It has wisdom too.",
+        "health": "The King of Swords governs clear health decisions, intellectual health approaches, or ethical health leadership. This card supports objective health assessment, making clear health decisions, or leading health with principle. The King of Swords reminds you: your health intellect matters. Use it. But also: listen to your body. It has wisdom too."
       },
       "reversed": {
         "subtitle": "Manipulation, cruel judgment, abuse of power, coldness, unethical behaviour",
@@ -1604,352 +1603,352 @@ export const DECK = [
     }
   },
   {
-    "id": "wands_01_ace",
+    "id": "wands_01",
     "name": "Ace of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 1,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Ace_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Ace_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Wands01.jpg",
+    "imgFull": "./images/rws/Wands01.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Inspiration, new opportunities, growth, potential, creative spark, beginning",
         "general": "The Ace of Wands shows a hand emerging from a cloud, holding a sprouting wand. A castle sits in the distance; leaves fall from the wand. The Ace of Wands represents creative inspiration, new opportunities, and raw potential. This is the spark that starts fires. The Ace of Wands asks you: what are you inspired to create? What opportunity is calling? This card reminds you: inspiration is a gift. Act on it. The spark is here. Fan it into flame. Create. Begin. Your potential is unlimited. Use it.",
         "love": "In love, the Ace of Wands indicates new romantic inspiration, passionate beginnings, or creative approaches to love. If you're single, this card suggests new romantic opportunities, or feeling inspired to date. For those in relationships, the Ace of Wands indicates renewed passion, creative date ideas, or inspiring each other. This card reminds you: love benefits from inspiration. Create together. Keep the spark alive.",
         "career": "Professionally, the Ace of Wands indicates new career opportunities, creative inspiration, or entrepreneurial beginnings. This card supports starting new projects, following inspiration, or taking career risks. The Ace of Wands reminds you: your creativity is valuable. Use it. Opportunities are here. Seize them.",
-        "health": "The Ace of Wands governs health inspiration—new fitness routines, creative wellness approaches, or motivation for health changes. This card supports beginning health journeys, following health inspiration. The Ace of Wands reminds you: health benefits from inspiration. Find what motivates you. Begin.",
+        "health": "The Ace of Wands governs health inspiration—new fitness routines, creative wellness approaches, or motivation for health changes. This card supports beginning health journeys, following health inspiration. The Ace of Wands reminds you: health benefits from inspiration. Find what motivates you. Begin."
       },
       "reversed": {
         "subtitle": "Delays, lack of direction, creative blocks, missed opportunities, false starts",
         "general": "Reversed, the Ace of Wands indicates delays, creative blocks, or missed opportunities. The wand isn't sprouting; the spark isn't catching. The reversed Ace of Wands asks: what's blocking your inspiration? Are you ready to create? This card reminds you: inspiration comes and goes. Don't force it. Rest. The spark will return. Or: is this the right opportunity? Examine. Then act when ready.",
         "love": "In love, this reversal indicates delayed romance, creative blocks in relationships, or missed opportunities. If you're single, you may not be ready for love. For those in relationships, the reversed Ace of Wands suggests working through passion blocks, or recognising when timing isn't right. This card reminds you: love inspiration returns. Be patient. Or create it.",
         "career": "Career-wise, reversed Ace of Wands indicates career delays, creative blocks, or missed opportunities. This card asks: are you ready to act? Are you blocking your own inspiration? Address it. Your career deserves creative energy. Find it.",
-        "health": "Reversed, this card indicates health motivation blocks, delayed health beginnings, or missed health opportunities. The reversed Ace of Wands asks: are you ready to change? Are you blocking yourself? Address it. Your health deserves inspiration. Find it.",
+        "health": "Reversed, this card indicates health motivation blocks, delayed health beginnings, or missed health opportunities. The reversed Ace of Wands asks: are you ready to change? Are you blocking yourself? Address it. Your health deserves inspiration. Find it."
       }
     }
   },
   {
-    "id": "wands_02_two",
+    "id": "wands_02",
     "name": "Two of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 2,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Two_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Two_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Wands02.jpg",
+    "imgFull": "./images/rws/Wands02.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Planning, making decisions, leaving comfort zone, personal power, vision",
         "general": "The Two of Wands depicts a figure standing on a castle battlement, holding a globe in one hand, a wand in the other, looking out at the world. The Two of Wands represents planning, vision, and the decision to leave comfort zones. This card asks you: what are you planning? Are you ready to expand? The Two of Wands reminds you: you have power. You have vision. Now act. Comfort zones don't enable growth. Step out. Plan. Then go. The world is waiting.",
         "love": "In love, the Two of Wands indicates planning relationship future, making commitment decisions, or expanding comfort zones. If you're single, this card suggests planning your love life, or being ready to expand dating horizons. For those in relationships, the Two of Wands indicates planning together, making future decisions, or growing together. This card reminds you: love requires planning. Plan together. Then act.",
         "career": "Professionally, the Two of Wands indicates career planning, expansion decisions, or leaving comfort zones. This card supports strategic career planning, taking calculated risks, or expanding professionally. The Two of Wands reminds you: your career deserves vision. Plan. Then act. Growth requires leaving comfort.",
-        "health": "The Two of Wands governs health planning, making health decisions, or expanding health comfort zones. This card supports strategic health planning, trying new health approaches. The Two of Wands reminds you: health deserves planning. Plan. Then act. Growth requires trying new things.",
+        "health": "The Two of Wands governs health planning, making health decisions, or expanding health comfort zones. This card supports strategic health planning, trying new health approaches. The Two of Wands reminds you: health deserves planning. Plan. Then act. Growth requires trying new things."
       },
       "reversed": {
         "subtitle": "Fear of unknown, lack of planning, staying in comfort zone, poor decisions",
         "general": "Reversed, the Two of Wands indicates fear of expansion, lack of planning, or staying in comfort zones. The figure isn't looking out; the globe is ignored. The reversed Two of Wands asks: what are you afraid of? Are you planning, or avoiding? This card reminds you: growth requires discomfort. But also: don't expand without planning. Balance courage with wisdom. Plan. Then act. Or admit you're not ready. That's okay too.",
         "love": "In love, this reversal indicates fear of relationship expansion, lack of planning, or staying in comfort zones. If you're single, you may be afraid to date outside your type. For those in relationships, the reversed Two of Wands suggests working through fear of growth, or recognising when planning is lacking. This card reminds you: love requires growth. Face fear. Plan. Or accept where you are.",
         "career": "Career-wise, reversed Two of Wands indicates career fear, lack of planning, or staying in comfort zones. This card asks: are you growing, or stagnating? Address it. Your career deserves planning. Give it. Or accept stagnation. Choose.",
-        "health": "Reversed, this card indicates health fear, lack of health planning, or staying in health comfort zones. The reversed Two of Wands asks: are you growing, or stagnating? Address it. Your health deserves planning. Give it.",
+        "health": "Reversed, this card indicates health fear, lack of health planning, or staying in health comfort zones. The reversed Two of Wands asks: are you growing, or stagnating? Address it. Your health deserves planning. Give it."
       }
     }
   },
   {
-    "id": "wands_03_three",
+    "id": "wands_03",
     "name": "Three of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 3,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Three_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Three_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Wands03.jpg",
+    "imgFull": "./images/rws/Wands03.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Progress, expansion, foresight, overseas opportunities, leadership, momentum",
         "general": "The Three of Wands shows a figure on a cliff, three wands planted, looking out at ships on the sea. The Three of Wands represents progress, expansion, and foresight. Your plans are moving forward. The Three of Wands asks you: what progress have you made? What expansion is coming? This card reminds you: you've planned. You've acted. Now watch your efforts bear fruit. Opportunities are expanding. Possibly internationally. Lead. Your vision is becoming reality. Keep going. Momentum is with you.",
         "love": "In love, the Three of Wands indicates relationship progress, expansion of love, or long-distance possibilities. If you're single, this card suggests expanding dating horizons, or love from afar. For those in relationships, the Three of Wands indicates planning future together, relationship growth, or possibly long-distance phases. This card reminds you: love expands. Embrace it. Plan together. Progress is happening.",
         "career": "Professionally, the Three of Wands indicates career progress, expansion, or international opportunities. This card supports business expansion, career growth, or leadership roles. The Three of Wands reminds you: your career is expanding. Embrace it. Lead. Your vision is working. Keep going.",
-        "health": "The Three of Wands governs health progress, expansion of health practices, or long-term health planning. This card supports health momentum, recognising progress made. The Three of Wands reminds you: your health is progressing. Embrace it. Keep going. Long-term planning pays off.",
+        "health": "The Three of Wands governs health progress, expansion of health practices, or long-term health planning. This card supports health momentum, recognising progress made. The Three of Wands reminds you: your health is progressing. Embrace it. Keep going. Long-term planning pays off."
       },
       "reversed": {
         "subtitle": "Delays, obstacles, lack of foresight, returning home, plans disrupted",
         "general": "Reversed, the Three of Wands indicates delays, obstacles, or disrupted plans. The ships aren't arriving; the view is blocked. The reversed Three of Wands asks: what's delaying your progress? Are your plans realistic? This card reminds you: delays aren't defeats. Adjust plans. Overcome obstacles. Or return home and regroup. Progress will resume. Patience is required. Replan. Then continue.",
         "love": "In love, this reversal indicates relationship delays, obstacles to expansion, or disrupted plans. If you're single, long-distance dating may not work out. For those in relationships, the reversed Three of Wands suggests working through delays, or recognising when plans need adjusting. This card reminds you: love encounters obstacles. Adjust. Continue. Or replan together.",
         "career": "Career-wise, reversed Three of Wands indicates career delays, obstacles to expansion, or disrupted plans. This card asks: are your plans realistic? What's causing delays? Address it. Your career deserves adjusted planning. Give it.",
-        "health": "Reversed, this card indicates health delays, obstacles to progress, or disrupted health plans. The reversed Three of Wands asks: are your health plans realistic? What's causing delays? Address it. Your health deserves adjusted planning. Give it.",
+        "health": "Reversed, this card indicates health delays, obstacles to progress, or disrupted health plans. The reversed Three of Wands asks: are your health plans realistic? What's causing delays? Address it. Your health deserves adjusted planning. Give it."
       }
     }
   },
   {
-    "id": "wands_04_four",
+    "id": "wands_04",
     "name": "Four of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 4,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Four_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Four_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Wands04.jpg",
+    "imgFull": "./images/rws/Wands04.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Celebration, harmony, home, community, milestones, achievement",
         "general": "The Four of Wands depicts four wands supporting a flower garland, two figures celebrating, a castle in the background. The Four of Wands represents celebration, harmony, and homecoming. This is a card of milestones achieved and community celebrated. The Four of Wands asks you: what are you celebrating? Who are you celebrating with? This card reminds you: celebrations matter. Mark milestones. Gather your people. Home is where you're celebrated. Create that. Share joy. You've earned this. Celebrate.",
         "love": "In love, the Four of Wands indicates relationship celebrations—engagements, moving in together, or relationship milestones. If you're single, this card suggests celebrating yourself, or finding love through community events. For those in relationships, the Four of Wands indicates celebrating together, creating home, or relationship harmony. This card reminds you: love deserves celebration. Celebrate. Create home together.",
         "career": "Professionally, the Four of Wands indicates career celebrations—achievements, milestones, or workplace harmony. This card supports celebrating career wins, creating positive workplace culture. The Four of Wands reminds you: your career deserves celebration. Celebrate wins. Create harmony.",
-        "health": "The Four of Wands governs health celebrations—achieving health goals, wellness milestones, or health community. This card supports celebrating health progress, creating supportive health communities. The Four of Wands reminds you: health deserves celebration. Celebrate progress. Build community.",
+        "health": "The Four of Wands governs health celebrations—achieving health goals, wellness milestones, or health community. This card supports celebrating health progress, creating supportive health communities. The Four of Wands reminds you: health deserves celebration. Celebrate progress. Build community."
       },
       "reversed": {
         "subtitle": "Lack of celebration, instability, family conflict, feeling unwelcome, delays",
         "general": "Reversed, the Four of Wands indicates lack of celebration, instability, or feeling unwelcome. The garland is falling; the celebration is cancelled. The reversed Four of Wands asks: why aren't you celebrating? What's creating instability? This card reminds you: celebrations can be postponed. Instability can be addressed. Create your own sense of home. It doesn't have to be traditional. Celebrate anyway. Even small wins matter.",
         "love": "In love, this reversal indicates relationship instability, family conflict, or feeling unwelcome. If you're single, you may feel unwelcome in dating scenes. For those in relationships, the reversed Four of Wands suggests working through family conflict, or recognising when home doesn't feel safe. This card reminds you: love deserves stability. Create it. Or find it elsewhere.",
         "career": "Career-wise, reversed Four of Wands indicates workplace instability, lack of celebration, or feeling unwelcome. This card asks: is this workplace healthy? What's creating instability? Address it. Your career deserves stability. Create it. Or find it elsewhere.",
-        "health": "Reversed, this card indicates health instability, lack of health celebration, or feeling unwelcome in health spaces. The reversed Four of Wands asks: is your health environment supportive? Address it. Your health deserves stability. Create it.",
+        "health": "Reversed, this card indicates health instability, lack of health celebration, or feeling unwelcome in health spaces. The reversed Four of Wands asks: is your health environment supportive? Address it. Your health deserves stability. Create it."
       }
     }
   },
   {
-    "id": "wands_05_five",
+    "id": "wands_05",
     "name": "Five of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 5,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Five_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Five_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Wands05.jpg",
+    "imgFull": "./images/rws/Wands05.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Conflict, competition, disagreements, tension, diversity of opinion, struggle",
         "general": "The Five of Wands shows five figures clashing with wands, each trying to strike. The sky is clear; the conflict seems performative. The Five of Wands represents conflict, competition, and clashing opinions. This card asks you: what conflict are you in? Is it necessary? The Five of Wands reminds you: not all conflict is bad. Healthy competition drives growth. But also: is this battle worth fighting? Some conflicts are ego. Choose wisely. Fight for what matters. Let go of the rest.",
         "love": "In love, the Five of Wands indicates relationship conflict, competition, or clashing opinions. If you're single, you may be attracting competitive dynamics. For those in relationships, the Five of Wands indicates working through disagreements, or recognising when conflict is healthy growth versus destructive. This card reminds you: love encounters conflict. Choose battles wisely. Fight for connection, not ego.",
         "career": "Professionally, the Five of Wands indicates workplace competition, conflicts, or clashing opinions. This card supports healthy competition, but warns against destructive conflict. The Five of Wands reminds you: career competition can drive growth. But also: collaborate when possible. Not everything is a battle.",
-        "health": "The Five of Wands governs health conflicts—conflicting health advice, internal struggle about health, or competitive fitness. This card supports navigating health conflicts, recognising when competition serves health. The Five of Wands reminds you: health conflicts happen. Navigate them wisely. Your body isn't a battlefield.",
+        "health": "The Five of Wands governs health conflicts—conflicting health advice, internal struggle about health, or competitive fitness. This card supports navigating health conflicts, recognising when competition serves health. The Five of Wands reminds you: health conflicts happen. Navigate them wisely. Your body isn't a battlefield."
       },
       "reversed": {
         "subtitle": "Ending conflict, cooperation, compromise, avoiding conflict, inner conflict",
         "general": "Reversed, the Five of Wands indicates ending conflict, cooperation, or avoiding necessary conflict. The wands are lowering; the battle is ending. The reversed Five of Wands asks: are you ending conflict, or avoiding it? This card reminds you: cooperation serves. But also: some conflict is necessary. Don't avoid difficult conversations. End unnecessary battles. Fight necessary ones. Choose wisely.",
         "love": "In love, this reversal indicates ending relationship conflict, cooperation, or avoiding necessary conversations. If you're single, you may be avoiding dating conflict. For those in relationships, the reversed Five of Wands suggests working through conflict resolution, or recognising when conflict avoidance is creating problems. This card reminds you: love requires both cooperation and honest conflict. Balance them.",
         "career": "Career-wise, reversed Five of Wands indicates ending workplace conflict, cooperation, or avoiding necessary confrontations. This card asks: are you cooperating, or avoiding? Address it. Your career deserves both cooperation and honest communication. Give both.",
-        "health": "Reversed, this card indicates ending health conflicts, cooperation with health team, or avoiding necessary health confrontations. The reversed Five of Wands asks: are you cooperating, or avoiding? Address it. Your health deserves both cooperation and honest communication. Give both.",
+        "health": "Reversed, this card indicates ending health conflicts, cooperation with health team, or avoiding necessary health confrontations. The reversed Five of Wands asks: are you cooperating, or avoiding? Address it. Your health deserves both cooperation and honest communication. Give both."
       }
     }
   },
   {
-    "id": "wands_06_six",
+    "id": "wands_06",
     "name": "Six of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 6,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Six_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Six_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Wands06.jpg",
+    "imgFull": "./images/rws/Wands06.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Victory, success, recognition, achievement, public acclaim, confidence",
         "general": "The Six of Wands depicts a victor on horseback, wreath on head, wand crowned with laurel, crowds cheering. The Six of Wands represents victory, recognition, and public success. This card asks you: what have you achieved? Are you accepting recognition? The Six of Wands reminds you: you've earned this. Accept praise. Celebrate. Your success is real. Don't minimise it. Confidence is earned. Wear it. You've won. Enjoy it.",
         "love": "In love, the Six of Wands indicates relationship success, public recognition of love, or confidence in relationships. If you're single, this card suggests confidence in dating, or attracting partners who recognise your worth. For those in relationships, the Six of Wands indicates celebrating love publicly, or relationship confidence. This card reminds you: love deserves celebration. Celebrate. Accept recognition.",
         "career": "Professionally, the Six of Wands indicates career success, recognition, or public acclaim. This card supports accepting career recognition, celebrating achievements. The Six of Wands reminds you: your career success is real. Accept praise. Celebrate. You've earned it.",
-        "health": "The Six of Wands governs health success, achieving health goals, or health recognition. This card supports celebrating health achievements, accepting health progress. The Six of Wands reminds you: your health success is real. Celebrate. You've earned it.",
+        "health": "The Six of Wands governs health success, achieving health goals, or health recognition. This card supports celebrating health achievements, accepting health progress. The Six of Wands reminds you: your health success is real. Celebrate. You've earned it."
       },
       "reversed": {
         "subtitle": "Lack of recognition, failure, ego, falling from grace, private victory",
         "general": "Reversed, the Six of Wands indicates lack of recognition, failure, or ego issues. The victor is falling; the crowd isn't cheering. The reversed Six of Wands asks: are you not being recognised? Or is your ego inflated? This card reminds you: recognition isn't everything. Private victories matter. Or: check your ego. Are you expecting too much praise? Adjust. Success isn't only public. Celebrate anyway.",
         "love": "In love, this reversal indicates lack of relationship recognition, ego issues, or private versus public love. If you're single, you may feel unrecognised in dating. For those in relationships, the reversed Six of Wands suggests working through ego, or recognising when private love is enough. This card reminds you: love doesn't require public recognition. But also: communicate needs.",
         "career": "Career-wise, reversed Six of Wands indicates lack of career recognition, failure, or ego issues. This card asks: are you not being recognised? Or is your ego inflated? Address it. Your career deserves recognition. But also: check your expectations. Adjust.",
-        "health": "Reversed, this card indicates lack of health recognition, health setbacks, or ego about health. The reversed Six of Wands asks: are you recognising your progress? Or is your health ego inflated? Address it. Your health deserves recognition. But also: stay humble.",
+        "health": "Reversed, this card indicates lack of health recognition, health setbacks, or ego about health. The reversed Six of Wands asks: are you recognising your progress? Or is your health ego inflated? Address it. Your health deserves recognition. But also: stay humble."
       }
     }
   },
   {
-    "id": "wands_07_seven",
+    "id": "wands_07",
     "name": "Seven of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 7,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Seven_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Seven_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Wands07.jpg",
+    "imgFull": "./images/rws/Wands07.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Defending position, perseverance, standing ground, challenges, protection",
         "general": "The Seven of Wands shows a figure on higher ground, defending against six attacking wands. The Seven of Wands represents defending your position, perseverance, and standing ground. This card asks you: what are you defending? Is it worth defending? The Seven of Wands reminds you: you have the high ground. You can defend successfully. But also: is this battle necessary? Sometimes standing ground is right. Sometimes it's ego. Choose. Then defend with conviction.",
         "love": "In love, the Seven of Wands indicates defending relationship boundaries, perseverance through challenges, or standing ground. If you're single, this card suggests defending your standards in dating. For those in relationships, the Seven of Wands indicates working through external challenges, or recognising when boundaries need defending. This card reminds you: love deserves boundaries. Defend them. But also: choose battles wisely.",
         "career": "Professionally, the Seven of Wands indicates defending career position, perseverance through challenges, or standing ground. This card supports defending professional boundaries, persevering through competition. The Seven of Wands reminds you: your career deserves defense. But also: choose battles wisely.",
-        "health": "The Seven of Wands governs defending health boundaries, perseverance through health challenges, or standing ground about health needs. This card supports defending health needs, persevering through difficulties. The Seven of Wands reminds you: your health deserves defense. But also: pick battles wisely.",
+        "health": "The Seven of Wands governs defending health boundaries, perseverance through health challenges, or standing ground about health needs. This card supports defending health needs, persevering through difficulties. The Seven of Wands reminds you: your health deserves defense. But also: pick battles wisely."
       },
       "reversed": {
         "subtitle": "Giving up, exhaustion, yielding, overwhelmed, surrender, backing down",
         "general": "Reversed, the Seven of Wands indicates giving up, exhaustion, or yielding unnecessarily. The defender is tired; the ground is being lost. The reversed Seven of Wands asks: are you exhausted, or is this battle not worth fighting? This card reminds you: sometimes surrender is wisdom. But also: are you giving up too soon? Rest. Then decide. Don't surrender from exhaustion. Surrender from choice.",
         "love": "In love, this reversal indicates giving up on relationship boundaries, exhaustion from defending, or yielding unnecessarily. If you're single, you may be lowering standards from exhaustion. For those in relationships, the reversed Seven of Wands suggests working through exhaustion, or recognising when surrender is wisdom versus giving up. This card reminds you: love deserves energy. Rest. Then decide.",
         "career": "Career-wise, reversed Seven of Wands indicates giving up career battles, exhaustion, or yielding unnecessarily. This card asks: are you exhausted, or is this battle not worth it? Address it. Your career deserves energy. Rest. Then decide.",
-        "health": "Reversed, this card indicates giving up health battles, exhaustion from health challenges, or yielding unnecessarily. The reversed Seven of Wands asks: are you exhausted, or is this battle not worth it? Address it. Your health deserves energy. Rest. Then decide.",
+        "health": "Reversed, this card indicates giving up health battles, exhaustion from health challenges, or yielding unnecessarily. The reversed Seven of Wands asks: are you exhausted, or is this battle not worth it? Address it. Your health deserves energy. Rest. Then decide."
       }
     }
   },
   {
-    "id": "wands_08_eight",
+    "id": "wands_08",
     "name": "Eight of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 8,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Eight_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Eight_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Wands08.jpg",
+    "imgFull": "./images/rws/Wands08.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Speed, action, rapid change, movement, progress, swift communication",
         "general": "The Eight of Wands shows eight wands flying through the air, no people visible, clear sky behind. The Eight of Wands represents speed, rapid action, and swift progress. Things are moving fast. The Eight of Wands asks you: what's moving quickly? Are you keeping pace? This card reminds you: momentum is here. Move with it. Don't overthink. Act. Communication is rapid. Respond. Progress is happening. Embrace it. Speed serves. Use it.",
         "love": "In love, the Eight of Wands indicates rapid relationship movement, swift communication, or fast-paced romance. If you're single, this card suggests fast-moving dating, or quick romantic developments. For those in relationships, the Eight of Wands indicates rapid relationship progress, swift communication, or fast changes. This card reminds you: love is moving fast. Keep pace. But also: don't rush important decisions.",
         "career": "Professionally, the Eight of Wands indicates rapid career movement, swift progress, or fast communication. This card supports acting quickly on opportunities, rapid career changes. The Eight of Wands reminds you: your career is moving fast. Keep pace. Act. But also: don't rush important decisions.",
-        "health": "The Eight of Wands governs rapid health changes, swift health progress, or fast health communication. This card supports acting quickly on health opportunities, rapid health improvements. The Eight of Wands reminds you: your health is moving. Keep pace. But also: don't rush healing.",
+        "health": "The Eight of Wands governs rapid health changes, swift health progress, or fast health communication. This card supports acting quickly on health opportunities, rapid health improvements. The Eight of Wands reminds you: your health is moving. Keep pace. But also: don't rush healing."
       },
       "reversed": {
         "subtitle": "Delays, frustration, scattered energy, miscommunication, haste",
         "general": "Reversed, the Eight of Wands indicates delays, frustration, or scattered energy. The wands are falling; the momentum is lost. The reversed Eight of Wands asks: what's causing delays? Are you scattered? This card reminds you: speed isn't always good. Slow down. Regroup. Or: are you moving too fast? Haste creates mistakes. Slow down. Focus. Then continue. Momentum will return.",
         "love": "In love, this reversal indicates relationship delays, frustration, or scattered romantic energy. If you're single, dating may feel frustrating. For those in relationships, the reversed Eight of Wands suggests working through miscommunication, or recognising when haste is creating problems. This card reminds you: love deserves attention. Slow down. Focus.",
         "career": "Career-wise, reversed Eight of Wands indicates career delays, frustration, or scattered energy. This card asks: what's causing delays? Are you scattered? Address it. Your career deserves focus. Give it.",
-        "health": "Reversed, this card indicates health delays, frustration, or scattered health energy. The reversed Eight of Wands asks: what's causing delays? Are you scattered? Address it. Your health deserves focus. Give it.",
+        "health": "Reversed, this card indicates health delays, frustration, or scattered health energy. The reversed Eight of Wands asks: what's causing delays? Are you scattered? Address it. Your health deserves focus. Give it."
       }
     }
   },
   {
-    "id": "wands_09_nine",
+    "id": "wands_09",
     "name": "Nine of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 9,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Nine_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Nine_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Tarot_Nine_of_Wands.jpg",
+    "imgFull": "./images/rws/Tarot_Nine_of_Wands.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Resilience, courage, persistence, test of faith, boundaries, last stand",
         "general": "The Nine of Wands depicts a wounded figure leaning on a wand, eight wands planted behind like a fence. The Nine of Wands represents resilience, courage, and the last stand. You've been through battles. You're still standing. The Nine of Wands asks you: what are you defending? Are you ready for one more challenge? This card reminds you: you're stronger than you know. You've survived. You can survive this too. Set boundaries. Stand firm. One more push. Then rest. You've earned it.",
         "love": "In love, the Nine of Wands indicates relationship resilience, defending love, or persistence through challenges. If you're single, this card suggests resilience in dating, or protecting your heart. For those in relationships, the Nine of Wands indicates working through challenges, or recognising when boundaries are needed. This card reminds you: love requires resilience. But also: don't defend endlessly. Know when to rest.",
         "career": "Professionally, the Nine of Wands indicates career resilience, defending position, or persistence through challenges. This card supports setting professional boundaries, persevering through difficulties. The Nine of Wands reminds you: your career requires resilience. But also: know when to rest.",
-        "health": "The Nine of Wands governs health resilience, defending health boundaries, or persistence through health challenges. This card supports health perseverance, recognising when rest is needed. The Nine of Wands reminds you: your health requires resilience. But also: rest is necessary. Take it.",
+        "health": "The Nine of Wands governs health resilience, defending health boundaries, or persistence through health challenges. This card supports health perseverance, recognising when rest is needed. The Nine of Wands reminds you: your health requires resilience. But also: rest is necessary. Take it."
       },
       "reversed": {
         "subtitle": "Exhaustion, giving up, paranoia, defensive, burnout, collapse",
         "general": "Reversed, the Nine of Wands indicates exhaustion, giving up, or defensive paranoia. The figure is falling; the wands are collapsing. The reversed Nine of Wands asks: are you exhausted, or paranoid? This card reminds you: you can't defend forever. Rest. Or: are you giving up too soon? Examine. If you're exhausted, rest. If you're paranoid, reality-check. Then decide. Collapse isn't failure. It's a signal. Listen.",
         "love": "In love, this reversal indicates relationship exhaustion, giving up, or defensive paranoia. If you're single, you may be exhausted from dating. For those in relationships, the reversed Nine of Wands suggests working through exhaustion, or recognising when defensiveness is creating problems. This card reminds you: love requires energy. Rest. Or let go. Both are valid.",
         "career": "Career-wise, reversed Nine of Wands indicates career exhaustion, giving up, or defensive paranoia. This card asks: are you exhausted, or paranoid? Address it. Your career deserves rest. Or release. Choose.",
-        "health": "Reversed, this card indicates health exhaustion, giving up, or defensive health paranoia. The reversed Nine of Wands asks: are you exhausted, or paranoid? Address it. Your health deserves rest. Or release. Choose.",
+        "health": "Reversed, this card indicates health exhaustion, giving up, or defensive health paranoia. The reversed Nine of Wands asks: are you exhausted, or paranoid? Address it. Your health deserves rest. Or release. Choose."
       }
     }
   },
   {
-    "id": "wands_10_ten",
+    "id": "wands_10",
     "name": "Ten of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 10,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Ten_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Ten_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Wands10.jpg",
+    "imgFull": "./images/rws/Wands10.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Burden, responsibility, hard work, completion, struggle, carrying the load",
         "general": "The Ten of Wands shows a figure carrying ten heavy wands, bent over, approaching a town. The Ten of Wands represents burden, responsibility, and carrying heavy loads. You're near completion, but the weight is crushing. The Ten of Wands asks you: what burden are you carrying? Is it yours to carry? This card reminds you: responsibility matters. But so does sustainability. You're almost there. Finish. Then delegate. Rest. You can't carry everything forever. Set down what isn't yours.",
         "love": "In love, the Ten of Wands indicates relationship burden, carrying too much responsibility, or struggling to maintain love. If you're single, this card suggests dating feels like work. For those in relationships, the Ten of Wands indicates working through burden, or recognising when you're carrying too much. This card reminds you: love shouldn't constantly crush. Share the load. Or set it down.",
         "career": "Professionally, the Ten of Wands indicates career burden, too much responsibility, or struggling under workload. This card supports delegating, recognising when burden is unsustainable. The Ten of Wands reminds you: your career deserves sustainability. Delegate. Rest. You can't carry everything.",
-        "health": "The Ten of Wands governs health burden, carrying health responsibility, or struggling under health challenges. This card supports recognising when health burden is too much, seeking support. The Ten of Wands reminds you: your health deserves support. Share the load. Seek help.",
+        "health": "The Ten of Wands governs health burden, carrying health responsibility, or struggling under health challenges. This card supports recognising when health burden is too much, seeking support. The Ten of Wands reminds you: your health deserves support. Share the load. Seek help."
       },
       "reversed": {
         "subtitle": "Release, delegation, collapse, breaking point, refusing burden",
         "general": "Reversed, the Ten of Wands indicates release, delegation, or reaching breaking point. The wands are falling; the burden is being dropped. The reversed Ten of Wands asks: are you releasing, or collapsing? This card reminds you: you can't carry everything. Delegate. Set down what isn't yours. Or: are you at breaking point? Rest. Recover. Then decide what to carry. Not everything deserves your back. Choose wisely.",
         "love": "In love, this reversal indicates releasing relationship burden, delegation, or reaching breaking point. If you're single, you may be releasing dating burden. For those in relationships, the reversed Ten of Wands suggests working through burden release, or recognising breaking point. This card reminds you: love shouldn't crush. Release. Delegate. Or leave.",
         "career": "Career-wise, reversed Ten of Wands indicates releasing career burden, delegation, or reaching breaking point. This card asks: are you releasing, or collapsing? Address it. Your career deserves sustainability. Create it.",
-        "health": "Reversed, this card indicates releasing health burden, delegation, or reaching breaking point. The reversed Ten of Wands asks: are you releasing, or collapsing? Address it. Your health deserves sustainability. Create it.",
+        "health": "Reversed, this card indicates releasing health burden, delegation, or reaching breaking point. The reversed Ten of Wands asks: are you releasing, or collapsing? Address it. Your health deserves sustainability. Create it."
       }
     }
   },
   {
-    "id": "wands_11_page",
+    "id": "wands_11",
     "name": "Page of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 11,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Page_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Page_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Wands11.jpg",
+    "imgFull": "./images/rws/Wands11.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Inspiration, exploration, new ideas, enthusiasm, discovery, messages",
         "general": "The Page of Wands stands in desert landscape, holding a wand, looking at it with excitement. The Page of Wands represents inspiration, exploration, and enthusiastic beginnings. This card asks you: what inspires you? What do you want to explore? The Page of Wands reminds you: enthusiasm is contagious. Follow your inspiration. Explore. Discover. New ideas are coming. Welcome them. Your excitement matters. Share it.",
         "love": "In love, the Page of Wands indicates enthusiastic love, exploring romance, or new relationship ideas. If you're single, this card suggests enthusiastic dating, or exploring new relationship possibilities. For those in relationships, the Page of Wands indicates bringing enthusiasm to love, or exploring together. This card reminds you: love benefits from enthusiasm. Explore. Discover together.",
         "career": "Professionally, the Page of Wands indicates career inspiration, exploring new directions, or enthusiastic beginnings. This card supports following career inspiration, exploring new opportunities. The Page of Wands reminds you: your career enthusiasm is valuable. Follow it. Explore.",
-        "health": "The Page of Wands governs health inspiration, exploring health approaches, or enthusiastic health beginnings. This card supports following health inspiration, exploring wellness. The Page of Wands reminds you: your health enthusiasm is valuable. Follow it. Explore.",
+        "health": "The Page of Wands governs health inspiration, exploring health approaches, or enthusiastic health beginnings. This card supports following health inspiration, exploring wellness. The Page of Wands reminds you: your health enthusiasm is valuable. Follow it. Explore."
       },
       "reversed": {
         "subtitle": "Lack of direction, delays, bad news, scattered energy, disappointment",
         "general": "Reversed, the Page of Wands indicates lack of direction, delays, or scattered energy. The Page's wand is pointing nowhere; the enthusiasm is gone. The reversed Page of Wands asks: what's dampening your enthusiasm? Are you scattered? This card reminds you: enthusiasm returns. Rest. Or: is this the right direction? Examine. Then redirect. Don't force enthusiasm. Find what genuinely excites you.",
         "love": "In love, this reversal indicates lack of romantic direction, delays, or scattered dating energy. If you're single, enthusiasm for dating may be low. For those in relationships, the reversed Page of Wands suggests working through enthusiasm loss, or recognising when direction is lacking. This card reminds you: love enthusiasm returns. Rest. Or rediscover together.",
         "career": "Career-wise, reversed Page of Wands indicates career direction loss, delays, or scattered energy. This card asks: what's dampening your enthusiasm? Address it. Your career deserves direction. Find it.",
-        "health": "Reversed, this card indicates health direction loss, delays, or scattered health energy. The reversed Page of Wands asks: what's dampening your health enthusiasm? Address it. Your health deserves direction. Find it.",
+        "health": "Reversed, this card indicates health direction loss, delays, or scattered health energy. The reversed Page of Wands asks: what's dampening your health enthusiasm? Address it. Your health deserves direction. Find it."
       }
     }
   },
   {
-    "id": "wands_12_knight",
+    "id": "wands_12",
     "name": "Knight of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 12,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Knight_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Knight_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Wands12.jpg",
+    "imgFull": "./images/rws/Wands12.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Energy, passion, adventure, impulsiveness, action-oriented, charisma",
         "general": "The Knight of Wands rides a rearing horse, wand raised, desert landscape behind. The Knight of Wands represents energy, passion, and adventurous action. He charges forward with enthusiasm. The Knight of Wands asks you: what adventure are you pursuing? Are you acting impulsively? This card reminds you: passion is powerful. Channel it. Adventure awaits. But also: consider consequences. Charge forward. But don't charge blindly. Your energy is magnetic. Use it wisely.",
         "love": "In love, the Knight of Wands indicates passionate romance, adventurous love, or impulsive relationship actions. If you're single, this card suggests passionate dating, or attracting charismatic partners. For those in relationships, the Knight of Wands indicates bringing passion to love, or adventurous relationship activities. This card reminds you: love benefits from passion. But also: don't be reckless. Balance passion with thought.",
         "career": "Professionally, the Knight of Wands indicates energetic career action, passionate work, or adventurous career moves. This card supports taking career risks, following passion. The Knight of Wands reminds you: your career passion is powerful. Channel it. But also: consider consequences. Balance passion with planning.",
-        "health": "The Knight of Wands governs energetic health approaches, passionate fitness, or adventurous wellness. This card supports active health pursuits, but warns against reckless health choices. The Knight of Wands reminds you: your health passion is powerful. Channel it. But also: don't be reckless. Balance passion with wisdom.",
+        "health": "The Knight of Wands governs energetic health approaches, passionate fitness, or adventurous wellness. This card supports active health pursuits, but warns against reckless health choices. The Knight of Wands reminds you: your health passion is powerful. Channel it. But also: don't be reckless. Balance passion with wisdom."
       },
       "reversed": {
         "subtitle": "Recklessness, impatience, burnout, scattered energy, delays, frustration",
         "general": "Reversed, the Knight of Wands indicates recklessness, impatience, or burnout. The Knight's horse is out of control; the energy is chaotic. The reversed Knight of Wands asks: are you being reckless? Are you burning out? This card reminds you: passion without direction is destruction. Slow down. Focus. Or: are you frustrated by delays? Patience is required. Rest. Regroup. Then continue. Your energy is valuable. Don't waste it.",
         "love": "In love, this reversal indicates reckless romance, impatience, or burnout from dating. If you're single, you may be attracting chaotic partners. For those in relationships, the reversed Knight of Wands suggests working through recklessness, or recognising when passion is becoming destructive. This card reminds you: love requires patience. Slow down. Focus.",
         "career": "Career-wise, reversed Knight of Wands indicates reckless career action, impatience, or burnout. This card asks: are you being reckless? Are you burning out? Address it. Your career deserves focused energy. Give it.",
-        "health": "Reversed, this card indicates reckless health approaches, impatience with health, or health burnout. The reversed Knight of Wands asks: are you being reckless? Are you burning out? Address it. Your health deserves focused energy. Give it.",
+        "health": "Reversed, this card indicates reckless health approaches, impatience with health, or health burnout. The reversed Knight of Wands asks: are you being reckless? Are you burning out? Address it. Your health deserves focused energy. Give it."
       }
     }
   },
   {
-    "id": "wands_13_queen",
+    "id": "wands_13",
     "name": "Queen of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 13,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_Queen_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_Queen_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Wands13.jpg",
+    "imgFull": "./images/rws/Wands13.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Confidence, determination, vitality, charisma, independence, warmth",
         "general": "The Queen of Wands sits on a throne, wand in hand, sunflowers and a black cat beside her. She radiates confidence and warmth. The Queen of Wands represents confidence, determination, and vibrant energy. She knows what she wants and goes after it. The Queen of Wands asks you: what are you determined to create? Are you owning your power? This card reminds you: your confidence is magnetic. Your warmth attracts. Your determination achieves. Own it. Share it. You're capable of great things. Claim your power.",
         "love": "In love, the Queen of Wands indicates confident love, determined pursuit of relationships, or vibrant romantic energy. If you're single, this card suggests confident dating, or attracting partners through charisma. For those in relationships, the Queen of Wands indicates bringing confidence to love, or vibrant partnership. This card reminds you: love benefits from confidence. Own your power. Share your warmth.",
         "career": "Professionally, the Queen of Wands indicates confident career leadership, determined pursuit of goals, or vibrant professional energy. This card supports entrepreneurial ventures, leadership roles, or charismatic professional presence. The Queen of Wands reminds you: your career confidence is powerful. Use it. Own your power.",
-        "health": "The Queen of Wands governs confident health approaches, determined wellness goals, or vibrant health energy. This card supports confident health decisions, determined health pursuits. The Queen of Wands reminds you: your health confidence is powerful. Use it. Own your vitality.",
+        "health": "The Queen of Wands governs confident health approaches, determined wellness goals, or vibrant health energy. This card supports confident health decisions, determined health pursuits. The Queen of Wands reminds you: your health confidence is powerful. Use it. Own your vitality."
       },
       "reversed": {
         "subtitle": "Selfishness, jealousy, insecurity, temper, controlling, burnout",
         "general": "Reversed, the Queen of Wands indicates selfishness, jealousy, or burnout. The Queen's warmth has become fire that burns. The reversed Queen of Wands asks: are you being selfish? Are you burning out? This card reminds you: confidence without compassion is arrogance. Check yourself. Or: are you insecure, lashing out? Address it. Your power is real. Don't misuse it. Temper your fire. Share warmth, not burns.",
         "love": "In love, this reversal indicates selfish love, jealousy, or controlling behaviour. If you're single, you may be attracting toxic partners. For those in relationships, the reversed Queen of Wands suggests working through jealousy, or recognising when confidence has become arrogance. This card reminds you: love requires humility. Check yourself. Share warmth, not burns.",
         "career": "Career-wise, reversed Queen of Wands indicates selfish career behaviour, jealousy, or controlling leadership. This card asks: are you being selfish? Are you burning out? Address it. Your career deserves humility. Give it.",
-        "health": "Reversed, this card indicates selfish health approaches, jealousy about health, or health burnout. The reversed Queen of Wands asks: are you being selfish? Are you burning out? Address it. Your health deserves humility. Give it.",
+        "health": "Reversed, this card indicates selfish health approaches, jealousy about health, or health burnout. The reversed Queen of Wands asks: are you being selfish? Are you burning out? Address it. Your health deserves humility. Give it."
       }
     }
   },
   {
-    "id": "wands_14_king",
+    "id": "wands_14",
     "name": "King of Wands",
     "arcana": "minor",
     "suit": "wands",
     "number": 14,
-    "imgThumb": "./images/rws-thumb/RWS_Tarot_King_of_Wands.jpg",
-    "imgFull": "./images/rws/RWS_Tarot_King_of_Wands.jpg",
+    "imgThumb": "./images/rws-thumb/Wands14.jpg",
+    "imgFull": "./images/rws/Wands14.jpg",
     "meanings": {
       "upright": {
         "subtitle": "Leadership, vision, entrepreneurship, honour, bold action, charisma",
         "general": "The King of Wands sits on a throne decorated with salamanders and lions, wand upright, crown shaped like flames. The King of Wands represents visionary leadership, entrepreneurship, and bold action. He leads with fire and honour. The King of Wands asks you: what are you leading? Are you acting with honour? This card reminds you: your vision is powerful. Your leadership matters. Act boldly. But also: lead with integrity. Fire warms and destroys. Choose which. Your charisma inspires. Use it wisely.",
         "love": "In love, the King of Wands indicates visionary love, bold relationship leadership, or charismatic partnership. If you're single, this card suggests attracting visionary partners, or being that partner yourself. For those in relationships, the King of Wands indicates leading relationships with vision, or bold love actions. This card reminds you: love benefits from vision. Lead with integrity. Fire warms. Don't burn.",
         "career": "Professionally, the King of Wands indicates entrepreneurial leadership, visionary career moves, or bold professional action. This card supports business leadership, entrepreneurial ventures, or charismatic professional presence. The King of Wands reminds you: your career vision is powerful. Lead with integrity. Act boldly. But honourably.",
-        "health": "The King of Wands governs visionary health leadership, bold health actions, or charismatic health influence. This card supports confident health leadership, but warns against reckless health choices. The King of Wands reminds you: your health vision is powerful. Lead with integrity. Act boldly. But wisely.",
+        "health": "The King of Wands governs visionary health leadership, bold health actions, or charismatic health influence. This card supports confident health leadership, but warns against reckless health choices. The King of Wands reminds you: your health vision is powerful. Lead with integrity. Act boldly. But wisely."
       },
       "reversed": {
         "subtitle": "Tyrant, impulsive, ruthless, high-handed, burnout, destructive fire",
         "general": "Reversed, the King of Wands indicates tyranny, impulsiveness, or destructive fire. The King's crown is askew; his fire burns indiscriminately. The reversed King of Wands asks: are you leading with tyranny? Are you being impulsive? This card reminds you: power corrupts. Check yourself. Or: are you burning out? Rest. Your fire is powerful. Don't let it destroy. Lead with wisdom. Or step down.",
         "love": "In love, this reversal indicates tyrannical love, impulsive relationship actions, or destructive fire. If you're single, you may be attracting toxic partners. For those in relationships, the reversed King of Wands suggests working through controlling behaviour, or recognising when passion has become destruction. This card reminds you: love requires respect. Stop tyrannising. Lead with love, not fire.",
         "career": "Career-wise, reversed King of Wands indicates tyrannical leadership, impulsive career decisions, or destructive professional fire. This card asks: are you leading with respect? Are you burning out? Address it. Your career deserves wise leadership. Give it.",
-        "health": "Reversed, this card indicates tyrannical health approaches, impulsive health decisions, or destructive health fire. The reversed King of Wands asks: are you being wise? Are you burning out? Address it. Your health deserves respectful leadership. Give it.",
+        "health": "Reversed, this card indicates tyrannical health approaches, impulsive health decisions, or destructive health fire. The reversed King of Wands asks: are you being wise? Are you burning out? Address it. Your health deserves respectful leadership. Give it."
       }
     }
   }

@@ -3,6 +3,11 @@ import { DECK } from './cards.js';
 const tableEl = document.getElementById('table');
 const dealBtn = document.getElementById('dealBtn');
 const allowReversedEl = document.getElementById('allowReversed');
+const spreadSelectEl = document.getElementById('spreadSelect');
+const spreadPromptEl = document.getElementById('spreadPrompt');
+const spreadSlotsEl = document.getElementById('spreadSlots');
+const threeCardToggleEl = document.getElementById('threeCardToggle');
+const threeCardSelectEl = document.getElementById('threeCardSelect');
 
 const modal = document.getElementById('modal');
 const modalImg = document.getElementById('modalImg');
@@ -24,22 +29,99 @@ function shuffle(arr) {
 
 // (scatter helper removed for grid layout)
 
+const SPREADS = {
+  simple: { id: 'simple', name: 'Simple (free draw)' },
+  three: { id: 'three', name: '3 Card Spread', slots: ['a', 'b', 'c'] }
+};
+
+const THREE_VARIANTS = {
+  ppf: ['Past', 'Present', 'Future'],
+  sao: ['Situation', 'Action', 'Outcome'],
+  mbs: ['Mind', 'Body', 'Spirit'],
+  ytr: ['You', 'Them', 'Relationship'],
+  ynm: ['Yes', 'No', 'Maybe']
+};
+
+let spreadId = 'simple';
+let ppfIndex = 0;
+
+function resetSpreadState() {
+  ppfIndex = 0;
+  updateSpreadUI();
+}
+
+function setThreeSlotLabels(labels) {
+  if (!spreadSlotsEl) return;
+  const slots = Array.from(spreadSlotsEl.querySelectorAll('.slot'));
+  for (let i = 0; i < slots.length; i++) {
+    const lab = slots[i].querySelector('.slot__label');
+    if (lab) lab.textContent = labels[i] ?? '';
+  }
+}
+
+function getThreeLabels() {
+  const variant = threeCardSelectEl?.value || 'ppf';
+  return THREE_VARIANTS[variant] || THREE_VARIANTS.ppf;
+}
+
+function updateSpreadUI() {
+  spreadId = spreadSelectEl?.value || 'simple';
+
+  // Hook for CSS tweaks based on mode
+  tableEl?.classList.toggle('mode-ppf', spreadId === 'three');
+
+  if (spreadId === 'three') {
+    spreadSlotsEl.hidden = false;
+    threeCardToggleEl.hidden = false;
+
+    const labels = getThreeLabels();
+    setThreeSlotLabels(labels);
+
+    const label = labels[ppfIndex] || null;
+    if (label) {
+      spreadPromptEl.textContent = `Select a card for ${label}.`;
+    } else {
+      spreadPromptEl.textContent = 'Spread complete. Tap a selected card to view its meaning.';
+    }
+  } else {
+    spreadSlotsEl.hidden = true;
+    threeCardToggleEl.hidden = true;
+    spreadPromptEl.textContent = '';
+  }
+}
+
 function clearTable() {
-  tableEl.innerHTML = '';
+  // Remove dealt deck cards/placeholders but keep the spread row mounted inside the table.
+  for (const el of Array.from(tableEl.querySelectorAll(':scope > .card'))) {
+    el.remove();
+  }
+
+  // Clear spread wells too
+  if (spreadSlotsEl) {
+    for (const well of spreadSlotsEl.querySelectorAll('[data-well]')) {
+      well.innerHTML = '';
+    }
+  }
 }
 
 async function deal() {
-  // If cards exist, animate them back to the deck before re-dealing.
-  const existing = Array.from(tableEl.querySelectorAll('.card'));
+  resetSpreadState();
+
+  // If cards exist, animate the dealt deck back to the deck before re-dealing.
+  // (Exclude placeholders + spread cards.)
+  const existing = Array.from(tableEl.querySelectorAll(':scope > .card:not(.placeholder)'));
   if (existing.length) {
     await animateClear(existing);
-    clearTable();
-  } else {
-    clearTable();
   }
+  clearTable();
 
   const allowReversed = allowReversedEl.checked;
   const deck = shuffle(DECK);
+
+  // Ensure the spread row lives inside the table and stays at the bottom.
+  if (spreadSlotsEl && spreadSlotsEl.parentElement !== tableEl) {
+    tableEl.appendChild(spreadSlotsEl);
+  }
 
   // Grid layout: CSS handles the placement.
   deck.forEach((card, idx) => {
@@ -76,12 +158,17 @@ async function deal() {
       handleCardClick(el);
     });
 
-    tableEl.appendChild(el);
+    // Insert before the spread row so the spread stays visually at the bottom.
+    if (spreadSlotsEl && spreadSlotsEl.parentElement === tableEl) {
+      tableEl.insertBefore(el, spreadSlotsEl);
+    } else {
+      tableEl.appendChild(el);
+    }
   });
 
   // Compute "from deck" offsets after layout.
   const origin = getDealOrigin();
-  const cards = Array.from(tableEl.querySelectorAll('.card'));
+  const cards = Array.from(tableEl.querySelectorAll(':scope > .card:not(.placeholder)'));
   for (const el of cards) {
     const r = el.getBoundingClientRect();
     const cx = r.left + r.width / 2;
@@ -111,17 +198,93 @@ function ensureFrontLoaded(cardEl) {
   front.appendChild(img);
 }
 
+function getSlotWellByIndex(i) {
+  if (!spreadSlotsEl) return null;
+  const slots = Array.from(spreadSlotsEl.querySelectorAll('.slot'));
+  const slot = slots[i];
+  if (!slot) return null;
+  return slot.querySelector('[data-well]');
+}
+
+function animateMove(el, toParent) {
+  // FLIP animation
+  const first = el.getBoundingClientRect();
+  toParent.appendChild(el);
+  const last = el.getBoundingClientRect();
+
+  const dx = first.left - last.left;
+  const dy = first.top - last.top;
+
+  // Keep existing rotation
+  const rot = getComputedStyle(el).getPropertyValue('--rot') || '0deg';
+
+  el.animate(
+    [
+      { transform: `translate(${dx}px, ${dy}px) scale(1) rotate(${rot})` },
+      { transform: `translate(0, 0) scale(1) rotate(${rot})` }
+    ],
+    { duration: 360, easing: 'cubic-bezier(.2,.85,.2,1)' }
+  );
+}
+
 function handleCardClick(cardEl) {
   const isFlipped = cardEl.classList.contains('is-flipped');
+  const inSpread = !!cardEl.closest('#spreadSlots');
 
+  // In spread: clicking always opens modal.
+  if (inSpread) {
+    openModal(cardEl.dataset.cardId, cardEl.dataset.orientation);
+    return;
+  }
+
+  if (spreadId === 'three') {
+    const labels = getThreeLabels();
+    const label = labels[ppfIndex];
+
+    // If spread is complete, treat as normal flip->modal behavior.
+    if (!label) {
+      if (!isFlipped) {
+        ensureFrontLoaded(cardEl);
+        cardEl.classList.add('is-flipped');
+        return;
+      }
+      openModal(cardEl.dataset.cardId, cardEl.dataset.orientation);
+      return;
+    }
+
+    // Selecting a card for the next position.
+    ensureFrontLoaded(cardEl);
+    cardEl.classList.add('is-flipped');
+
+    // Leave a blank slot behind so the grid doesn't collapse.
+    // We insert a placeholder *before* moving the card into the spread well.
+    if (!cardEl.classList.contains('placeholder') && cardEl.parentElement === tableEl) {
+      const ph = document.createElement('div');
+      ph.className = 'card placeholder';
+      ph.setAttribute('aria-hidden', 'true');
+      // Keep the same slight rotation so the "hole" matches the original card footprint.
+      const rot = getComputedStyle(cardEl).getPropertyValue('--rot') || '0deg';
+      ph.style.setProperty('--rot', rot);
+      cardEl.insertAdjacentElement('beforebegin', ph);
+    }
+
+    const well = getSlotWellByIndex(ppfIndex);
+    if (well) {
+      animateMove(cardEl, well);
+    }
+
+    ppfIndex += 1;
+    updateSpreadUI();
+    return;
+  }
+
+  // Simple mode: flip on first click, modal on second.
   if (!isFlipped) {
-    // First click: reveal and lazy-load image.
     ensureFrontLoaded(cardEl);
     cardEl.classList.add('is-flipped');
     return;
   }
 
-  // Second click: open modal.
   openModal(cardEl.dataset.cardId, cardEl.dataset.orientation);
 }
 
@@ -199,6 +362,15 @@ window.addEventListener('resize', () => {
 });
 
 dealBtn.addEventListener('click', () => deal());
+spreadSelectEl?.addEventListener('change', () => {
+  resetSpreadState();
+});
+
+threeCardSelectEl?.addEventListener('change', () => {
+  // Changing the interpretation labels shouldn't require a redeal,
+  // but it should refresh prompts/labels.
+  updateSpreadUI();
+});
 
 // Service worker cleanup: this project no longer uses a SW.
 // Keeps deployed sites from behaving oddly due to cached SW responses.
@@ -209,4 +381,5 @@ if ('serviceWorker' in navigator) {
 }
 
 // First load: empty table (forces intentional deal)
+updateSpreadUI();
 clearTable();

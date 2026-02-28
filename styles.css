@@ -29,6 +29,19 @@ h1{ margin:0; font-size:20px; letter-spacing:0.2px; }
 .sub{ margin:6px 0 0; color:var(--muted); font-size:13px; }
 
 .controls{ display:flex; gap:12px; align-items:center; flex-wrap:wrap; }
+.select{
+  border:1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.06);
+  color: var(--text);
+  padding:10px 10px;
+  border-radius:12px;
+}
+
+/* Dropdown list styling (varies by browser/OS, but helps on most) */
+.select option{
+  color: #3b4048; /* dark-ish grey for unselected options */
+  background: #f3f5f7;
+}
 .btn{
   border:1px solid rgba(255,255,255,0.12);
   background: rgba(255,255,255,0.06);
@@ -43,9 +56,64 @@ h1{ margin:0; font-size:20px; letter-spacing:0.2px; }
 
 .toggle{ display:flex; gap:8px; align-items:center; user-select:none; color:var(--muted); font-size:13px; }
 
+.layout{
+  display:flex;
+  flex-direction:column;
+  gap: 10px;
+}
+
+.spread__prompt{
+  margin: 0 12px;
+  min-height: 18px;
+  font-size: 13px;
+}
+
+/* Spread row sits INSIDE the .table grid and spans the full width */
+.spread__slots{
+  grid-column: 1 / -1;
+  display:flex;
+  justify-content:center;
+  align-items:flex-start;
+  gap: 18px;
+  padding-top: 8px;
+  padding-bottom: 6px;
+}
+
+/* Remove the "box" look */
+.slot{
+  border: none;
+  background: transparent;
+  border-radius: 0;
+  padding: 0;
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+}
+
+.slot__label{
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 8px;
+  display: none;
+}
+
+/* Only show Past/Present/Future labels when that mode is active */
+.table.mode-ppf .slot__label{ display: block; }
+
+.slot__well{
+  width: var(--card-w);
+  aspect-ratio: 3 / 5;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+/* Make spread cards match table sizing */
+.slot .card{ max-width: var(--card-w); }
+
 .table{
   position:relative;
-  height: calc(100vh - 86px);
+  height: calc(100vh - 170px);
   margin: 0 12px 12px;
   border-radius: 18px;
   overflow:auto;
@@ -81,6 +149,15 @@ h1{ margin:0; font-size:20px; letter-spacing:0.2px; }
     transform 520ms cubic-bezier(.2,.85,.2,1),
     opacity 520ms cubic-bezier(.2,.85,.2,1);
   will-change: transform, opacity;
+}
+
+/* Placeholder that keeps an empty space in the grid when a card is moved into a spread */
+.card.placeholder{
+  cursor: default;
+  pointer-events: none;
+  opacity: 0;
+  /* keep its footprint stable (same transforms/rot as a normal card) */
+  transform: translate(0,0) scale(1) rotate(var(--rot));
 }
 
 .card.from-deck{

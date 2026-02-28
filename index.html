@@ -15,6 +15,26 @@
 
     <div class="controls">
       <button id="dealBtn" class="btn primary">Deal the cards</button>
+
+      <label class="toggle">
+        <span>Mode</span>
+        <select id="spreadSelect" class="select">
+          <option value="simple" selected>Simple (free draw)</option>
+          <option value="three">3 Card Spread</option>
+        </select>
+      </label>
+
+      <label id="threeCardToggle" class="toggle" hidden>
+        <span>3-card</span>
+        <select id="threeCardSelect" class="select">
+          <option value="ppf" selected>Past / Present / Future</option>
+          <option value="sao">Situation / Action / Outcome</option>
+          <option value="mbs">Mind / Body / Spirit</option>
+          <option value="ytr">You / Them / Relationship</option>
+          <option value="ynm">Yes / No / Maybe</option>
+        </select>
+      </label>
+
       <label class="toggle">
         <input id="allowReversed" type="checkbox" checked />
         <span>Allow reversals (50/50)</span>
@@ -22,8 +42,26 @@
     </div>
   </header>
 
-  <main>
-    <section id="table" class="table" aria-label="Tarot table"></section>
+  <main class="layout">
+    <div id="spreadPrompt" class="spread__prompt muted" aria-live="polite"></div>
+
+    <section id="table" class="table" aria-label="Tarot table">
+      <!-- Spread row lives inside the table grid so it always sits below the dealt deck -->
+      <div id="spreadSlots" class="spread__slots" hidden>
+        <div class="slot">
+          <div class="slot__well" data-well></div>
+          <div class="slot__label">Past</div>
+        </div>
+        <div class="slot">
+          <div class="slot__well" data-well></div>
+          <div class="slot__label">Present</div>
+        </div>
+        <div class="slot">
+          <div class="slot__well" data-well></div>
+          <div class="slot__label">Future</div>
+        </div>
+      </div>
+    </section>
   </main>
 
   <dialog id="modal" class="modal">
@@ -41,14 +79,14 @@
             <h3>General meaning</h3>
             <p id="mGeneral"></p>
 
+            <h3>Health & spirituality</h3>
+            <p id="mHealth"></p>
+            
             <h3>Love & relationships</h3>
             <p id="mLove"></p>
 
             <h3>Money & career</h3>
             <p id="mCareer"></p>
-
-            <h3>Health & spirituality</h3>
-            <p id="mHealth"></p>
           </div>
         </div>
       </div>

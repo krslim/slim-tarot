@@ -8,6 +8,7 @@ const spreadPromptEl = document.getElementById('spreadPrompt');
 const spreadSlotsEl = document.getElementById('spreadSlots');
 const threeCardToggleEl = document.getElementById('threeCardToggle');
 const threeCardSelectEl = document.getElementById('threeCardSelect');
+const modeHintEl = document.getElementById('modeHint');
 
 const modal = document.getElementById('modal');
 const modalImg = document.getElementById('modalImg');
@@ -77,6 +78,11 @@ function updateSpreadUI() {
     const labels = getThreeLabels();
     setThreeSlotLabels(labels);
 
+    // Top hint under the title
+    if (modeHintEl) {
+      modeHintEl.textContent = `3 Card Spread — Choose three cards for ${labels.join(' / ')}.`;
+    }
+
     const label = labels[ppfIndex] || null;
     if (label) {
       spreadPromptEl.textContent = `Select a card for ${label}.`;
@@ -87,6 +93,10 @@ function updateSpreadUI() {
     spreadSlotsEl.hidden = true;
     threeCardToggleEl.hidden = true;
     spreadPromptEl.textContent = '';
+
+    if (modeHintEl) {
+      modeHintEl.textContent = 'Simple (free draw) — Deal the deck, then click a card to flip it. Click again for details.';
+    }
   }
 }
 

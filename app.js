@@ -363,13 +363,15 @@ window.addEventListener('resize', () => {
 
 dealBtn.addEventListener('click', () => deal());
 spreadSelectEl?.addEventListener('change', () => {
-  resetSpreadState();
+  // Switching modes should always start fresh.
+  deal();
 });
 
 threeCardSelectEl?.addEventListener('change', () => {
-  // Changing the interpretation labels shouldn't require a redeal,
-  // but it should refresh prompts/labels.
-  updateSpreadUI();
+  // Switching 3-card interpretation should also start fresh (avoids selecting from old flipped cards).
+  if ((spreadSelectEl?.value || 'simple') === 'three') {
+    deal();
+  }
 });
 
 // Service worker cleanup: this project no longer uses a SW.

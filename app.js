@@ -223,7 +223,7 @@ function animateMove(el, toParent) {
       { transform: `translate(${dx}px, ${dy}px) scale(1) rotate(${rot})` },
       { transform: `translate(0, 0) scale(1) rotate(${rot})` }
     ],
-    { duration: 360, easing: 'cubic-bezier(.2,.85,.2,1)' }
+    { duration: 1200, easing: 'cubic-bezier(.2,.85,.2,1)' }
   );
 }
 
